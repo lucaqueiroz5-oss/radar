@@ -1,0 +1,12 @@
+{
+  "name": "radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portal de notícias pessoal que se atualiza a cada hora",
+  "scripts": {
+    "gerar": "node scripts/gerar.mjs",
+    "test": "node test/criar-fixture.mjs && RADAR_FIXTURE=test/fixture node scripts/gerar.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
