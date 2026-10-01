@@ -52,8 +52,6 @@
     {"nome": "Varejo alimentar Brasil", "secao": "varejo", "gn": "supermercado OR supermercados OR atacarejo OR \"varejo alimentar\"", "lang": "pt", "peso": 2},
     {"nome": "Valor (Varejo)", "secao": "varejo", "gn": "(supermercado OR Assaí OR Carrefour OR GPA OR \"Grupo Mateus\") site:valor.globo.com", "lang": "pt", "peso": 3},
     {"nome": "Pipeline (Varejo)", "secao": "varejo", "gn": "(supermercado OR varejo OR atacarejo OR Assaí OR Carrefour OR GPA OR Mateus) site:pipelinevalor.globo.com", "lang": "pt", "peso": 3, "dias": 3, "destaque": true},
-    {"nome": "Giro News (Supermercado)", "secao": "varejo", "rss": "https://gironews.com/categoria/supermercado/feed/", "lang": "pt", "peso": 3, "dedicado": true},
-    {"nome": "Giro News (Atacado)", "secao": "varejo", "rss": "https://gironews.com/categoria/atacado-cash-carry/feed/", "lang": "pt", "peso": 3, "dedicado": true},
     {"nome": "Giro News", "secao": "varejo", "gn": "(supermercado OR supermercados OR atacarejo OR atacado OR varejo) site:gironews.com", "lang": "pt", "peso": 3, "dedicado": true},
     {"nome": "SuperHiper (ABRAS)", "secao": "varejo", "gn": "site:superhiper.com.br", "lang": "pt", "peso": 2},
     {"nome": "Supermarket News", "secao": "varejo", "gn": "site:supermarketnews.com", "lang": "en", "peso": 2},
