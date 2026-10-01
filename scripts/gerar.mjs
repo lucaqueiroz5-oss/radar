@@ -157,7 +157,7 @@ function pagina(porSecao, agora, status) {
 <style>${CSS}</style></head><body><div class="wrap">
 <header class="masthead"><h1 class="wordmark">Radar<span class="dotrow" aria-hidden="true"><b style="background:var(--esporte)"></b><b style="background:var(--politica)"></b><b style="background:var(--economia)"></b><b style="background:var(--varejo)"></b></span></h1>
 <div class="dateline"><strong>${dia(agora)}</strong>Atualiza sozinho a cada hora</div></header>
-<div class="pulse"><div><span>Atualizado às</span><strong>${hora(agora)}</strong></div><div><span>Próxima atualização</span><strong>por volta das ${hora(agora, 36e5)}</strong></div><div><span>Notícias na edição</span><strong>${total}</strong></div><div><span>Fontes respondendo</span><strong>${ok} de ${status.length}</strong></div></div>
+<div class="pulse"><div><span>Atualizado às</span><strong>${hora(agora)}</strong></div><div><span>Idade desta edição</span><strong id="idade" data-gerado="${agora.toISOString()}">agora</strong></div><div><span>Notícias na edição</span><strong>${total}</strong></div><div><span>Fontes respondendo</span><strong>${ok} de ${status.length}</strong></div></div>
 <div class="teams">${poster("spfc", porSecao.spfc)}${poster("steelers", porSecao.steelers)}</div>
 <nav class="portals" aria-label="Seus portais"><span class="plabel">Seus portais</span>
 <a href="https://www.uol.com.br/" target="_blank" rel="noopener"><i style="--p:#F2A900">U</i>UOL</a>
@@ -225,7 +225,7 @@ const marcar=()=>document.querySelectorAll("time[datetime]").forEach(t=>t.textCo
 const bt=document.querySelectorAll(".filters button"),secs=document.querySelectorAll("section.cat");
 function f(v){bt.forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.f===v)));secs.forEach(s=>{const id=s.dataset.s;const show=v==="all"||(v==="meus"&&(id==="spfc"||id==="steelers"))||(v==="esporte"&&["spfc","steelers","esporte"].includes(id))||v===id;s.classList.toggle("hidden",!show)});try{localStorage.setItem("radar-f",v)}catch(e){}}
 bt.forEach(b=>b.onclick=()=>f(b.dataset.f));let s="all";try{s=localStorage.getItem("radar-f")||"all"}catch(e){}f(s);
-setInterval(()=>{if(document.visibilityState==="visible")location.reload()},30*6e4);`;
+const idade=()=>{const el=document.getElementById("idade");if(!el)return;const m=Math.round((Date.now()-new Date(el.dataset.gerado))/6e4);el.textContent=m<1?"agora":m<60?m+" min":Math.floor(m/60)+" h "+(m%60)+" min";el.style.color=m>90?"#FF8A94":""};idade();setInterval(idade,3e4);\nsetInterval(()=>{if(document.visibilityState==="visible")location.reload()},10*6e4);`;
 
 /* ---------- execução ---------- */
 const agora = new Date();
