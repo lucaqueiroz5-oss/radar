@@ -2,7 +2,7 @@ name: Radar
 
 on:
   schedule:
-    - cron: "7 * * * *"   # a cada hora, no minuto 7 (UTC). GitHub pode atrasar alguns minutos.
+    - cron: "7,27,47 * * * *"   # 3 tentativas por hora: o agendador do GitHub atrasa ou pula execuções
   workflow_dispatch: {}    # botão "Run workflow" para atualizar na hora
   push:
     branches: [main]
