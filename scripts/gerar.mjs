@@ -88,7 +88,7 @@ function parse(xml, fonte) {
     let resumo = fonte.rss ? semHtml(tag(b, "description") || tag(b, "summary") || tag(b, "content")) : "";
     if (resumo.length > 260) resumo = resumo.slice(0, 250).replace(/\s\S*$/, "") + "…";
     return { titulo, link, veiculo, resumo, data: isNaN(data) ? null : data.toISOString(),
-             secao: fonte.secao, fonte: fonte.nome, lang: fonte.lang, peso: fonte.peso ?? 1, setorista: !!fonte.setorista, destaque: !!fonte.destaque, dias: fonte.dias ?? 1 };
+             secao: fonte.secao, fonte: fonte.nome, lang: fonte.lang, peso: fonte.peso ?? 1, setorista: !!fonte.setorista, destaque: !!fonte.destaque, dedicado: !!fonte.dedicado, dias: fonte.dias ?? 1 };
   }).filter(n => n.titulo && n.link);
 }
 
@@ -109,7 +109,7 @@ function ranquear(noticias, agora) {
   for (const s of Object.keys(SECOES)) {
     const porVeiculo = {};
     porSecao[s] = [...vistos.values()]
-      .filter(n => n.secao === s && (!TEMAS[s] || TEMAS[s].test(`${n.titulo} ${n.veiculo}`)))
+      .filter(n => n.secao === s && (n.dedicado || !TEMAS[s] || TEMAS[s].test(`${n.titulo} ${n.veiculo}`)))
       .sort((a, b) => b.score - a.score)
       .filter(n => { const v = chave(n.veiculo); porVeiculo[v] = (porVeiculo[v] ?? 0) + 1; return n.destaque || porVeiculo[v] <= MAX_VEICULO; })
       .slice(0, SECOES[s].limite);
@@ -173,6 +173,7 @@ function pagina(porSecao, agora, status) {
 <a href="https://valor.globo.com/" target="_blank" rel="noopener"><i style="--p:#0E5C5A">V</i>Valor</a>
 <a href="https://pipelinevalor.globo.com/" target="_blank" rel="noopener"><i style="--p:#0E5C5A">P</i>Pipeline</a>
 <a href="https://braziljournal.com/" target="_blank" rel="noopener"><i style="--p:#E8A200">B</i>Brazil Journal</a>
+<a href="https://gironews.com/" target="_blank" rel="noopener"><i style="--p:#075192">G</i>Giro News</a>
 <a href="https://www.cnnbrasil.com.br/" target="_blank" rel="noopener"><i style="--p:#CC0000">CNN</i>CNN Brasil</a>
 <a href="https://www.steelers.com/news/" target="_blank" rel="noopener"><i style="--p:#0B1626;color:#FFB612">P</i>Steelers.com</a>
 <a href="https://www.post-gazette.com/sports/steelers" target="_blank" rel="noopener"><i style="--p:#1B1B1B">PG</i>Post-Gazette</a>
