@@ -26,7 +26,7 @@ const TEMA_VAREJO = /supermerc|atacarej|varej|hipermerc|assa[ií]|carrefour|\bgp
 function urlDa(fonte) {
   if (fonte.rss) return fonte.rss;
   const en = fonte.lang === "en";
-  const q = encodeURIComponent(`${fonte.gn} when:1d`);
+  const q = encodeURIComponent(`${fonte.gn} when:${fonte.dias ?? 1}d`);
   return en
     ? `https://news.google.com/rss/search?q=${q}&hl=en-US&gl=US&ceid=US:en`
     : `https://news.google.com/rss/search?q=${q}&hl=pt-BR&gl=BR&ceid=BR:pt-419`;
@@ -82,7 +82,7 @@ function parse(xml, fonte) {
     let resumo = fonte.rss ? semHtml(tag(b, "description") || tag(b, "summary") || tag(b, "content")) : "";
     if (resumo.length > 260) resumo = resumo.slice(0, 250).replace(/\s\S*$/, "") + "…";
     return { titulo, link, veiculo, resumo, data: isNaN(data) ? null : data.toISOString(),
-             secao: fonte.secao, fonte: fonte.nome, lang: fonte.lang, peso: fonte.peso ?? 1, setorista: !!fonte.setorista };
+             secao: fonte.secao, fonte: fonte.nome, lang: fonte.lang, peso: fonte.peso ?? 1, setorista: !!fonte.setorista, destaque: !!fonte.destaque, dias: fonte.dias ?? 1 };
   }).filter(n => n.titulo && n.link);
 }
 
@@ -93,8 +93,8 @@ function ranquear(noticias, agora) {
   for (const n of noticias) {
     if (!n.data) continue;
     const idadeH = (agora - new Date(n.data)) / 36e5;
-    if (idadeH < -1 || idadeH > JANELA_H) continue;
-    n.score = (1 - idadeH / JANELA_H) * 10 + n.peso * 2 + (n.setorista ? 2 : 0) + (n.resumo ? 0.5 : 0);
+    if (idadeH < -1 || idadeH > (n.destaque ? Math.max(JANELA_H, n.dias * 24) : JANELA_H)) continue;
+    n.score = Math.max(0, 1 - idadeH / JANELA_H) * 10 + n.peso * 2 + (n.setorista ? 2 : 0) + (n.destaque ? 6 : 0) + (n.resumo ? 0.5 : 0);
     const k = chave(n.titulo);
     const ja = vistos.get(k);
     if (!ja || ja.score < n.score) vistos.set(k, n);
@@ -105,7 +105,7 @@ function ranquear(noticias, agora) {
     porSecao[s] = [...vistos.values()]
       .filter(n => n.secao === s && (s !== "varejo" || TEMA_VAREJO.test(n.titulo)))
       .sort((a, b) => b.score - a.score)
-      .filter(n => { const v = chave(n.veiculo); porVeiculo[v] = (porVeiculo[v] ?? 0) + 1; return porVeiculo[v] <= MAX_VEICULO; })
+      .filter(n => { const v = chave(n.veiculo); porVeiculo[v] = (porVeiculo[v] ?? 0) + 1; return n.destaque || porVeiculo[v] <= MAX_VEICULO; })
       .slice(0, SECOES[s].limite);
   }
   return porSecao;
