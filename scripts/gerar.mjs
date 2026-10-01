@@ -165,6 +165,7 @@ function pagina(porSecao, agora, status) {
 <a href="https://g1.globo.com/" target="_blank" rel="noopener"><i style="--p:#C4170C">g1</i>g1</a>
 <a href="https://oglobo.globo.com/politica/" target="_blank" rel="noopener"><i style="--p:#1A5EFF">g</i>O Globo</a>
 <a href="https://valor.globo.com/" target="_blank" rel="noopener"><i style="--p:#0E5C5A">V</i>Valor</a>
+<a href="https://pipelinevalor.globo.com/" target="_blank" rel="noopener"><i style="--p:#0E5C5A">P</i>Pipeline</a>
 <a href="https://braziljournal.com/" target="_blank" rel="noopener"><i style="--p:#E8A200">B</i>Brazil Journal</a>
 <a href="https://www.cnnbrasil.com.br/" target="_blank" rel="noopener"><i style="--p:#CC0000">CNN</i>CNN Brasil</a>
 <a href="https://www.steelers.com/news/" target="_blank" rel="noopener"><i style="--p:#0B1626;color:#FFB612">P</i>Steelers.com</a>
