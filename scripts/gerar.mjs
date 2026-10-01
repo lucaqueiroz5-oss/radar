@@ -98,6 +98,8 @@ function ranquear(noticias, agora) {
   const vistos = new Map();
   for (const n of noticias) {
     if (!n.data) continue;
+    // descarta páginas de categoria/arquivo que o Google News às vezes indexa como notícia
+    if (/^arquivos?\b|^(categoria|tag)\b| - giro news$/i.test(n.titulo) || n.titulo.split(/\s+/).length < 4) continue;
     const idadeH = (agora - new Date(n.data)) / 36e5;
     if (idadeH < -1 || idadeH > (n.destaque ? Math.max(JANELA_H, n.dias * 24) : JANELA_H)) continue;
     n.score = Math.max(0, 1 - idadeH / JANELA_H) * 10 + n.peso * 2 + (n.setorista ? 2 : 0) + (n.destaque ? 6 : 0) + (n.resumo ? 0.5 : 0);
