@@ -20,6 +20,9 @@ const SECOES = {
 };
 for (const [k, v] of Object.entries(config.limites ?? {})) if (SECOES[k]) SECOES[k].limite = v;
 const MAX_VEICULO = config.max_por_veiculo ?? 6;
+const MAX_EMPRESA = config.max_por_empresa ?? 4;
+// homônimos e falsos positivos (Marion Nestle, Jade Cargill, "€3m")
+const EXCLUIR = /marion nestle|jade cargill|[€$£]\s?\d+(\.\d+)?m\b/i;
 // Varejo: só entra manchete com termo do setor (evita notícia fora do tema)
 const TEMA_VAREJO = /supermerc|atacarej|varej|hipermerc|assa[ií]|carrefour|\bgpa\b|p[ãa]o de a[çc][úu]car|mateus|atacad[ãa]o|abras|cesta b[áa]sica|pre[çc]o d[oa]s? aliment|alimentos|food|grocer|supermarket|walmart|kroger|aldi|tesco|costco|ahold|lidl|retail/i;
 // Times: só entra manchete sobre o time (o veículo especializado conta, ex.: Steelers Depot, Arquibancada Tricolor)
@@ -111,11 +114,11 @@ function ranquear(noticias, agora) {
   }
   const porSecao = {};
   for (const s of Object.keys(SECOES)) {
-    const porVeiculo = {};
+    const porVeiculo = {}, porEmpresa = {};
     porSecao[s] = [...vistos.values()]
-      .filter(n => n.secao === s && (n.dedicado || !TEMAS[s] || TEMAS[s].test(`${n.titulo} ${n.veiculo}`)))
+      .filter(n => n.secao === s && (n.dedicado || !TEMAS[s] || TEMAS[s].test(`${n.titulo} ${n.veiculo}`)) && !EXCLUIR.test(n.titulo))
       .sort((a, b) => b.score - a.score)
-      .filter(n => { const v = chave(n.veiculo); porVeiculo[v] = (porVeiculo[v] ?? 0) + 1; return n.destaque || porVeiculo[v] <= MAX_VEICULO; })
+      .filter(n => { if (n.empresa) { porEmpresa[n.empresa] = (porEmpresa[n.empresa] ?? 0) + 1; if (porEmpresa[n.empresa] > (config.limite_empresa?.[n.empresa] ?? MAX_EMPRESA)) return false; } const v = chave(n.veiculo); porVeiculo[v] = (porVeiculo[v] ?? 0) + 1; return n.destaque || porVeiculo[v] <= MAX_VEICULO; })
       .slice(0, SECOES[s].limite);
   }
   return porSecao;
