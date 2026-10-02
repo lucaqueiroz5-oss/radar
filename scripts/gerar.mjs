@@ -15,7 +15,8 @@ const SECOES = {
   esporte:  { nome: "Esporte",          limite: 16 },
   politica: { nome: "Política",         limite: 20 },
   economia: { nome: "Economia",         limite: 20 },
-  varejo:   { nome: "Varejo alimentar", limite: 15 }
+  varejo:   { nome: "Varejo alimentar", limite: 15 },
+  fornecedores: { nome: "Fornecedores", limite: 30 }
 };
 for (const [k, v] of Object.entries(config.limites ?? {})) if (SECOES[k]) SECOES[k].limite = v;
 const MAX_VEICULO = config.max_por_veiculo ?? 6;
@@ -24,6 +25,7 @@ const TEMA_VAREJO = /supermerc|atacarej|varej|hipermerc|assa[ií]|carrefour|\bgp
 // Times: só entra manchete sobre o time (o veículo especializado conta, ex.: Steelers Depot, Arquibancada Tricolor)
 const TEMAS = {
   varejo: TEMA_VAREJO,
+  fornecedores: /nestl[eé]|reckitt|vestacy|nivea|beiersdorf|gomes da costa|cargill|\bbic\b|\b3m\b|condor|haleon|bracell|pronova|energizer|brown-forman|notco|ferrara/i,
   steelers: /steeler|steel curtain|\bmccarthy\b|t\.?\s?j\.? watt|jalen ramsey|darnell washington|jaylen warren|rico dowdle|derrick harmon|heyward|highsmith|freiermuth|art rooney|acrisure stadium/i,
   spfc: /tricolor|\bspfc\b|s[ãa]o paulo fc|morumb|dorival|calleri|s[ãa]o paulo (x|vs\.?|contra|enfrenta|vence|perde|empata|visita|acerta|contrata|renova|demite|treina|joga|negocia)\b|(do|no|o|pelo|ao|contra o|para o) s[ãa]o paulo\b/i
 };
@@ -88,7 +90,7 @@ function parse(xml, fonte) {
     let resumo = fonte.rss ? semHtml(tag(b, "description") || tag(b, "summary") || tag(b, "content")) : "";
     if (resumo.length > 260) resumo = resumo.slice(0, 250).replace(/\s\S*$/, "") + "…";
     return { titulo, link, veiculo, resumo, data: isNaN(data) ? null : data.toISOString(),
-             secao: fonte.secao, fonte: fonte.nome, lang: fonte.lang, peso: fonte.peso ?? 1, setorista: !!fonte.setorista, destaque: !!fonte.destaque, dedicado: !!fonte.dedicado, dias: fonte.dias ?? 1 };
+             secao: fonte.secao, fonte: fonte.nome, lang: fonte.lang, peso: fonte.peso ?? 1, setorista: !!fonte.setorista, destaque: !!fonte.destaque, dedicado: !!fonte.dedicado, empresa: fonte.empresa ?? "", dias: fonte.dias ?? 1 };
   }).filter(n => n.titulo && n.link);
 }
 
@@ -101,7 +103,7 @@ function ranquear(noticias, agora) {
     // descarta páginas de categoria/arquivo que o Google News às vezes indexa como notícia
     if (/^arquivos?\b|^(categoria|tag)\b| - giro news$/i.test(n.titulo) || n.titulo.split(/\s+/).length < 4) continue;
     const idadeH = (agora - new Date(n.data)) / 36e5;
-    if (idadeH < -1 || idadeH > (n.destaque ? Math.max(JANELA_H, n.dias * 24) : JANELA_H)) continue;
+    if (idadeH < -1 || idadeH > Math.max(JANELA_H, n.dias * 24)) continue;
     n.score = Math.max(0, 1 - idadeH / JANELA_H) * 10 + n.peso * 2 + (n.setorista ? 2 : 0) + (n.destaque ? 6 : 0) + (n.resumo ? 0.5 : 0);
     const k = chave(n.titulo);
     const ja = vistos.get(k);
@@ -128,8 +130,8 @@ function linhaFonte(n) {
   const extras = [n.setorista ? "setorista" : "", n.lang === "en" ? "em inglês" : ""].filter(Boolean).join(", ");
   return `<a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.veiculo)}</a>${extras ? ` <span class="x">(${extras})</span>` : ""}<time datetime="${n.data}"></time>`;
 }
-const cartao = n => `<article class="story"><h4><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.titulo)}</a></h4>${n.resumo ? `<p>${esc(n.resumo)}</p>` : ""}<div class="src">${linhaFonte(n)}</div></article>`;
-const destaque = n => `<article class="lead"><h4><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.titulo)}</a></h4>${n.resumo ? `<p>${esc(n.resumo)}</p>` : ""}<div class="src">${linhaFonte(n)}</div></article>`;
+const cartao = n => `<article class="story">${n.empresa ? `<span class="tag">${esc(n.empresa)}</span>` : ""}<h4><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.titulo)}</a></h4>${n.resumo ? `<p>${esc(n.resumo)}</p>` : ""}<div class="src">${linhaFonte(n)}</div></article>`;
+const destaque = n => `<article class="lead">${n.empresa ? `<span class="tag">${esc(n.empresa)}</span>` : ""}<h4><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.titulo)}</a></h4>${n.resumo ? `<p>${esc(n.resumo)}</p>` : ""}<div class="src">${linhaFonte(n)}</div></article>`;
 
 function setoristasHtml(id) {
   const lista = config.setoristas?.[id];
@@ -180,7 +182,7 @@ function pagina(porSecao, agora, status) {
 <a href="https://www.steelers.com/news/" target="_blank" rel="noopener"><i style="--p:#0B1626;color:#FFB612">P</i>Steelers.com</a>
 <a href="https://www.post-gazette.com/sports/steelers" target="_blank" rel="noopener"><i style="--p:#1B1B1B">PG</i>Post-Gazette</a>
 <a href="https://www.espn.com/nfl/team/_/name/pit/pittsburgh-steelers" target="_blank" rel="noopener"><i style="--p:#D00">E</i>ESPN Steelers</a></nav>
-<nav class="filters" aria-label="Filtrar editorias"><button data-f="all" aria-pressed="true">Tudo</button><button data-f="meus">Meus times</button><button data-f="esporte">Esporte</button><button data-f="politica">Política</button><button data-f="economia">Economia</button><button data-f="varejo">Varejo alimentar</button></nav>
+<nav class="filters" aria-label="Filtrar editorias"><button data-f="all" aria-pressed="true">Tudo</button><button data-f="meus">Meus times</button><button data-f="esporte">Esporte</button><button data-f="politica">Política</button><button data-f="economia">Economia</button><button data-f="varejo">Varejo alimentar</button><button data-f="fornecedores">Fornecedores</button></nav>
 <main>${Object.keys(SECOES).map(s => secaoHtml(s, porSecao[s])).join("")}</main>
 <footer>Manchetes coletadas automaticamente de Google News e feeds RSS; clique para ler no veículo. Valor e O Globo têm paywall. Fontes que falharam nesta rodada: ${esc(status.filter(s => !s.ok).map(s => s.nome).join(", ") || "nenhuma")}.</footer>
 </div><script>${JS}</script></body></html>`;
@@ -225,6 +227,7 @@ section.cat{margin-top:34px}.cat.spfc{--c:var(--spfc)}.cat.steelers{--c:#B07D00}
 footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--line);color:var(--muted);font-size:14px;max-width:72ch}
 .beat{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:-4px 0 16px}.beat span{font-size:14px;color:var(--muted);margin-right:4px}
 .beat a,.beat em{font-style:normal;font-size:14px;padding:6px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--line);color:var(--muted);text-decoration:none}.beat b{color:var(--ink);font-weight:700}.beat a:hover{border-color:var(--c)}
+.cat.fornecedores{--c:#0E7C86}.tag{display:inline-block;font-size:13px;font-weight:700;color:var(--c);margin-bottom:6px}.lead .tag{color:inherit;opacity:.85}
 .hidden{display:none!important}
 @media (max-width:900px){.cat-body{grid-template-columns:1fr}.lead{position:static}}
 @media (max-width:720px){.wrap{padding:0 14px 56px}.teams{grid-template-columns:1fr}.poster{min-height:250px;padding:22px}.poster .text{max-width:74%}.masthead{grid-template-columns:1fr}.dateline{text-align:left}.lead{padding:22px}}`;
