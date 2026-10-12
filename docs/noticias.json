@@ -1,28 +1,33 @@
 {
-  "geradoEm": "2026-10-12T02:32:12.498Z",
+  "geradoEm": "2026-10-12T09:48:04.392Z",
   "status": [
-    {
-      "nome": "Arquibancada Tricolor",
-      "ok": true,
-      "itens": 12
-    },
     {
       "nome": "Site oficial SPFC",
       "ok": true,
-      "itens": 12
+      "itens": 8
+    },
+    {
+      "nome": "Arquibancada Tricolor",
+      "ok": true,
+      "itens": 10
     },
     {
       "nome": "UOL Esporte (SPFC)",
       "ok": true,
-      "itens": 33
-    },
-    {
-      "nome": "Eder Traskini (ge)",
-      "ok": true,
-      "itens": 0
+      "itens": 22
     },
     {
       "nome": "Gazeta Esportiva (SPFC)",
+      "ok": true,
+      "itens": 100
+    },
+    {
+      "nome": "Imprensa geral (SPFC)",
+      "ok": true,
+      "itens": 26
+    },
+    {
+      "nome": "ge (São Paulo)",
       "ok": true,
       "itens": 100
     },
@@ -32,19 +37,14 @@
       "itens": 0
     },
     {
-      "nome": "ge (São Paulo)",
+      "nome": "Eder Traskini (ge)",
       "ok": true,
-      "itens": 100
+      "itens": 0
     },
     {
       "nome": "Giovanni Chacon (Jovem Pan)",
       "ok": true,
       "itens": 0
-    },
-    {
-      "nome": "Imprensa geral (SPFC)",
-      "ok": true,
-      "itens": 27
     },
     {
       "nome": "Alinne Fanelli (BandNews FM)",
@@ -57,44 +57,44 @@
       "itens": 0
     },
     {
+      "nome": "Bolavip (SPFC)",
+      "ok": true,
+      "itens": 3
+    },
+    {
+      "nome": "Gabriel Sá",
+      "ok": true,
+      "itens": 5
+    },
+    {
       "nome": "Eduardo Affonso (ESPN)",
       "ok": true,
       "itens": 0
     },
     {
-      "nome": "Bolavip (SPFC)",
-      "ok": true,
-      "itens": 4
-    },
-    {
-      "nome": "Gabriel Sá",
-      "ok": true,
-      "itens": 7
-    },
-    {
       "nome": "ESPN Brasil (SPFC)",
       "ok": true,
-      "itens": 11
+      "itens": 8
     },
     {
       "nome": "ESPN (Brooke Pryor)",
       "ok": true,
-      "itens": 7
-    },
-    {
-      "nome": "Post-Gazette (Dulac, Fittipaldo, Carter)",
-      "ok": true,
-      "itens": 51
+      "itens": 6
     },
     {
       "nome": "Steelers.com",
       "ok": true,
-      "itens": 18
+      "itens": 20
+    },
+    {
+      "nome": "Post-Gazette (Dulac, Fittipaldo, Carter)",
+      "ok": true,
+      "itens": 35
     },
     {
       "nome": "PennLive (Nick Farabaugh)",
       "ok": true,
-      "itens": 19
+      "itens": 16
     },
     {
       "nome": "Steelers Depot",
@@ -114,12 +114,12 @@
     {
       "nome": "Tênis",
       "ok": true,
-      "itens": 42
+      "itens": 40
     },
     {
       "nome": "O Globo (Política)",
       "ok": true,
-      "itens": 18
+      "itens": 19
     },
     {
       "nome": "Imprensa americana",
@@ -127,12 +127,12 @@
       "itens": 100
     },
     {
-      "nome": "NBA",
+      "nome": "ge (Brasileirão)",
       "ok": true,
       "itens": 100
     },
     {
-      "nome": "ge (Brasileirão)",
+      "nome": "NBA",
       "ok": true,
       "itens": 100
     },
@@ -147,19 +147,9 @@
       "itens": 18
     },
     {
-      "nome": "UOL (Política)",
-      "ok": true,
-      "itens": 100
-    },
-    {
-      "nome": "Reuters (World)",
-      "ok": true,
-      "itens": 42
-    },
-    {
       "nome": "Mundo e guerras",
       "ok": true,
-      "itens": 48
+      "itens": 53
     },
     {
       "nome": "CNN Brasil (Política)",
@@ -167,9 +157,24 @@
       "itens": 100
     },
     {
+      "nome": "Reuters (World)",
+      "ok": true,
+      "itens": 78
+    },
+    {
       "nome": "g1 Política",
       "ok": true,
-      "itens": 23
+      "itens": 25
+    },
+    {
+      "nome": "UOL (Política)",
+      "ok": true,
+      "itens": 100
+    },
+    {
+      "nome": "g1 Mundo",
+      "ok": true,
+      "itens": 28
     },
     {
       "nome": "Pipeline (Valor)",
@@ -177,19 +182,14 @@
       "itens": 5
     },
     {
-      "nome": "g1 Mundo",
-      "ok": true,
-      "itens": 25
-    },
-    {
       "nome": "Brazil Journal",
       "ok": true,
-      "itens": 47
+      "itens": 50
     },
     {
       "nome": "Valor (geral)",
       "ok": true,
-      "itens": 70
+      "itens": 75
     },
     {
       "nome": "g1 Eleições 2026",
@@ -204,6 +204,21 @@
     {
       "nome": "Valor Finanças",
       "ok": true,
+      "itens": 8
+    },
+    {
+      "nome": "Valor Brasil (macro)",
+      "ok": true,
+      "itens": 5
+    },
+    {
+      "nome": "Reuters (Markets)",
+      "ok": true,
+      "itens": 100
+    },
+    {
+      "nome": "Valor Empresas",
+      "ok": true,
       "itens": 7
     },
     {
@@ -212,34 +227,14 @@
       "itens": 1
     },
     {
-      "nome": "Valor Brasil (macro)",
-      "ok": true,
-      "itens": 3
-    },
-    {
-      "nome": "Valor Empresas",
-      "ok": true,
-      "itens": 8
-    },
-    {
-      "nome": "Reuters (Markets)",
-      "ok": true,
-      "itens": 100
-    },
-    {
       "nome": "Valor Mundo",
       "ok": true,
-      "itens": 14
+      "itens": 16
     },
     {
       "nome": "g1 Economia",
       "ok": true,
-      "itens": 12
-    },
-    {
-      "nome": "Pipeline (Varejo)",
-      "ok": true,
-      "itens": 1
+      "itens": 15
     },
     {
       "nome": "Valor (Varejo)",
@@ -252,14 +247,19 @@
       "itens": 0
     },
     {
-      "nome": "Giro News",
+      "nome": "Pipeline (Varejo)",
       "ok": true,
-      "itens": 0
+      "itens": 1
     },
     {
       "nome": "Varejo alimentar Brasil",
       "ok": true,
-      "itens": 50
+      "itens": 48
+    },
+    {
+      "nome": "Giro News",
+      "ok": true,
+      "itens": 0
     },
     {
       "nome": "Supermarket News",
@@ -269,7 +269,7 @@
     {
       "nome": "g1 (supermercados e alimentos)",
       "ok": true,
-      "itens": 29
+      "itens": 22
     },
     {
       "nome": "Reckitt",
@@ -277,14 +277,14 @@
       "itens": 4
     },
     {
-      "nome": "Grocery world",
-      "ok": true,
-      "itens": 40
-    },
-    {
       "nome": "Nestlé",
       "ok": true,
-      "itens": 54
+      "itens": 58
+    },
+    {
+      "nome": "Grocery world",
+      "ok": true,
+      "itens": 50
     },
     {
       "nome": "Reckitt (global)",
@@ -292,14 +292,14 @@
       "itens": 50
     },
     {
-      "nome": "Vestacy",
-      "ok": true,
-      "itens": 3
-    },
-    {
       "nome": "Nestlé (global)",
       "ok": true,
       "itens": 100
+    },
+    {
+      "nome": "Vestacy",
+      "ok": true,
+      "itens": 3
     },
     {
       "nome": "Nivea",
@@ -307,19 +307,24 @@
       "itens": 30
     },
     {
+      "nome": "Gomes da Costa",
+      "ok": true,
+      "itens": 10
+    },
+    {
       "nome": "Beiersdorf (global)",
       "ok": true,
       "itens": 18
     },
     {
+      "nome": "Cargill",
+      "ok": true,
+      "itens": 20
+    },
+    {
       "nome": "BIC",
       "ok": true,
       "itens": 0
-    },
-    {
-      "nome": "Cargill",
-      "ok": true,
-      "itens": 22
     },
     {
       "nome": "BIC (global)",
@@ -329,7 +334,7 @@
     {
       "nome": "Cargill (global)",
       "ok": true,
-      "itens": 49
+      "itens": 51
     },
     {
       "nome": "Condor",
@@ -344,17 +349,7 @@
     {
       "nome": "3M",
       "ok": true,
-      "itens": 13
-    },
-    {
-      "nome": "3M (global)",
-      "ok": true,
-      "itens": 79
-    },
-    {
-      "nome": "Haleon (global)",
-      "ok": true,
-      "itens": 44
+      "itens": 12
     },
     {
       "nome": "Bracell",
@@ -362,9 +357,9 @@
       "itens": 9
     },
     {
-      "nome": "Gomes da Costa",
+      "nome": "Haleon (global)",
       "ok": true,
-      "itens": 10
+      "itens": 40
     },
     {
       "nome": "Pronova",
@@ -372,22 +367,32 @@
       "itens": 0
     },
     {
+      "nome": "3M (global)",
+      "ok": true,
+      "itens": 77
+    },
+    {
       "nome": "Energizer (global)",
       "ok": true,
-      "itens": 9
+      "itens": 10
     },
     {
-      "nome": "Energizer",
-      "ok": true,
-      "itens": 97
-    },
-    {
-      "nome": "Brown-Forman",
+      "nome": "NotCo",
       "ok": true,
       "itens": 0
     },
     {
-      "nome": "NotCo",
+      "nome": "Energizer",
+      "ok": true,
+      "itens": 94
+    },
+    {
+      "nome": "Brown-Forman (global)",
+      "ok": true,
+      "itens": 21
+    },
+    {
+      "nome": "Brown-Forman",
       "ok": true,
       "itens": 0
     },
@@ -397,18 +402,47 @@
       "itens": 0
     },
     {
-      "nome": "Brown-Forman (global)",
-      "ok": true,
-      "itens": 21
-    },
-    {
       "nome": "Ferrara (global)",
       "ok": true,
-      "itens": 8
+      "itens": 7
     }
   ],
   "porSecao": {
     "spfc": [
+      {
+        "titulo": "Crítica de Dorival expõe problema no CT do São Paulo: treinos ficam concentrados em só um campo",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR0pvYXRDeGM5QzluenNoYWV0eHNPWVJwVnA4cF9FMlpHR2xzVndyVWlld1lfemo5eUp1aWxob1YtNkhrRkE0b2VwNGhyeDZwVDdjMmZBQXNDa1RLM0JFcHR1Rk1NOGE5X0JFeC13WGhLUW1iOTVscVBqR2x3NHp0eWRDS05PeElOZkJ6OUxMT0c1VC1RSnZwcnFqOEdta1lDMWctZWhaYnRiRTdNT3hibmFjb1BWM0ZBUVBoU2k4bl9NZUFTNm8wUFVCb2puTGtNXzZqX2h6dVk3TVRrWU5pOXJhWTh6dHlWWmJFbVkxanVlVGRkalU00gGGAkFVX3lxTFBEdnNpR0xFS211LXRpbkxabTdJdnZwaVBvUTBKcjRsUURJQkVLWUVBVWNoV2l2RjlxaXJaaVlOLWN6ZWlqNlV3UElrOHZydWF6d0N6cTRRY1JrdlVlbmZhT3dOcUExVl9kTThVVzkxLWJmcm1ob09hWmtGRU5WNUFDZ2tNbF9ReUdqbHdQZXNCQnJRNHdCVjV5RjN4a0lLZmphamFLWGE1cE15amFXeVhVTnhVcDJJY0xWZDFmMzNYMGtZU29YMHo5QlRWdXVVLUxZaElhNGxDMGdpSnFQRDBUNWprekN6QXNJcEJnTFZMelhCdG5hQ1h5VjBuVDZnbXcxQWNndGc?oc=5",
+        "veiculo": "ge",
+        "resumo": "",
+        "data": "2026-10-12T07:00:00.000Z",
+        "secao": "spfc",
+        "fonte": "ge (São Paulo)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.221883333333334
+      },
+      {
+        "titulo": "Últimas Notícias - Arquibancada Tricolor",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hbnVLQmRWM3VmemNnbFZFVkRDcEdzcUQ1Rmd3b1lQTThKUnVpVTd6YTFGLW1qSXplclF3RExSU2YzeVRIOFB1VDdtdw?oc=5",
+        "veiculo": "Arquibancada Tricolor",
+        "resumo": "",
+        "data": "2026-10-11T23:00:00.000Z",
+        "secao": "spfc",
+        "fonte": "Arquibancada Tricolor",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": true,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 12.999661111111111
+      },
       {
         "titulo": "Calleri assume artilharia do São Paulo e chega a 95 gols pelo clube",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53N1lMZkw1enpQZ1kzWVFIbUlYNDZRSTNGREE4NU9xMlRsdUE0TE9jeWtuWVNBNVI1THRhc3V2cDVfQlV3NlZ0R3IwbWI4Q25PaVZiU2JJbWp1YlhBQnVrc0g3amxpTVZnQXlGYUIwSTJTc05vazFpbE16XzZsZw?oc=5",
@@ -424,10 +458,10 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.017554166666667
+        "score": 12.999661111111111
       },
       {
-        "titulo": "São Paulo conhece datas e horários nas oitavas da Copa do Brasil Sub-20",
+        "titulo": "São Paulo conhece datas e adversário das oitavas de final da Copa do Brasil Sub-20",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OblZ1bGF4SUlUa2VTcFZOQXh2LUdIWmUxdnM3YlBzWDRFMUtmV0RrWDQwS2hLZV9oRWM3SDFCSzl2S1lzLVUwdGVUc1FDRnc4S3hXNG9oanBqY2U1eTQ0a3RHYVFqdTZxaDRMMERPUGFhUlNyQTl4T0hLSUlwUQ?oc=5",
         "veiculo": "Arquibancada Tricolor",
         "resumo": "",
@@ -441,7 +475,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 14.461998611111111
+        "score": 12.444105555555556
       },
       {
         "titulo": "São Paulo evita relacionar Cauly por risco de flagra em exame antidoping",
@@ -458,24 +492,24 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 14.184220833333333
+        "score": 12.166327777777777
       },
       {
-        "titulo": "Notícias - Home - SPFC",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDMyRjlUMHhPMzVEWjhsZTdfMU5iWTZldHI2QVRTMWJfNlZjQy10WkZhOENadGl5SlU5aTVabjYzcnkzWUp2NVhKcWdpdzdMRnkzV3kwc29WZGs1RmhRcDNkM28tWmV0RWMyMU03blpXX0xTeW5DeTF3OWxNYkNNS0F0Zmk?oc=5",
-        "veiculo": "Home - SPFC",
+        "titulo": "O ano iluminado de atacante que mal teve chance no São Paulo e o que assistir no Disney+",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeVR0N2loQ002UDZPMUJhS29mQnF5SkcwTkhqNThTQm9qVk9CT0d5MDd1aDQ3akw5dmJvUWpzajRPSGp4VlF5RnVqamctdGlnNnE3R2docDlwNDZqOWtwYUNHNTFOeDZrTzJVX01idzNSaDItcDNtYkhFWVpBUTVsOVFEN2NCdG9rMVREb010NUR2cGhRbVNaenhVNkNUcm1jaEZYeTBuekxuaXAzejFWMm9zcXpTOGV5bjFIUWxHTlU0VzM5cnA4?oc=5",
+        "veiculo": "ESPN Brasil",
         "resumo": "",
-        "data": "2026-10-11T19:58:14.000Z",
+        "data": "2026-10-12T02:58:00.000Z",
         "secao": "spfc",
-        "fonte": "Site oficial SPFC",
+        "fonte": "ESPN Brasil (SPFC)",
         "lang": "pt",
-        "peso": 3,
+        "peso": 2,
         "setorista": false,
         "destaque": false,
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 14.176041820987654
+        "score": 12.101512962962964
       },
       {
         "titulo": "Djhordney é desfalque do São Paulo contra o Vasco pelo Brasileirão",
@@ -492,7 +526,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.906443055555556
+        "score": 11.888549999999999
       },
       {
         "titulo": "Lucas Moura comenta renovação com o São Paulo e cita influência da eleição presidencial",
@@ -509,7 +543,24 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.3508875
+        "score": 11.332994444444445
+      },
+      {
+        "titulo": "Notícias - Home - SPFC",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPenlSUGZUUWgzMlYwQ2NQUG5oWVA2S241N2Zad050bmhtMk9TdUUwa2F4YklvU3RPSnBwQ2NxS1UxSUUxVzNTai0yQ3AyenNMbTl2aHA2bC01Y1hYbm1hTC0wRWNUcXkxam1iSi1kb1c4elljR0tta2xKbzZkTndsekhlRmhvWWJBYUtGd3k1dlNCUU8zdkZfbGdDX0o0V1pvdjRELWlYZVhOOEhldENEc0dLVlJmQQ?oc=5",
+        "veiculo": "Home - SPFC",
+        "resumo": "",
+        "data": "2026-10-11T16:56:05.000Z",
+        "secao": "spfc",
+        "fonte": "Site oficial SPFC",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 11.314861728395062
       },
       {
         "titulo": "Sub-20 vence o primeiro jogo das oitavas de final do Paulista - Home",
@@ -526,7 +577,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.33236898148148
+        "score": 11.314475925925926
       },
       {
         "titulo": "Cauly corre risco de doping após tratamento e fica fora dos jogos do São Paulo",
@@ -543,24 +594,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.287461574074074
-      },
-      {
-        "titulo": "São Paulo vence o Desportivo Brasil e sai na frente nas oitavas do Paulista Sub-20",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnJpd0ZlQWNDR1NHM2lYeWlvVmdIVERaYjExNkpHLWpZWTdDSmlQeEc3bmIyU1MwNHpjamF1aXZyMUtOdFhjaE1Gc2dSLWtReFVrZEpDOWR6UjJtZEN3a2Y3SF9rQnhleFVoZnE0Mkg2Tk9CcEJ6RDkxOXVJR1pJdEk4bjhaZw?oc=5",
-        "veiculo": "Arquibancada Tricolor",
-        "resumo": "",
-        "data": "2026-10-11T16:00:00.000Z",
-        "secao": "spfc",
-        "fonte": "Arquibancada Tricolor",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 13.073109722222222
+        "score": 11.269568518518518
       },
       {
         "titulo": "Fora de casa, São Paulo sofre revés para a Ferroviária pelo jogo de ida da final do Paulista F Sub-15 - Home",
@@ -577,7 +611,24 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.040702314814816
+        "score": 11.022809259259258
+      },
+      {
+        "titulo": "FELIZ DIA DAS CRIANÇAS! 🔴⚪⚫ A primeira camisa, o futebol com os amigos, o abraço na hora do gol… O amor pelo São Paulo também cresce nas lembranças que construímos desde pequenos. Que toda criança tenha carinho, espaço para brincar e liberd",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05d3R1YTJuaGppOGI4X1gyby1XRUh5YVB0SEotRTFpMjA5bzlkc0p1TGJOSnFLSTAtbERYRFNlbWFpa1lBY2hPWFp1Qmlhb2dGcmc?oc=5",
+        "veiculo": "Instagram",
+        "resumo": "",
+        "data": "2026-10-12T04:59:19.000Z",
+        "secao": "spfc",
+        "fonte": "Imprensa geral (SPFC)",
+        "lang": "pt",
+        "peso": 1,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 10.663164197530865
       },
       {
         "titulo": "Dorival destaca importância de veteranos do elenco após bater o Vitória",
@@ -594,7 +645,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 12.383294907407407
+        "score": 10.365401851851852
       },
       {
         "titulo": "Dorival critica CT do São Paulo: 'Temos três campos, e nenhum em condições'",
@@ -611,84 +662,16 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 11.75574861111111
-      },
-      {
-        "titulo": "“Se não decidir nada, em janeiro estarei livre”, diz Lucas sobre renovação em ano eleitoral no São Paulo",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRS1yQVFhMzNFaGFfVlZScDExbWJsaTdQZzVTWi1iWl9BcUduQU1yM3M5VkZ1T05xX3E5RWx0aVYzdnJONUxpdXA2RTFCTWpINE1WdFQyZFo3anV3VWlnX0RTV3JGQjRwZkRjRHVScmRxYm41eXlsMXVXMlNjSWFOZDFpUUd5b09hYnZyYmYwRERIclHSAZgBQVVfeXFMTlpZclRUUGJMMTMtWEJNQlB2ZWxZRFViMmJlbkZtSE9TRW5ZUnc3a2xOeGJhQUpRMHJFQWdySXhCTl81UVBxc2VxakQ5NGFLcWFRM3VYeFhnZnhMd190OVlCM1hCZjZvQW1LV2dXTEZjN1Y3d2JWeUdBcmVXTy1WdVFSSzlUTUZ5S3VMSlg2VVE5VzZyTTdZZnA?oc=5",
-        "veiculo": "Gazeta Esportiva",
-        "resumo": "",
-        "data": "2026-10-11T11:00:00.000Z",
-        "secao": "spfc",
-        "fonte": "Gazeta Esportiva (SPFC)",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.684220833333333
-      },
-      {
-        "titulo": "Análise: brilhos individuais decidem, e retorno de Lucas é trunfo para o São Paulo",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1JUbDhkSG9POEs0S1BXR0NpM1NpaUszM1V6WVdEQ1Vvcy1VMUdEYV9JMjZCU3drb1U1U0I1ajlrNmlneV82QVI0Wk5uSVgxYTdZV2JIMm0wb09pOTEzRHVMcVNoOU04elV6VEtrcS1EbTl1cEZXVWtKU0traDEtS2ZYaFByU2ppMXdMUFAwN3liNXpzSmJyd1JYUE1hXzlsNXBv0gGjAUFVX3lxTFA3UlRsOGRIb084SzRLUFdHQ2kzU2lpSzMzVXpZV0RDVW9zLVUxR0RhX0kyNkJTd2tvVTVTQjVqOWs2aWd5XzZBUjRaTm5JWDFhN1lXYkgybTBvT2k5MTNEdUxxU2g5TTh6VXpUS2txLURtOXVwRldVa0pTS2toMS1LZlhoUHJTamkxd0xQUDA3eWI1enNKYnJ3UlhQTWFfOWw1cG8?oc=5",
-        "veiculo": "Gazeta Esportiva",
-        "resumo": "",
-        "data": "2026-10-11T10:14:02.000Z",
-        "secao": "spfc",
-        "fonte": "Gazeta Esportiva (SPFC)",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.471412191358025
-      },
-      {
-        "titulo": "Atuações do São Paulo: Calleri tem noite artilheira em vitória, e Lucas se destaca em retorno",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ25XYTJHZGRBWVV3MVh0QVRVa0xhLVVkd0duT19CSGphWlpkR0RUMnpvdlRabUZpajEtWE94OVJ0Nmw4czVJUGNuTDhEWTFTSU91clhOTzQ5N08yTEFtZkZBckgwUlgtd0g4a0xfbXRpWEYxLXplSjlqTHJ6WjVOVGhGM2xtZ2VndGpZU3VQWUlnRktzV204UmowSG1rUXloNEpwMC1wSzZ6eWl5QU02Q2dsVdIBswFBVV95cUxOQ25XYTJHZGRBWVV3MVh0QVRVa0xhLVVkd0duT19CSGphWlpkR0RUMnpvdlRabUZpajEtWE94OVJ0Nmw4czVJUGNuTDhEWTFTSU91clhOTzQ5N08yTEFtZkZBckgwUlgtd0g4a0xfbXRpWEYxLXplSjlqTHJ6WjVOVGhGM2xtZ2VndGpZU3VQWUlnRktzV204UmowSG1rUXloNEpwMC1wSzZ6eWl5QU02Q2dsVQ?oc=5",
-        "veiculo": "Gazeta Esportiva",
-        "resumo": "",
-        "data": "2026-10-11T09:15:53.000Z",
-        "secao": "spfc",
-        "fonte": "Gazeta Esportiva (SPFC)",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.202199228395061
+        "score": 9.737855555555555
       }
     ],
     "steelers": [
-      {
-        "titulo": "Big days from Aaron Rodgers and Jaylen Warren power the Steelers past the Colts",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTENITEVyMzY4VUpOVGRpWnlhYWR5UjhFOFZEM2E3Wk0tcm42RUczTjY3Vmlxd0FqX1Zyb2c5OHEyRmFSWjRaM3pOX2xqeC1nLWJVSkhOVnRQcUNYeDdWNUNYTjd2UnZIUnh2VTY1dVYxT0M5N3lRMjAtM0dOb0xMNEx5aGhKclVKeTNlNWhIbzZ6Q0t6LWNIWkY1d2oxeVVwdEpuLXU2U0tJODhqWF9naWUzZWIyWnIxeC1n?oc=5",
-        "veiculo": "Pittsburgh Post-Gazette",
-        "resumo": "",
-        "data": "2026-10-12T02:23:44.000Z",
-        "secao": "steelers",
-        "fonte": "Post-Gazette (Dulac, Fittipaldo, Carter)",
-        "lang": "en",
-        "peso": 3,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 17.960764043209878
-      },
       {
         "titulo": "Noah Hiles: Jaylen Warren is finally running away with the Steelers’ running back job",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1ZNWGU4eFFScW1OZ1VvUDVtcW0tRnhMc0puLWJ3dktvNEUwcVpQRV9lTVJodTZ1dHM1SThLSXZfWUNQeVM3UWtySkFJYl9aeWRlLTVjWUEwaVluY0hmRV82Z21oZ0VoZHdodXV5U0tvU3E5NWxMQVhMTENGek12WFpSNXZNUm9adFU2TXpNMzZ5UjFRT2JKWjQ0NElOcWRvMlplYWswRlQ?oc=5",
         "veiculo": "Pittsburgh Post-Gazette",
         "resumo": "",
-        "data": "2026-10-12T02:00:32.000Z",
+        "data": "2026-10-12T09:31:14.000Z",
         "secao": "steelers",
         "fonte": "Post-Gazette (Dulac, Fittipaldo, Carter)",
         "lang": "en",
@@ -698,14 +681,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 17.85335663580247
+        "score": 17.922037654320988
       },
       {
         "titulo": "Steelers report card: Jaylen Warren earns an A-plus, of course. Who else shined in the win over the Colts?",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVDJDc1pRWGl3WVpzY29XdUlMb3Y4WXBTN21NbzFySklVUkZiZjhQb05zdS05dllpWjdBNGRHc0NpOVc0LUNnTnR3U2RqMy02T3VvZEVsQkJRQTFqSlBiTDUtdmx6UGMyUWJiS0d6Yk85QVprNFg3c1QyTG9VVWtPNVpMRk9wQ2JmbGZTYXhHUC1relNmZlA1cWxTSEw4WUlQVE5OcHAyMHlQQTRJWmc?oc=5",
         "veiculo": "Pittsburgh Post-Gazette",
         "resumo": "",
-        "data": "2026-10-12T01:59:23.000Z",
+        "data": "2026-10-12T09:11:20.000Z",
         "secao": "steelers",
         "fonte": "Post-Gazette (Dulac, Fittipaldo, Carter)",
         "lang": "en",
@@ -715,48 +698,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 17.848032561728395
-      },
-      {
-        "titulo": "Steelers-Colts: Week 5 live chat, updates and analysis with Christopher Carter",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTW13NmI4QVpKekhYMDhJeENxMmJoYUR2Sk5WeXkyLV9NMWVTazlDVmhfaERFM0xucVVOd2txTEJXQmd4N29kdURfTVRaWWEzbnVvbUNWNkJVcTVnTVBpNDZLQTl6b2RPRUw2UThhRm9oeUVDUFJoNVp2SXVISUxLZElPb0lZTGlhZEhjZHNsSUMwSWN1NEQ3RkdURnduaFh5SnNZ?oc=5",
-        "veiculo": "Pittsburgh Post-Gazette",
-        "resumo": "",
-        "data": "2026-10-12T01:28:53.000Z",
-        "secao": "steelers",
-        "fonte": "Post-Gazette (Dulac, Fittipaldo, Carter)",
-        "lang": "en",
-        "peso": 3,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 17.706828858024693
-      },
-      {
-        "titulo": "Steelers' T.J. Watt suffers scary eye injury in Week 5 game vs. Colts | See link below ⬇️ 📸 Scott Galvin, IMAGN IMAGES via Reuters Connect",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWV9ZeEVKSW1SSHJKS0EtamVJWnpocDl4bzd0RkQ5X0pUQW1wV0lybmJ5WlBEaF9PSGxzdjhFOUIydHQ0YkRzbDF1SkpfLVdjemQ2Sy1fb21HMTNQTlU1ZGc1MFJBZ2g3aDFHMGpFNmJJejd3SUgzajdUOF9qcGVQa2pUUmNLcVY4LVlnNU1YZWZCQ3hyeTlWN1BiR0tlY2poMVpDUU5JOXI0d2V1ejM4OHhHamVsVmd0Ym03SGhkSkZaZmp5bE4xRS1SSXRiazhBeUFwTHN6UmdSUQ?oc=5",
-        "veiculo": "Facebook",
-        "resumo": "",
-        "data": "2026-10-12T01:28:42.000Z",
-        "secao": "steelers",
-        "fonte": "ESPN (Brooke Pryor)",
-        "lang": "en",
-        "peso": 3,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 17.70598009259259
+        "score": 17.829908024691356
       },
       {
         "titulo": "The depleted Steelers secondary steps up to make key plays against the Colts",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQUhNb29ocVc1amhrN1FFLUlGRHk4Q21wRjJwdkY2ak5KVkFjcjBkcFpvb092UXRFRGw2YWFGODVsYTY0VmVPWFY3Z1VNX3JZMHRfYXBQZGxnd25YeXpuOW5WLXN0VEd4U2hqRWgtMnV1QWt5a0RQZGVZRk9WV1FFVndBdnpLd0VIczNqckh0Ul8zWGMxOUc4eERqNW10Z1NfYXV3czBPR19SeFEweUhHNTM3eVdDZVg2enB5cWRSSXNKSDV0Wnc?oc=5",
         "veiculo": "Pittsburgh Post-Gazette",
         "resumo": "",
-        "data": "2026-10-12T01:06:17.000Z",
+        "data": "2026-10-12T08:37:26.000Z",
         "secao": "steelers",
         "fonte": "Post-Gazette (Dulac, Fittipaldo, Carter)",
         "lang": "en",
@@ -766,7 +715,41 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 17.60219922839506
+        "score": 17.672963580246915
+      },
+      {
+        "titulo": "Big days from Aaron Rodgers and Jaylen Warren power the Steelers past the Colts",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTENITEVyMzY4VUpOVGRpWnlhYWR5UjhFOFZEM2E3Wk0tcm42RUczTjY3Vmlxd0FqX1Zyb2c5OHEyRmFSWjRaM3pOX2xqeC1nLWJVSkhOVnRQcUNYeDdWNUNYTjd2UnZIUnh2VTY1dVYxT0M5N3lRMjAtM0dOb0xMNEx5aGhKclVKeTNlNWhIbzZ6Q0t6LWNIWkY1d2oxeVVwdEpuLXU2U0tJODhqWF9naWUzZWIyWnIxeC1n?oc=5",
+        "veiculo": "Pittsburgh Post-Gazette",
+        "resumo": "",
+        "data": "2026-10-12T08:21:22.000Z",
+        "secao": "steelers",
+        "fonte": "Post-Gazette (Dulac, Fittipaldo, Carter)",
+        "lang": "en",
+        "peso": 3,
+        "setorista": true,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 17.59858086419753
+      },
+      {
+        "titulo": "Steelers-Colts: Week 5 live chat, updates and analysis with Christopher Carter",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTW13NmI4QVpKekhYMDhJeENxMmJoYUR2Sk5WeXkyLV9NMWVTazlDVmhfaERFM0xucVVOd2txTEJXQmd4N29kdURfTVRaWWEzbnVvbUNWNkJVcTVnTVBpNDZLQTl6b2RPRUw2UThhRm9oeUVDUFJoNVp2SXVISUxLZElPb0lZTGlhZEhjZHNsSUMwSWN1NEQ3RkdURnduaFh5SnNZ?oc=5",
+        "veiculo": "Pittsburgh Post-Gazette",
+        "resumo": "",
+        "data": "2026-10-12T02:56:28.000Z",
+        "secao": "steelers",
+        "fonte": "Post-Gazette (Dulac, Fittipaldo, Carter)",
+        "lang": "en",
+        "peso": 3,
+        "setorista": true,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 16.094414197530863
       },
       {
         "titulo": "Steelers-Colts scouting report: Stopping Jonathan Taylor will be the top priority",
@@ -783,7 +766,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 16.902199228395062
+        "score": 14.884306172839505
       },
       {
         "titulo": "Roman Wilson Injured Against Colts (Update)",
@@ -800,7 +783,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 16.68946774691358
+        "score": 14.671574691358025
       },
       {
         "titulo": "Ben Skowronek Injured Against Colts (Update)",
@@ -817,31 +800,65 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 16.666319598765433
+        "score": 14.648426543209876
       },
       {
-        "titulo": "‘It needed to be different:’ Steelers defensive coordinator Patrick Graham moves to sideline vs. Colts",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWNXQTBjNVVFMl9SYlFDZkc1a0FuRDlFcE8xb0FlclcySHNqOTd0NHM3WjFKQ1VOUTZlQkhyNVdybkoyUG5ndXptd2Jfb2VZM1diN1Q4UWVjNkJORUl4WjQxODJPQ09qMndsNGdTeWZ5MFpRY3hUVjVsMHNBNkxGbDBydFo0b2Y1RVhzTWl1eTJCT3ZobFRuMTJzZHRLbWVSMlV6VDVTd3o2MjA5UkJKdV9PMGpicXRkb3plQjlCMnEwR1JKbTBFaGxGQQ?oc=5",
-        "veiculo": "TribLIVE.com",
+        "titulo": "- Steelers Pro Shop",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9POE1pd2NwU2djVHFBMnZzeUMzRTRrX3JObFd6VHRFelIySFhpOTUya3NDVGJVY1VBSzVuNzh3bmVZS21BR2JaVm42cw?oc=5",
+        "veiculo": "Steelers Pro Shop",
         "resumo": "",
-        "data": "2026-10-12T01:46:23.000Z",
+        "data": "2026-10-12T04:29:36.000Z",
         "secao": "steelers",
-        "fonte": "TribLive",
+        "fonte": "Steelers.com",
         "lang": "en",
-        "peso": 2,
-        "setorista": true,
+        "peso": 3,
+        "setorista": false,
         "destaque": false,
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.78784737654321
+        "score": 14.525587037037036
       },
       {
-        "titulo": "Steelers' T.J. Watt Injured After Getting Hit in Face vs. Colts",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3NUZVlGRllpWTlNMDlvVXdNOEVlNlRXUDE2RVZPTUFWbUY0SVZ3VllvTmlDVFQ0enJ3ZWY4c0JlOXFDMHNBamVramNQZFpPalhNODlTZE40Ul96NUZRWGpxMTVjNnZDc3R2WXE4aWk0cE1xZDYyTVRpRlBPc1hUcDVPVGQyaXpvUnZoMlA4ZFJ0NHBS?oc=5",
-        "veiculo": "Sports Illustrated",
+        "titulo": "Labriola on the win over the Colts",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEdFllQkZJbjFWZXJqYjd1eWowT0ExdW50UEZQSUNZc0xIc3U4dURKM1l5VmxCaE9pMTNpd1pmOE1KbmdGdHpIUGZOV1hTdFhPdXVvV3pWYWJjbFFrRFJvNWV3NmxFVVlPelRZT0JXZGVRd3JMSjFzZ253?oc=5",
+        "veiculo": "Steelers.com",
         "resumo": "",
-        "data": "2026-10-11T18:15:29.000Z",
+        "data": "2026-10-12T03:47:16.000Z",
+        "secao": "steelers",
+        "fonte": "Steelers.com",
+        "lang": "en",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.329599382716049
+      },
+      {
+        "titulo": "WATCH: The Neighborhood Ford Store Steelers Extra Point (Week 5)",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPendOb3ZLME5JdE1Mdk5qalFuM1FJNlZWQVllYmcwNHJaSDBCbElRZzVEVzhadWRJLWZ2TEhNQ29LRFk1cTZ4M09BSndEdFdya1VrZnFfT2VLM2ZfSGFHbndwWXI5UnFiUFloUkJ1YTcxZnY5SkJXMkpqeHdTRkcwSFYxR0NKOGY4YzdZeF9kSlF2NWVEQmV3?oc=5",
+        "veiculo": "Steelers.com",
+        "resumo": "",
+        "data": "2026-10-12T02:43:22.000Z",
+        "secao": "steelers",
+        "fonte": "Steelers.com",
+        "lang": "en",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.033766049382717
+      },
+      {
+        "titulo": "Steelers' T.J. Watt suffers scary eye injury in Week 5 game vs. Colts | See link below ⬇️ 📸 Scott Galvin, IMAGN IMAGES via Reuters Connect",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWV9ZeEVKSW1SSHJKS0EtamVJWnpocDl4bzd0RkQ5X0pUQW1wV0lybmJ5WlBEaF9PSGxzdjhFOUIydHQ0YkRzbDF1SkpfLVdjemQ2Sy1fb21HMTNQTlU1ZGc1MFJBZ2g3aDFHMGpFNmJJejd3SUgzajdUOF9qcGVQa2pUUmNLcVY4LVlnNU1YZWZCQ3hyeTlWN1BiR0tlY2poMVpDUU5JOXI0d2V1ejM4OHhHamVsVmd0Ym03SGhkSkZaZmp5bE4xRS1SSXRiazhBeUFwTHN6UmdSUQ?oc=5",
+        "veiculo": "Facebook",
+        "resumo": "",
+        "data": "2026-10-11T19:30:09.000Z",
         "secao": "steelers",
         "fonte": "ESPN (Brooke Pryor)",
         "lang": "en",
@@ -851,7 +868,24 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.70034737654321
+        "score": 14.028133333333335
+      },
+      {
+        "titulo": "‘It needed to be different:’ Steelers defensive coordinator Patrick Graham moves to sideline vs. Colts",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLWNXQTBjNVVFMl9SYlFDZkc1a0FuRDlFcE8xb0FlclcySHNqOTd0NHM3WjFKQ1VOUTZlQkhyNVdybkoyUG5ndXptd2Jfb2VZM1diN1Q4UWVjNkJORUl4WjQxODJPQ09qMndsNGdTeWZ5MFpRY3hUVjVsMHNBNkxGbDBydFo0b2Y1RVhzTWl1eTJCT3ZobFRuMTJzZHRLbWVSMlV6VDVTd3o2MjA5UkJKdV9PMGpicXRkb3plQjlCMnEwR1JKbTBFaGxGQQ?oc=5",
+        "veiculo": "TribLIVE.com",
+        "resumo": "",
+        "data": "2026-10-12T02:14:54.000Z",
+        "secao": "steelers",
+        "fonte": "TribLive",
+        "lang": "en",
+        "peso": 2,
+        "setorista": true,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.901975925925926
       },
       {
         "titulo": "Cup of Joe (Starkey): Could the Steelers coax one more year out of Aaron Rodgers?",
@@ -868,24 +902,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.315007870370371
-      },
-      {
-        "titulo": "- Steelers Pro Shop",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TU9mOFIxWWpHV01FZDFmbkliUk5GU25xMkp0cGhqbXI2bGxhelFkUlM1VG1MOXZqZFozQVA4Qk5CUUZObTB0VExVYUFhb0lLRTlJWktLRlVZX3poV2ZDSw?oc=5",
-        "veiculo": "Steelers Pro Shop",
-        "resumo": "",
-        "data": "2026-10-11T23:46:02.000Z",
-        "secao": "steelers",
-        "fonte": "Steelers.com",
-        "lang": "en",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.230671450617283
+        "score": 13.297114814814815
       },
       {
         "titulo": "Jaylen Warren, Pat Freiermuth each score 2 TDs as Steelers beat Colts",
@@ -902,33 +919,16 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.156828858024692
-      },
-      {
-        "titulo": "Pat Freiermuth, Steelers tight ends step up as injuries deplete receiving corps in win over Colts",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEJWNnlWMFlrbnF3QlpiVnJjLXVrY2gxT3VDZU1vUFl3TlNBbTVtd1B2RWhlMlZIb3pob1FuanRheW5ZQnQxMGVyYV8yOWx6WlcydnBLV3ZWTzdLMVNJbEVfT2VUclNHcnhEamlYRXc3X19CUVZZcWRXMjNWX3JhYXJJR0ZtSkxLYmxzZW9lRkJkNVowdHBqbVZPd3JJZ2N6QldQMzBCZ3RzX05mRS16NC1LOXFpZzU2T3hESERVYzJXTFk?oc=5",
-        "veiculo": "TribLIVE.com",
-        "resumo": "",
-        "data": "2026-10-11T23:25:21.000Z",
-        "secao": "steelers",
-        "fonte": "TribLive",
-        "lang": "en",
-        "peso": 2,
-        "setorista": true,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.134915277777777
+        "score": 13.138935802469135
       }
     ],
     "esporte": [
       {
-        "titulo": "Itaquá supera o ACE e conquista o título invicto da Superliga C",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUW54OVlYQ2tuSVpKVGVwSTlYRWZkYlFRTGNhbkRvX3ZWbEtfQ19SZ1JLUU5pSGwwT1l1dGJRNWx4bnVVbElYaC13aU1GaE1xRnlBMS13RzNGNGZFbERVMFZQOGdXRlFkTTRjSlY0TEI1eGZOcEV1elp2dWcwT2NPYjdzOXh2bkxvUHRfTm9DWl9EY0RfeXJ0cEp6NzBHSE5qaVB3Ri1FQjR2bEEtV3JaTGpVM3NpcTFLMnFCbnFHSWdCdzlucUlKM2JPWnJUU05iTTRkcjVyeDI?oc=5",
+        "titulo": "Real Madrid faz oferta por joia do United que pede R$ 5,58 milhões de salário por ano, diz jornal",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV2VsYVpTMVY3cmcxTGtsa1NaVG9ibGdjanZnUFUySHlWTThkUEVtSnd1c09fYS1aVDVOdktJQnFZX0hUQXB0S1JnUUluN0R5RmZGQ0RPdDlQRUJWSVl6YjVYa3B0cUM3SFZPbnhDZm1XcWtaaFRFdy10V2VkOVhGSVVoREhEdFFLbHpTR2NYV1cxeEczNWV2SmJackRGcV9QSHpzYThseFNhQUdNeXl2dmZuNG1ENG8xNWtGWFhJUnR2aFI3VmFZSFJJMTN4czFMSlZWZUtHOXczUzhHN3E1UTFURmQteG02TVBsclB2QzlRZmktNExVM2VEMjdWcG_SAY4CQVVfeXFMUGlWalBsbG1ucGNqNlZHS1hjcThRRU42U085X1N0cnJFaFFGS2ZpeUdwN3dsdGw5TFctZGE2YlVDMnNhM09CQVBidjJMYkJQSkEtRnN2VDZaMWM3TFJTZXdpbkNnRzJrb1hKODItTTUtYkVfMVpkTFk5NVY3ZE92MFhBcHBiZmlvdlNqWDc5MkVoOUZNS1NJUU5kM19lT21pR0tReXRPMmpEQmoyeVZUYXV4MGJrM3R2MW1rM29UX2RQRy1LMDJWWjFkMXNwOVRTVGJ2NVM0Q2FVSHpIYmV5bGwxcmdFWjZqSHZLanF6bGxlVXJzbUVQVmNDVW9fWWV2eGZRbFRaTjRxOU9UV1J3?oc=5",
         "veiculo": "ge",
         "resumo": "",
-        "data": "2026-10-12T01:44:03.000Z",
+        "data": "2026-10-12T09:30:43.000Z",
         "secao": "esporte",
         "fonte": "ge (Brasileirão)",
         "lang": "pt",
@@ -938,14 +938,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.777044907407408
+        "score": 13.919645679012346
       },
       {
-        "titulo": "\"Foi com emoção até o fim\", comemora Leiro após triunfo do Bahia | A Voz da Torcida",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU0FCa2oxcTZiY2pkcTRONERCYU9BRkVRdExRX2ptWmRtVnAtZXhwWDRXOVppbUx0U2U4aHVERElIUk5IOGh6R05UUFAtMXEwc3hONG9RUGtkaV9ZQV9lMjZzbFVsaFBKS2MwWmJDM00xUHlsNm1UX0lSZTZDSlpBTTdoRjl1TnZ5MF9DTWRvbExySlJzY04wUkVQUTlxUUduOTh4OWJ6MjlwN002MlNETjNQME5XUldjbF9xbzZ2bEpxOGFSeFdfakR4dHljTVF0ZnN6XzZDbnM5R1nSAeoBQVVfeXFMTm8zcG1xQlpVdml5WlZNVm9aTlB3TGRkdWJ4RFZGWExfdGFfVDJvTm04QUxTR0YwbjVuWlIxczRVY2czRkY3QzJHYWZrWGd0dU5jeVQxWXZUN3JPU1B3UlQzakwzWV9RWVJjbUJMcXl0VjRrV3ZrUlRJV1ZDV0ZrNWFTRFJPdmI0WDVoOWR3eC10TXFXei1RVjllb2RsWWlLc1oyU0F2WUVKc2E3Y2I4WjBsMnVHRTZwc29GLWYxUlZjWndOZ3kxY09qWDAydzhKeWpaSzhWZUpEUTc0Mk5BSGxBZ2huNU51X1hn?oc=5",
+        "titulo": "Análise: Corinthians brinca com perigo, e trapalhadas da diretoria elevam risco de rebaixamento",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZnU5Y2Fwbml3RDhzTHhTYmJ5ZTByVnhEM1VFbm14Ymo5Zml6Nm05LVZWLW0tWGpLYnlXQzgyOWlXYXl6YmRaZndoTEFZZ3g1REU2RmdfcW1NcG1RWFZRMzdVdHdyMFpLYmFMMzAwSlo0c3ZPdkI3aXROQTVPazBSSHB4UTdaWEpOb0lkUUJMcWs3OGJOMzB1T243ZHFaZU9oeGFhOV9ob19lMVJYbi1HTUoxa050Q1JoNm91ck4xUmdOeEdLTkRGVnlCNmdrZVdEc0JsU0N0dEZHNkQ1ay0tSFF1NTY2eW1uMVV1YlJpWEZSNHE1ZUZYV9IBhwJBVV95cUxNSFpDWUtVNjFBMWFNVEYzdktkMVkwaFpYV3d3aGxSN212WWc3Snh1X2VHRVBPNEFYbkRUejZxMVZySFYxczZNc3A0bXlGaW9idHJvT1RpaGtCTURZaXFXdTRxOTh1eW15RkJ2VHNmWWJVUjVnSkNZUVlDR3V1UURmMFNCNE1zbzVFQkFPWU1JSi1aYS1rREhiX2pZeko0U2stSDdtc2tqcGJ1S3l1VEtibk04VjZSN29TcFhROEdWYmVYaUpPWjJscUlZVzlZWGt2Z2hXLXBKLURYc0ZRa2Vsb0JPS29FU1M0dy1RRmZ4R1RYaWZJTjhOUlNQY09aZmR6UXgxQWdhUQ?oc=5",
         "veiculo": "ge",
         "resumo": "",
-        "data": "2026-10-12T01:41:33.000Z",
+        "data": "2026-10-12T07:00:01.000Z",
         "secao": "esporte",
         "fonte": "ge (Brasileirão)",
         "lang": "pt",
@@ -955,14 +955,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.765470833333334
+        "score": 13.22196049382716
       },
       {
-        "titulo": "\"Não é o resultado dos sonhos\", diz Luka após empate no GreNal | A Voz da Torcida",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZExEUHlPLWpHTWtpMWNJaWItMkVNRl91cFBvT0daNzRwaHRqSlNKU19HbXhQWnY1WlNwLWtOdThlU0ZmS3l1LTM1NGdIUjR3Yzd2Q0dzTU5VdjVfWWFsUVB3VHFvN2xxU08wd29lUUgzUWpqb3ZOeUxuRlFLRTMwakNsa09DLWMwOGNSVnR2Rm1TU1ZhcG1na0FMM2R6OXNIOXIxUTdtR2o3eGh3eDRDZXBNX1czNzBjWkotNGFELUpVODI5WGVQVWRVbUlXN2h2LXZETlFXVnTSAecBQVVfeXFMTlNRYTdNaE16d3hYVUNwYjRDUzVnVjN5aFdBdWVuTF9jaDNyYmNROFJVdEZVTmprd3JwOXhOdjlfcjQyLUR4VTVfeXF1M3RIT2l1MmZNaUJYa0l5YjRoUmRkVWpOa1pWaEo3OHFpWFpPRTVBWlowTzcxRVFEelZpUEpOSk05WF9NMVRyNFhOejZrZFV5ODZGd18wWV94QmVYOGNyaG9yeGxsN0VfYlV6bi1kWTRXMkk4dWxTdlFjd1hLNS1pR3pVVXNyWlVBZEIzVTZwVGlvRnVQVjc3UWxjUDBVazBXVllZ?oc=5",
+        "titulo": "Pedrinho x Riquelme: ídolos em campo se reencontram em Vasco x Boca como presidentes",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdlBPajRZQ1Fnb0JaTUZKMjFpNjIwWnAxd2U3YkdBT3hOQlVlcVFhOXJReDNpYUo3RkxOTk1iRlNvREs1UERHcEVKLWw3V2VxZkVyOUQ2NkJVNmwtMGQwMlExb29FOWhEMUxhRGNvRWktSTFlQXZtdUJhMThuVUx1UEhlSF9wMjM1T0RaRzFtRkV1SXdlZDFuNHhsekZZZFBsLXlUUlFKYWFva3JTNlkxM0RDandCeUhLcTlfd3F4TDJDclczRTVwZGF5a0cwb2xsT2h4TU5mMEgyVGZPeEliM0RXQdIB8gFBVV95cUxPakw3Ql9qUE1JM3JnakYxU1VOOG9ubzU3RWZBMjN4eWZRY1lyVnJTb0tuRS1XRmx0eE8zS016VXRNaFBOTmRJdGVKMHJxLXpWblE4SmZ3YUExQXhkRUtyQzlHVlFmbmhvNHRNclhickVwRTItSERkd2NXMlVhUXoyd2RXc09jbUF5ZVlqUGl0b3huVzF2RWVMT2VLYVR1TVpoSHNGbUxVeG5aNmJGc3AwcHBHMGlaNzNpUkJjZjhURUxnTjU4V196eUgwNHFFRWhxQ3o3MXJNWXU3Ykc5QV80SDBuNUJJOGxhdzViSzVpd0lfdw?oc=5",
         "veiculo": "ge",
         "resumo": "",
-        "data": "2026-10-12T01:20:51.000Z",
+        "data": "2026-10-12T06:00:00.000Z",
         "secao": "esporte",
         "fonte": "ge (Brasileirão)",
         "lang": "pt",
@@ -972,7 +972,58 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.6696375
+        "score": 12.944105555555556
+      },
+      {
+        "titulo": "Análise: Atlético-MG tira coelho da cartola contra o Santos e torna Arena MRV pesadelo para rivais",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNclpab3J6RHd4ejNUQks2c0ZBYVFsR3FaYnFYS0pYSElxR1lqc1Jrbmlkbl95VTVlendzWWthUzZtTTdOQVE5ZXR1R0NBUTZfMG1HTTJiNVM1RC1PdTRVR1ZLU2kwUTBGaXM5YkRPa3h5emFEcHBoUHNleV8wOEFlakZ6MGU3Nkd2dU9QZFJ6NmNpOHNXTDkzS0hzZUhIVC1Dd3VyWUxBRFg4SDNTZ21yc05tTmFEWHctMkMyVTg2MDlFeE1NUmN0VW5RWm9CbnJjY2pnbk42aHFWdEhPanE4VWpMaXpHTUE5cjZPckdnS1QyWU5NZVJNazZPWlJ1QdIBjAJBVV95cUxNQ2Y5UzFZZEc1a0NPa3lmRURvSjBSYUYwYWFyXzdfMjhGQzROYmIwYWxTM0tXUEw1dVVwRkRocndaTUk3Si1uMC1kaWk4ZGpNcEMwRUZjbEs1NkNCeGR4Y2pZTmRKcTFtRUM1RmQxUXdnMHZMbVY4ZEFrQmNZdnRFMFM5d20xRnlGcGhlcUVDMnI3aFhZNVZlMkk2UU1QaWF5aC12cWR0aGVvaEd3N0dVckdaaHp0OGl1R2pQT0JUX3VsTWJEaUtTZ1RuQjFQaW81TFliSFF1Nm5KeTdPYzFwaVRmajlSZ0FGZmNSWUJDYWxLX3JJdHZyQmRHOXJ0dTduaklOZk1oOUV6M3Y2?oc=5",
+        "veiculo": "ge",
+        "resumo": "",
+        "data": "2026-10-12T06:00:00.000Z",
+        "secao": "esporte",
+        "fonte": "ge (Brasileirão)",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 12.944105555555556
+      },
+      {
+        "titulo": "Surfista da elite é suspenso pela WSL após caso com adolescente investigado pela polícia",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVGFiMVFneWpvbGxNM012cVpUVWFGWXhSLXEyRGIyY28xZ1BmY2t3clNpUlFJOTJoRFAyRnpxS21WUUtoeThRb1hZbWRnS0NXaEo0Y1JDZjRLU25JOEMzSTFHRXo0Z1hMZUcyS3pfcHVFeUFwQUV2X2dIMkxNZ2R2WmdCejhhejVmTHViZVZKUS1qaGdjRmx1Wmdqd3NyOXBvdm54OU5ieGJGTUNnR2FkVGhTSlRKdml2dHJaTjN1MkpHeVJ1ZGx5bFNfQWs1VUtfbl84dmprTWsxQkpG0gHrAUFVX3lxTFBpekRSRmRKNEpaRHJ2bHFkR2FyWTMxNzJPUk5rdDdjZHV5bDVXUlRCWm1SU1V6by12dF9vUkc5Qk5UNkZrRGZwUjZsTTg4aVh1aU9mNmpkYmVaeFBxXzJFaW9yRHVBREVUYzlGbGVOTHFaSlNRaHNDVHpKNHRieGpsY2xaZXp3SkxkZ2lCU1BXTlJmYllib2k2aUp1dFFDRUJidFhpdnQtc0JWbkZHckZQRzh0Q0gzeEdJOXB0a205UkZsUzIzX01qR19qQ1pNb3laNlZMZDlEWHFrb1cwNDhYODV4eDgzVlFNUmM?oc=5",
+        "veiculo": "ge",
+        "resumo": "",
+        "data": "2026-10-12T02:46:15.000Z",
+        "secao": "esporte",
+        "fonte": "ge (Brasileirão)",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 12.047114814814815
+      },
+      {
+        "titulo": "NBA - ESPN - ESPN",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aYkVOTTI5WXE2bXNHRUNCQkZYZlBqZk5OUkZPempkOGIzTE9Dd1hOaWlYV1lFZXM5dkxBSnJNRWxma2NheWxHVG5wR0RQbWhGSDZtSlRkT0lUZGtORXBwbA?oc=5",
+        "veiculo": "ESPN",
+        "resumo": "",
+        "data": "2026-10-12T08:35:48.000Z",
+        "secao": "esporte",
+        "fonte": "NBA",
+        "lang": "en",
+        "peso": 1,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 11.66540185185185
       },
       {
         "titulo": "Atuações do Mirassol: Reinaldo falha no gol, perde pênalti e vive pesadelo; dê suas notas",
@@ -989,48 +1040,99 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.571875154320988
+        "score": 11.553982098765433
       },
       {
-        "titulo": "Danilo vai ao hospital para fazer exames após choque em Flamengo x Fluminense",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNmNWYzBmNGR6Y2R1Q3N4X0VIUDNCSmxLbXZ2MXJoSmhSZEhvMS1IZW5jd2hraGQ5NWFBeTBGVjdSSUN5RF95U2hXNGp2VGlYX1haa0xXN1VMT0N1U0NXNGdXb3ZxT1B6TDJPMUphQWdiZm1xWmxiOTA0ZkdSUjVoUmpkMWJOSlVwbWJ3Y1NBZlJQMHZMVENRRlpmM1BGeWJ2aU8xT1ZRdFo3SXljTFA0S3BXa1RFd2ltNTJKd3RBdklqdGlfOGgyUGRFQXdrdXdfQTZySkcwWW5iUUhpbmIyTzlvYkl5ZjhhTG40aEpB0gH8AUFVX3lxTFB2TWlaU2dQYWVqMDlrT2VqRVFyWGNsQ1ZfS2pETW9JbTZaN3JBM3pqTWstTnF3UjRJZGF0UWhtWGhkenhFX3FhcUFNYnJiSGNRTjZnNEZ0bmdVVXVKUEw4bjhMYUF6a1RQMHRWTXNLT2lSa2lWTDZaaWV0NTEzNUM0aVpiSTVjaUVGTE0yODQycVVSSjUwaDdjZ25FSFV1aTZqeUhBbDNHeENzaTlvM29ScmlfbHZLRHY2ZVprUURHdFhGUjc0SnBqRlJmcGZPb0t5Mkc4THJwVHhhV0hSMmQzOWVkMGt5cWRKdGlPQmNxZ19PQXBzYzlaeEhXTA?oc=5",
-        "veiculo": "ge",
+        "titulo": "Placar ao vivo e resultados confronto direto de Ivan Ivanov Gabriele Crivellaro",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXVSOVlhQnJ2QmlpZWppclJSOEVzMWo4WDNjRFd6bnUtOElGU3J6VHZ1b0pCMDQ5TVRGeXRNOU9OUEtvZ1FqWTluVk55eXFGU1pzOExNZVpCbHZFNzk5ZjJobENTMlV0Z084ZHJvSGRsUzRIVlNrRnl0VDJvLUxzZDZzSWlTZjEwZE1B?oc=5",
+        "veiculo": "Sofascore",
         "resumo": "",
-        "data": "2026-10-12T00:55:07.000Z",
+        "data": "2026-10-12T08:10:46.000Z",
         "secao": "esporte",
-        "fonte": "ge (Brasileirão)",
+        "fonte": "Tênis",
         "lang": "pt",
-        "peso": 2,
+        "peso": 1,
         "setorista": false,
         "destaque": false,
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.550501697530864
+        "score": 11.549506790123456
       },
       {
-        "titulo": "\"A arbitragem atrapalhou o Fluminense\", desabafa Phil | A Voz da Torcida",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPamtlV0pORGp0T3ZBM2xxM2hkdkU3Ykl2UVpEb2lHcVRuVmNBSzlBRUdsaDYyY0hiQkdhTXdvcURJVVMxSHNXbTRWbFhGYzgwZnRUcV9MQ1lrdEI5Mlp1aVpBc3NYbmRZVmhydGR0dHdrb0NZQTNzWk1hRTZPMnFZV2NZOS0wRXNGc2drU3ZfVzRfS3VSWFVkTTBocjN1Y1hudFJsSThhQXphNEU0R3hpOHpNQUVDYlo5bk9fbVlGRkh0RlNBaVBBVHFNVGvSAdsBQVVfeXFMTzlYazhWR3hPQlBuM3VrcmRQWGMtUWxUeFlKa01wdnJpeUNkeTBncHQxVVItS2Nac21pdDdnWmwyY1lWeE9kNEJiRjhMMWpVRVV1WEpiX2xxZ1VvWXZ0b3hlZXdoWjdKZERlR3FOVUNtUnJfTzV1d0ZTaHNtZ0VEZ2otVkFMMGpQN0JianhYWUNoUHYzUEhyenVJdWQteEJGQmVtU1lNb1FpWHBsb1FLV1JWVjRpeS15NjJaN0dUVDVwYlBKdjliQ0NCQ3hSX3FBTHVsZllaUHFfcmZr?oc=5",
-        "veiculo": "ge",
+        "titulo": "Ravens 30-23 Falcons (Oct 11, 2026) Game Recap",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TdEVObEFwYzV6UVpLSEhDTzB5NGxGTkdQSFFZc1R1NjFBYl85SjM2cWtjeFl4bDc0cUhXQW9pTzBHVDFCQ1ZFZ1k3YnBwNlZpR0t5NktnU3lJTU0?oc=5",
+        "veiculo": "ESPN",
         "resumo": "",
-        "data": "2026-10-12T00:43:20.000Z",
+        "data": "2026-10-12T08:00:47.000Z",
         "secao": "esporte",
-        "fonte": "ge (Brasileirão)",
+        "fonte": "NFL",
+        "lang": "en",
+        "peso": 1,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 11.503287654320987
+      },
+      {
+        "titulo": "The Premier League's new villains: Anfield gives Man City a taste of what's to come",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTdyX0lvb3E2WTJmN2h3NTZ0cDk3VVBqbWMyWVdidUt4RXk0RThscGM4QVZtT2dIRE5ydTZyb183SGRna1BOUHRoNWNWV2VDUjAxWmdzU3JQaE9CbF9zWUxTejZiZ04yNnI0b1RFVzZoN2YxUEdZNE5Ca3VrQ3JBWkVoLVlicnBaYzd5YVJyRGhabHdpSlpxbWlqOHRLVGptX1JUNnM4eXRVWWl6cHlJaktaeWVNaUhjV2s5RExUZw?oc=5",
+        "veiculo": "ESPN",
+        "resumo": "",
+        "data": "2026-10-12T07:44:00.000Z",
+        "secao": "esporte",
+        "fonte": "NBA",
+        "lang": "en",
+        "peso": 1,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 11.425587037037037
+      },
+      {
+        "titulo": "As conquistas viraram rotina para Luísa Stefani: nos últimos 18 torneios, ela tem 6 títulos, 9 finais e 14 semifinais",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2MydDA3eW8wbXdmLTFZMF8xZFNZZFpRTTlPRVlUeFV2N29ua0F1aW1GNzRESUdORzBGeGZ4R2dpaXAxSEhLdUtaLXpBQzZRYzlkRjF0S05aWVVNRVI0OXUtQ3phd1NieVVwbVExaUtJMzh4RWdQQXdEblpWaXNxbWdxa3NOOUFkQWZBQ0dtdlF1U1hrRFZhLU9JY3QtVklyYy0zNlVJQUtGb0pDRFl2QkVpX2Iwd0w4VncwcC1rMWFxMHp5ZHNDdw?oc=5",
+        "veiculo": "brasilnotenis.com.br",
+        "resumo": "",
+        "data": "2026-10-12T07:37:33.000Z",
+        "secao": "esporte",
+        "fonte": "Tênis",
         "lang": "pt",
-        "peso": 2,
+        "peso": 1,
         "setorista": false,
         "destaque": false,
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.495949228395062
+        "score": 11.395725925925927
       },
       {
-        "titulo": "2026 NLCS Game 1: Live updates, analysis from Dodgers-Brewers",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVERDOGdIcFNKRGluazlJQnFPZXVLdkxwY3hJd3huYUJjVGdxTkkxZHZlWm0wbEwxVVdKdHdYVGxRMWRMOHl6S1gycGZpb19Demx5ak9lZjI3ejJfWHBSYko1OGRiSXBkd1lNSi1xcG1UVlJwdWFhdFVLZ0RCRERGWURGNzQwSzBvdC1MWHFRZnBZTHo4RjY0UmliMV8zMDRzUVBpZGhWMHhOaU55RDBLSWR2RFNSMTg?oc=5",
-        "veiculo": "ESPN",
+        "titulo": "Hoje pode ver em direto na TV...",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWc5VVYydWxoX1hjaWFkT3hqQkl5eldKbDR2RWZ5V1J3QXhuV1JlY2IzaXFwTFlsa2VzbHExTUNZM0lBLWRmaU44aGV5NnV2UFJxMnVTTmVnX1JqYlFFRDZLZWNVLWNwSkc3UWRDZldMVkhfLXJDTDVEbC13VTdBNmIzaw?oc=5",
+        "veiculo": "SAPO",
         "resumo": "",
-        "data": "2026-10-12T02:14:00.000Z",
+        "data": "2026-10-12T06:30:00.000Z",
+        "secao": "esporte",
+        "fonte": "Tênis",
+        "lang": "pt",
+        "peso": 1,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 11.082994444444445
+      },
+      {
+        "titulo": "NBA - ESPN Global - ESPN Global",
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QdmRYb3hOS2NMV0l5N1BRVXN5cmhIVWtIVFl1SjBhcjhLWnVPanFtSEFsdHdUNG5ZNkRhZ3V1YnV5Zw?oc=5",
+        "veiculo": "ESPN Global",
+        "resumo": "",
+        "data": "2026-10-12T06:08:57.000Z",
         "secao": "esporte",
         "fonte": "NBA",
         "lang": "en",
@@ -1040,48 +1142,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 11.915702314814816
+        "score": 10.98554074074074
       },
       {
-        "titulo": "Broncos beat Chargers in Sean Payton's return to playcalling",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjQtUkNLdVMybS1jbWd0SmE4Qjd6RTVJcTBSaEluVE1YN0hnLXJXY1BKYUw3YlZNcEYwM2Q4YkJqMHJhQ0ZWUExzc0MwODJ4cHNycm9tdFFONGpiYThCSVJUU3pKdGVUZk03Q2laNGpwTGM3dkJ5c1lIUGJ5VkFnS0YzaVV0LTFyTmx1NGpwLXYzYnphNTZnTzF2cUlsUQ?oc=5",
+        "titulo": "QB Tyler Huntley leads Ravens to comeback OT win vs. Falcons",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamJaVXdPSWRScjVSaUotdGpkQUVjSVJuaGJHRHhWUUR4T2ZsNHV2Nm9KU1IzSTZncmpQcE0zVHFURmE2MWxsd1F0ZEgzY0JGQnNDNjB1RzE3UW9CZ3RZSnQyZEpMSGE1bWtIRFAtOHAtX2VkbjFJaGZtcmc3SXRmbmZyeHJFYVR1OEg4SmNOU2NBZjR2cjYyVncwcWV4SWFxUS1vR242eGwydzEw?oc=5",
         "veiculo": "ESPN",
         "resumo": "",
-        "data": "2026-10-12T01:53:00.000Z",
-        "secao": "esporte",
-        "fonte": "NBA",
-        "lang": "en",
-        "peso": 1,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.818480092592592
-      },
-      {
-        "titulo": "Karl-Anthony Towns 'disappointed' with Knicks tabling talks",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmd0dWZ3cEV3dTdjbWZUSG5QOTIyaG5mNy1tM1hrcTU0ZTJrT2pHUmtuQVdIUlQtbjRFNGRDb0xBYTNJRFBxN1V3U1V6dkNQV0Q2cDBHSUZCQ3UyN25pRFVhTzFreGZ6WFpPQUtBdzBIREprOG9XZDBKSWluWlMwdllockpWZzlDOUtiU3NhbC1YRDJZZWx0d1lMZzN6dWppeHc?oc=5",
-        "veiculo": "ESPN",
-        "resumo": "",
-        "data": "2026-10-12T01:45:04.000Z",
-        "secao": "esporte",
-        "fonte": "NBA",
-        "lang": "en",
-        "peso": 1,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.781751697530863
-      },
-      {
-        "titulo": "Kyle Pitts' first TD catch of 2026 boosts Falcons' lead to 13-6 against Ravens on 'SNF'",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTJ6S2ZPdUJ5NlpSZHRILWI4LWJpTG91N0pMRF9iTnZ2UjluMkRCNUNjaVBNemhsZmljZzk0Ri1VVEhkdEs2bUFWM1lQbF9LVXdJZWQ1U2dGaUlDZDY4UHJiVDIxZF9lUTBKNm9SazJ4ZW5GYTZ0MFpWbV9ELUoyN3ZEWTN6dVc2ZjFuSUJ2eWxma2VRUGdvcENRUFNpanNrSXJXc1ZCeF9obWpyV1ZB?oc=5",
-        "veiculo": "NFL.com",
-        "resumo": "",
-        "data": "2026-10-12T01:44:40.000Z",
+        "data": "2026-10-12T06:05:49.000Z",
         "secao": "esporte",
         "fonte": "NFL",
         "lang": "en",
@@ -1091,14 +1159,31 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 11.779899845679012
+        "score": 10.971034567901235
       },
       {
-        "titulo": "Game Highlights: Detroit Lions vs. Arizona Cardinals | Week 5",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TS0o0TUI3TzU4QmU3X1A3UGgxcTdzVXpjb09JYjl5SDdtNDZNa0tlbUFOdV9YMmVxMDVhR3U5Zy1vVnJjQlZJV0ROc05YeTZpUUV4YXZyclQyc3lGUVZ2WncxV3NDa01wekx4dUREUjh3eTZIOG9Z?oc=5",
-        "veiculo": "NFL.com",
+        "titulo": "Ben Shelton vs Arthur Gea » Melhores Odds e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WaWtXZnpOaWloZy1EQkRWZ0s3b3NCdFNRZlhDY2lMbzlvRUtuY3BJOG12WWxGNTJENS1fYkZzUlNBS3k2STlZYnVRSXR1aEpOeTVSTWVHRFlfUGx4dnpLTmQzSk5GSktMb1E?oc=5",
+        "veiculo": "Odds Scanner",
         "resumo": "",
-        "data": "2026-10-12T01:42:35.000Z",
+        "data": "2026-10-12T05:43:43.000Z",
+        "secao": "esporte",
+        "fonte": "Tênis",
+        "lang": "pt",
+        "peso": 1,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 10.86871975308642
+      },
+      {
+        "titulo": "ESPN Global - ESPN Global",
+        "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE96N2RubGtnNkhXVHhKb0NwazItRzR2bVVtZzM3akFUdVJZU085R1UxNk8wSXJQdi1zVXhRdw?oc=5",
+        "veiculo": "ESPN Global",
+        "resumo": "",
+        "data": "2026-10-12T05:38:45.000Z",
         "secao": "esporte",
         "fonte": "NFL",
         "lang": "en",
@@ -1108,152 +1193,16 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 11.770254783950618
-      },
-      {
-        "titulo": "Michael Penix Jr.'s 25-yard loft to Drake London gets Falcons into Ravens' territory",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUG0yOWphQWtYTVd3Y1E2T2NyZkltNktLV3Q4aXVIWWNCeGpXTHFkMm9qMjZCeGZvTjM0dmF5aWFqSThpRTNJeVVyT1I0ZU1HMGd0ZnBOcTJ3ZkphTjd4NDJacFN3UVpDZjdWVV9fN3p2QTFLTkxCQjJJdTd6bDBqeVZYT094dW9hTm1NZThKUTNRVnFycmJjUF9saXRpWFpiTlMzVmF2MndPaHFpSVE?oc=5",
-        "veiculo": "NFL.com",
-        "resumo": "",
-        "data": "2026-10-12T01:40:43.000Z",
-        "secao": "esporte",
-        "fonte": "NFL",
-        "lang": "en",
-        "peso": 1,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.761612808641974
-      },
-      {
-        "titulo": "Mike Green's second sack of 2026 season comes against Michael Penix Jr. in Week 5",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONkJ6d3hNcUhGOWZTNE84bENDY3RFNnNGVkJVV0VkVEIycUFZeFBTbzQ4czNaVE9MZTdMbEpUSXEzcnpoaGh6VXlSNnc4cXpQRlotRDlQRlJRYXJJRXhPNnBZcnRNYUg4Mk1DS3F5OVRmb09SUllXWVBxX05aTk5jakV5b3NLWGhLWTR5Y01kTU9LeF9mUTJzQ0ljblBrdFZFYkpBNW9NYmM4S0E?oc=5",
-        "veiculo": "NFL.com",
-        "resumo": "",
-        "data": "2026-10-12T01:40:43.000Z",
-        "secao": "esporte",
-        "fonte": "NFL",
-        "lang": "en",
-        "peso": 1,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.761612808641974
-      },
-      {
-        "titulo": "Can't-Miss Play: Penix Jr.'s deep launch to Dotson travels over 45 yards in the air",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaGNtVnhLbFhlSTJXWjVOc09WbDNaVGd2b3h2c1JFMV9ZVlNRT2I0YjZrUzlmSkV5VXdJbnlkQlV3V0d1QWV2b21QN2t3cTgtVGptcTQ4RjYxcGpzRmlkQXd0T0FCWHI5SWlEeUk3ZEJwbnVoWEt2clB3OXBHc0QwUGVrbUwta2R1SlIyZUx3ak1lckpSUFM2OFdEdDBFSVJtZ0lJOGxsVkhlQ3l6?oc=5",
-        "veiculo": "NFL.com",
-        "resumo": "",
-        "data": "2026-10-12T01:40:43.000Z",
-        "secao": "esporte",
-        "fonte": "NFL",
-        "lang": "en",
-        "peso": 1,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.761612808641974
-      },
-      {
-        "titulo": "Without Shesterkin, New York Rangers lean on Garand in win",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2hSMEZlN2JsYXdhZkpSUVFmdTd0UnFqbVgyMWItVWlMY2M4SEk2ZFJsbDM4VHJpeElsMndDYkxDdFJhanpiVWVJTThWRnV4bkQyNEhTLTVUajNXSU1haHZ5MXZXZHVIanlBb01ONFhBbExwdFBBY2ZYWTY4S2pycjhia1ZZUjc5cEVaMVcyVzMyakkxWTFHUkN4cFE?oc=5",
-        "veiculo": "ESPN",
-        "resumo": "",
-        "data": "2026-10-12T01:23:00.000Z",
-        "secao": "esporte",
-        "fonte": "NBA",
-        "lang": "en",
-        "peso": 1,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.679591203703703
-      },
-      {
-        "titulo": "49ers' Dre Greenlaw ejected after head-butt in Seahawks win",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHB0ZlFEanNBUTNIUUtwTWtfM2lfR1RUbnhoOE9XOHRPeS1WYU9hR0ZBMmMxU0IxU0xhVkpGbGJ3emRJN2w2U2VJTHFqaFM4QTJSZi1USmNPNGp2eFcwRFotcVJ4U09CMjllMEkyY3lmWEJWY19WZ1JsZ1ZtY2FQMXBsaU00bFNUTnd2QmVfUU0xZUYzNWJCb2VZOUNGdw?oc=5",
-        "veiculo": "ESPN",
-        "resumo": "",
-        "data": "2026-10-12T00:32:12.000Z",
-        "secao": "esporte",
-        "fonte": "NFL",
-        "lang": "en",
-        "peso": 1,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.444406018518519
+        "score": 10.845725925925926
       }
     ],
     "politica": [
       {
-        "titulo": "Veja quanto a gasolina deve ficar mais barata após intervenção do governo",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS085a2lWZXF4VWx1LWNUaUhQQzF2TWpWazdTZll1S01zdDZEX0E3TWloZGtla2RlQ016RkpyajIwQ3Y5eU03Y3pBNFlRVzB5OEZjeFVTcU14eUt6RXJZVTRRWjlfZGc2ODA0U2ZaRUQ3WjZ1THpWUWN4Q1hMMkJJR0htZ2w0Z2k1NGlCZkVzYlpoRUdRSFhlR3l3TGdoV3dMa2FfOHdWU1dGaEQwRURMbFVSMk10cThCV1h4eWphTV92djdoek5nRllzRGcxZDh0?oc=5",
-        "veiculo": "CNN Brasil",
-        "resumo": "",
-        "data": "2026-10-12T01:20:19.000Z",
-        "secao": "politica",
-        "fonte": "CNN Brasil (Política)",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.667168364197531
-      },
-      {
-        "titulo": "Eleições: Lula teve 72,57% de votos em presídios; Flávio, 23,29%",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0RZcWR5em02OVFSYzVPc3VLTzM4dGt5Nno0cUNMR1RZejJmTDZ2ZUJ4SjNReEdJbXZncUFsbm80b0h4NEdUeTNyZERDRjB5NE95aEVTRUJkbFFZTzVYOGpEUl9sbjZyaE1FcmZvbzZUTGdUdjVkUUs5QWFrZEdERjdvSG5Na3I3aEZnWk41WlhiQmJvSk42dkctSzM?oc=5",
-        "veiculo": "CNN Brasil",
-        "resumo": "",
-        "data": "2026-10-12T01:01:00.000Z",
-        "secao": "politica",
-        "fonte": "CNN Brasil (Política)",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.577739351851852
-      },
-      {
-        "titulo": "Passarela das Cataratas do Iguaçu é interditada após vazão de rio aumentar",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZWpPUXRHUjlocUFwQWt3R19LeS03VTB5VWx0Yi1JS0RwMG9INjVtaHVxVUMxWHJwVzdXT2dvbE5QcGJLaVBCemtYS1Vla1p0cGRZQnU3bEd5UnF1b1daemFXRFBFRTh6X0UxNi10Yy1HWnZxZlhYZ3NWTFJQOEo2WHZza29tY3BjaGZsQl9HcUFta3p0MGdWSUkyOFFhdGlnN1BQQThyTlZSMHh4dGRwV1BjT1ZFbnFIRFEtLQ?oc=5",
-        "veiculo": "CNN Brasil",
-        "resumo": "",
-        "data": "2026-10-12T00:18:07.000Z",
-        "secao": "politica",
-        "fonte": "CNN Brasil (Política)",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.379205401234568
-      },
-      {
-        "titulo": "Homem de 44 anos morre após ser baleado em Santarém; mulher suspeita é detida",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenY0Tzg5alFTT3hBcEhsU0ZjYjlaMkNHME1kZzFiejhXZUVpd2JNMXl3cV9ITXVESTV3MTRHUUV0Tld0LUZYMUNOZWFGa0NJUXVyQXlhZGhmc0Jfc1Z3cnNiczhCNndfVzJFeGpLNHlramRTWjBFNWRNRzZSZklGSTNzZENraVdQVmdQU3NJTTVXcHBLYTVYcHFFdzNIWk1IbUdKaFFvYkRSaUc4RmtHb2JhbEJsM0ROQ0JSV3gwUjA1ZlpXMHhGcElKQl9iM2NDblJTZmtCV3jSAecBQVVfeXFMTW5rejBkOUtOczV2WWhwLUVfeEZtU3hjdWxCRWtjS0xlZWhlQUppcE0zMTY4eHZZOEVMUGpvcmhEODBpZFl3ZGUyMTVfRVVQTmpsUld4ZU9NMVhQQXdRMFdPRDBmM1FHMzJpaDlVUXN4OWZKR1hEVVQtMzducklCVFhzMW83U3Zlb1Q5LUpSTHQtczJCMmhFQnBHZHZIcmJIRnduWVJRYnp6SWF3aXBUVVpmRnc1X25yOXdVcGxEMVZGT3JlaFFyeERkenlMV3dFNG92V01BRF9HR1JtMHRENWZLRTIwTXc4?oc=5",
+        "titulo": "Além do Planalto: como a eleição para o Congresso pode afetar impostos, empresas e dinheiro público",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaUFTSTAyUmNEWDhEWWNwVll0ek1QTHNPYnNWMm5fSGUwdlY2ZjNLMXJEendESWFHUGRJQTBwYVluUHFBS1dsMWhuc1p3YVdCWndfbk9oS1YwazJ2N0Z4MWJkR0NtY2t2VTNlLUJ1VTl0Nm44OG9PVGJ6ZkxtTjdCMkVPTFBZZ0pzbG1rN2tTejNHejl4bDdDUlNiZDdYbzF1ZGZwTVBDSC15QlZVTUdhQWJER09FWk9aVnNzVWhsUW9fYjEtVldLcUxiN3ZLNHFYNTFKOGlJOEhFVmtjNWxfNVRUdmI1LTjSAfYBQVVfeXFMUEVIVlhTYmhYMHFmN3BKeG03QV9Vbkg3VnhOUU1XcEhvRm5YWDg1Tm9hQ01oTGpyZG9GalVNV3h2UE9yMkk1dm9lZnVKTTJSYUs1WHl2dFJMNERac3J2R3VqZG1yVEU5U2FMenU0N0h2WV9XazBqTXd4RU9PSk1YZzhXLWpZVjg3QlZadWplTl9Eb3VOcVlNUnY0S0RFdU4tbDNJM0xOaW1idE0xR0xCWXVBRUdxWVV2QXpySmhKaXZsbXM2QkJJUU9mLVhBTThJUTh2akpMRDFrak5rZXgzWDJadXc0QXVsdTA2bVU3aDdqanFBRG93?oc=5",
         "veiculo": "G1",
         "resumo": "",
-        "data": "2026-10-12T00:11:48.000Z",
+        "data": "2026-10-12T08:00:00.000Z",
         "secao": "politica",
         "fonte": "g1 Eleições 2026",
         "lang": "pt",
@@ -1263,48 +1212,116 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.349961574074074
+        "score": 15.499661111111111
       },
       {
-        "titulo": "Abel é direto sobre polêmicas no Dérbi e faz pedido à torcida do Palmeiras",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYmNzbGFHTWQxU1cxUzE1TGd0V1lkdEFOYVFldjhYRHM2SGxTSFdadVdKVzk1OEcyeHlsM2Zyai1tbUF2djZDLXNBNURTdjNLWjZZUUhpZUE2XzE4Mzk5d1RhT3pPUFNmbGxsSGpBQjNFUkV6MUVUdUNUbWVkMm13WEMwMmhLTTlmQ040VDN5VF9QdVhKUnZPbWRZMG5rNU55UURYOUluOFBOQmJfeUM2TUhfTmdGQzB1S3UxejRLdjJraVJ6Z0p1WE43VQ?oc=5",
-        "veiculo": "CNN Brasil",
-        "resumo": "",
-        "data": "2026-10-11T23:49:46.000Z",
-        "secao": "politica",
-        "fonte": "CNN Brasil (Política)",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.247955401234568
-      },
-      {
-        "titulo": "Tobey Maguire celebra casamento de ex-esposa semanas após divórcio",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHBlV1pDOVZyY2FqakpaX285a1U2ODh5QXl2WjRDVlcya3J0VnU1MnBsUUxoSVdsM2Z4UGJ3N0gwWmdjSDhsenBhaFJuYjFkVHhNUER3WFlxSDNqUk5sMkVXY2RUVDhQZ3BUT2YzZFdjclNKelJ2aTA4RXFJckFmZEN0NTFaZDZRZVhJcjZjLWxDQTFGakFyS2l5eTRNOTR4bjJGQnl4VGJPS3VHM21scWJIVQ?oc=5",
-        "veiculo": "CNN Brasil",
-        "resumo": "",
-        "data": "2026-10-11T23:39:05.000Z",
-        "secao": "politica",
-        "fonte": "CNN Brasil (Política)",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.198495524691358
-      },
-      {
-        "titulo": "Flávio Bolsonaro se reúne com vereadores ao lado de Tarcísio e Ricardo Nunes",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX1lFVnY3WnNQREFvZTZ5d0xfeFpidks5XzdZX0NVVFFCSnN0NGhab2NaUGxVOHBmSkZ1TzJEZ3VpanFJUERtZlZPdzFCUzZUbFppYk9vME5oR0ZsdzJLTFh3Y3JNanFYZGw2Mk1mcGp1cVQtbWpwX0F5WXhFejY5Yk9UdXc2Q3JoSHR5OWp1SFlxOEhScUliRmZ2N21nMGpKdjhIYk5jOXpVUDZVb1k3TzJGRHhiMFBUdnBVZUJ5azdKVWkxYmgyd2wwSFVaZi1QT2lDTlpZVGHSAecBQVVfeXFMUFR5ZTBSNG1vSFBxWEthSW5fSlhMSWRfQXNHTE1FV2JqN290SDMtLTNLckkyX0lIRlJWMkhCQm9heU5TbkNmYTB4TWJlY2xZQU1HUUZCWGFNbDhPR1YxaHM2dXRLdmpEeXY1NkppTmRSN1JXWmktNWhsRUtBSUQwYVdlZXpxcU1aVFMwTEJXSDh6czdsanhoaTFzN0tHNWtlTmZJOEloaERHRFhPNUpvNDZSejVaRFJ6dDdqQzdPc2VqUThMYmx5ajJjUUdGTjhNaG5iM0VpOFEwY3lYcFNEX2FwZS1XZTY4?oc=5",
+        "titulo": "Outubro Rosa: Carretas de Mamografia atendem mulheres em cidades de SP; veja locais e horários",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ3N2NEVlaVNodVdwM1hUNFBxS3ByWXY2Z3BBTzhYVE02cXAxSkdLY2RnYmpudkdWOW9HNmhrYjQ1M095UEtDaWlGYUw3U2lobkpHNnhrd3lpaV9NT095OHF0ZVRaNzlsU3RhRUZGVk9qZ25kajl3akJlUTA3TGlZSTRZWTFBa08wVlRXd0ItMVFXdTZyQzkwODhWazNSbFFlcjg3Q2NpakV1b21YT0h3cjQ2bGF2RS1IaUhyNUxYeTJqSnE3b3BqWi1STU9qMTlhREN3ejlfU0FOT2VVQ1VlWHlEb3lkazNwR1RmbHdHang3eXQz0gH0AUFVX3lxTE5nc3Y0RWVpU2h1V3AzWFQ0UHFLcHJZdjZncEFPOFhUTTZxcDFKR0tjZGdiam52R1Y5b0c2aGtiNDUzT3lQS0NpaUZhTDdTaWhuSkc2eGt3eWlpX01PT3k4cXRlVFo3OWxTdGFFRkZWT2pnbmRqOXdqQmVRMDdMaVlJNFlZMUFrTzBWVFd3Qi0xUVd1NnJDOTA4OFZrM1JsUWVyODdDY2lqRXVvbVhPSHdyNDZsYXZFLUhpSHI1TFh5MmpKcTdvcGpaLVJNT2oxOWFEQ3d6OV9TQU5PZVVDVWVYeURveWRrM3BHVGZsd0dqeDd5dDM?oc=5",
         "veiculo": "G1",
         "resumo": "",
-        "data": "2026-10-11T23:33:42.000Z",
+        "data": "2026-10-12T08:00:00.000Z",
+        "secao": "politica",
+        "fonte": "g1 Eleições 2026",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.499661111111111
+      },
+      {
+        "titulo": "VÍDEO: Menina de 11 anos viraliza ao mostrar rotina com tarefas de casa em Uberaba: ‘A vida não é um morango’, diz mãe",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTV9mZ0xjUXF6dFA5QksxSlJYQmg1OS1lazJ5MWVaYkYzTGVEVWhMRy1tUzNYTllZOFQwQ3ZNWE95ODNtMVhhOFJicm9HODY1OUxhNzliWlpUV0hIR1VTQk5PTng3M2NuSzVlN3pBbGozUDJzSmlGVURnLWM3QzdiNExFOHBaUFJYVWI5RUl2emVBcVduX1pqQTduUHB0UkVWSkRkTjFQc0pJOGJadjhaVHp4VkZ1MVJhMlVIZHA3WUY1Vm5ibE9rZ2daQVlZSzQ3Uy0tUFNmMEhSNEM5UXFJR1JsX0haZ3V5bE9CeHFzbmZBbDMtQWxua0dOTEFiZ2pWM3VFOE5iMGYtQmR30gGbAkFVX3lxTE55UVZmN04xRzlNcFFTeUw4TWp0dU9SY2pHd3BnU3B1R2d3V0FmNTZHQlY0dnFJVWxSRTBrQ0k1Yk5KRmFLTGt4VVdxOS1TTFNTWGhJOFpMb09XV0xpQ3ZKVTFSdFItMFNodUppSjQyaUktZWpKOWFaQXJxUGJ0WXdCbFhsQjlvS0sxVjgySGJRMkt6QzFDUTBXWFh0Y3RIejItcmtUbWVYRU01MUdtalR5WjdTQXFrOFZfbDZ5T3FtVTctbGoyNi1ta3NGTmZrWEJiRno5MmdPQzNGbTVYRTJQdllRTmYtM0lWT2JJRGZJMHBjRjNkNWhENHg1bUJ5cXlJaW4yTEtpQmdvVFJ2T0IxYkxrb3MtQ3E1RFE?oc=5",
+        "veiculo": "G1",
+        "resumo": "",
+        "data": "2026-10-12T08:00:00.000Z",
+        "secao": "politica",
+        "fonte": "g1 Eleições 2026",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.499661111111111
+      },
+      {
+        "titulo": "O que sabemos sobre incêndios que atingem mais de 30 cidades do Amazonas",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm9YNmxsekhpY1pxRVY0dGdOWGRDM1gzQi1jRHA3UFd3TXpvUmNaOHY1SU5nSUFHeER6Z0pNQVVZUkt5SWVMUlBLRHNxOUFOZWhaQi1UNEVTdlFEbWFob0VLS0NTUUlQeWRadTFDdVNQMEVoWFZOR0V4T2xLLWswZnp4YW5LUk8tWFRFTUpuN0VQOVYwQzh2RzROUHNhbGUzVmVQUmdGZVhpLWIzRVk2bU45dUpaZjNjWkQ5ZA?oc=5",
+        "veiculo": "CNN Brasil",
+        "resumo": "",
+        "data": "2026-10-12T07:37:02.000Z",
+        "secao": "politica",
+        "fonte": "CNN Brasil (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.393333950617285
+      },
+      {
+        "titulo": "Governo amplia medidas de combustíveis e mantém custo previsto em R$ 40 bi",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUJjXy1wdVpHVUJtTW5DQjhOa1FvN0ZteG80ZXhzWlpDWFJBanRVOHM4VHg4QUx3bEZ3bkVrN0haTzF4bHRmSEhtWTRZdGsxUm5UU3FZM2Q1UEpRRFNoQ01TTGdBdU5MTk8wcS1KR1ZsU1c1OFdRNkNVNkwyOE5YX3htRHlNNWh0d1R3bDFSOEMyX2NWekVpUUhWcjFvRThvdlVlMVQyR09NU1BQRmIycnJWR3BQbTlUUVh2T056cGJOYnpoM084SzNOWUQ?oc=5",
+        "veiculo": "CNN Brasil",
+        "resumo": "",
+        "data": "2026-10-12T07:19:52.000Z",
+        "secao": "politica",
+        "fonte": "CNN Brasil (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.313858641975308
+      },
+      {
+        "titulo": "Eleições: Lula teve 72,57% de votos em presídios; Flávio, 23,29%",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0RZcWR5em02OVFSYzVPc3VLTzM4dGt5Nno0cUNMR1RZejJmTDZ2ZUJ4SjNReEdJbXZncUFsbm80b0h4NEdUeTNyZERDRjB5NE95aEVTRUJkbFFZTzVYOGpEUl9sbjZyaE1FcmZvbzZUTGdUdjVkUUs5QWFrZEdERjdvSG5Na3I3aEZnWk41WlhiQmJvSk42dkctSzM?oc=5",
+        "veiculo": "CNN Brasil",
+        "resumo": "",
+        "data": "2026-10-12T07:03:30.000Z",
+        "secao": "politica",
+        "fonte": "CNN Brasil (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.238087037037037
+      },
+      {
+        "titulo": "Segundo turno intensifica duelo judicial entre campanhas de Flávio e Lula",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVljT01McDJYLU9USmt4c3lYWm1RRkgyVUhwR1o3bDY5WlJQMG40aG1RWFpaYkltN1hjdHhjREJwM3RBN3U4WXItNTNPaVpEa0lQd2FDY1BEVG9NU1ZmVkg3bmdtdHRjNTRlbWJJZ0lMUWhHUzMxVVJzM0YxeVd3QVJZTlR4THVWdko1cE5LRHZfNzRTZ1lYUkUtV1pmSGR1UmU1eEF2UF9hdjFqYy14cEF3?oc=5",
+        "veiculo": "CNN Brasil",
+        "resumo": "",
+        "data": "2026-10-12T07:00:11.000Z",
+        "secao": "politica",
+        "fonte": "CNN Brasil (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.222732098765432
+      },
+      {
+        "titulo": "Concentração de votos impede efetividade de 'puxadores de voto' do PSOL e coloca em xeque estratégia eleitoral da esquerda",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZGY1aWFzZHRGYjkzX29PRzZsOUdsZ3FSeEczZGREQnIwcHBBTjFqRHEwUXkzdXl0SE5leV9weFVGbjQtSGpSSzVRd1lTcFZ3ZGdzZW4wRUtfYXJpNjVFYW1TajYzak9jWWR1Yk41ajFWQTdQa2NmNDA4QnpzN29mcE5uUENrNFpfYlk0NEd3NWFNR0x2N2N3V2RxUXJFLUpfdVF2dVBNM2t3UTNfbnZQbi1jLXJGM19nUFZIakVYYVRMNnFPOHpuSlBvWDdkaGR3cFZFNVZYT05udzY3OE5LSmwxa05MZGtpMG01SUFNVkZTRGVjVmlyLVA4YTZFSXpJLXpnbjgtM2Rodk9JbjJ0cmJFdU5GMXNw0gGnAkFVX3lxTE9iOGFmbmdCWGhNWEJfMkZaODZzM3k3Ung5ZzhhaDZWVWozbjJXNmtiNGdSV3hjdUlYQWxzMFhMaFgyVEROT3kwTzV0QlBIdmdLZjFTMEpBVDFPODUzcnNSN0J0MTVjUGFUQzA2Tmo5U3ZrenNLODkzblJoMVFYaXgyNkk1NXlyMXVHbTBuZkFuS18tRzZlV3E0RkVtNTNJNU5VQjJrWGFaNGdoRVVILXRRRVZ2a2FsWjc5eG51M0tkMWhBRUpPb05YOTdCUFMtcXVjaUV3dy1EVUY5eGo4cWp4VjlRQlhucVlDQkNIR2dtZTNmalJNSVBkVkZVS28yM21iY01fRDRaQm5DbEJNaHdmQi1xTVp1eDVWVTJiakdxdEhxZXNzVWc?oc=5",
+        "veiculo": "G1",
+        "resumo": "",
+        "data": "2026-10-12T07:00:00.000Z",
         "secao": "politica",
         "fonte": "g1 Política",
         "lang": "pt",
@@ -1314,14 +1331,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.173572685185185
+        "score": 15.221883333333334
       },
       {
-        "titulo": "Fluminense detona arbitragem de jogo contra o Flamengo em nota oficial",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDIyV1V4UU91c1dwbDBKM1YtZkpZUUpIYUI1VU1fSmlyOEZpXzdWSVc2RFBlSnBJMTB2YmV6UHhHVGtVU2FlX1ZJVHZXWjlyWTNENXpIQktoNVk0YXpwSTNWbXR6NTd2T1JERTRSZHExX3BuaU5qUU5MMHFJRWF4bG1XX0ZSWlJrOWxTOWlVTGlyLVpVd2ZmYjdTSmxmTXA0SzB3NFlpLTZ6eV9zMUtLNGk3WHVzQzk5TE5JUVduLU9tRE5oWjlJ?oc=5",
+        "titulo": "Receita de brinquedos para teens e adultos cresce 50% em 2026, diz estudo",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdG9fNTFjNlBEYjdWTWNTU2hsQjVTdE9UWS1XTVhORVFyNFU1N0ViV1dyMTY5QkFmTkhDVVViRzh5cWc4RERUTjl3aGh0LTNGdkFhejVoVzJCQUZEaXZoSXR2UjZYSlFacWlCVnlQSWtJendtRjRXeHIwajQ2ZXZPTjZ0ZG9SVEtrOG0xZThsYU96WXZmaHFlOEpacjZMOEJUc3Jkcm5IRDJ2Sy05NEdUU2M0RXp0U1pBUHNSNVhianZDWnM?oc=5",
         "veiculo": "CNN Brasil",
         "resumo": "",
-        "data": "2026-10-11T23:24:37.000Z",
+        "data": "2026-10-12T06:50:59.000Z",
         "secao": "politica",
         "fonte": "CNN Brasil (Política)",
         "lang": "pt",
@@ -1331,16 +1348,16 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.131520216049383
+        "score": 15.18013950617284
       },
       {
-        "titulo": "Após 1º turno, PL e Republicanos detêm 46% das receitas estaduais ao elegerem governadores em SP, MG, RJ e RS",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQVEYxcklhUW5JdjlrbmJ1aHRqSWJfbnBNSGptX25Md0MyUDA3WWxxME44cnFoRlA3UGwtMVk3dHptUldzV2xpbHpsbXNFZ051WVptMXAxeXNkM2JOcTRVbHpWam5Jd1BrR2FJYUQ4ejBaWlUwQUNIMUNWMG9wZGxyQUcweG1XSm9IZk9iX2pJT2pxQ1BKUzBEM2hWZTIyOGNhakY5U3lDdXpjSFI1X0lYOEFiU1NMcDFIS2FVaGw4elB1Qm43S0JrZVB2WGdMckdoTDFfZGFSMEtPUV9hcC05bWdyaXNXNzktM3NoVUQ4TWxHYVJRV1E2VUJOUnhKZWxUNTVTZzZHVWRnOE5DXzBBanRTd2ZtZUpzNHk0OW1R0gGsAkFVX3lxTFAycEZEQkJkUnNZMjZUenVkU19UQ1lPRTA5LWprTl9LbzVGV20xYnBiVmlGZERSUU9fMHNTd0g3TTVnQXhzVm5zUTBNb0U2ZmJQQjNUXzhjZjMtclNtTFp6UEZPWDgyd3REdWxESWJVQzlMSUlCMmZHaWEteXRKOXJkVFBlbWVhRmpOTl8tVW8wN002Z3BhYTZPaTVYNUFOMV8tWVlCQ3h6blNKSmdkR0liUTNUbHRRb1hHckFhaVpRdFdWbXhKMEJrUWtLaDJzWmthbEhZUHlPdkRpcmxmbWJReHpELTlCSUFwOFdPc21rWHdRYzZCZDdEa1lUN1RLQVh6WlJjdl8xZHlHWEdLZmk2LVFXVjdLU2Q0X29lOUZNNHJ3SDB1b2VKcENOUQ?oc=5",
-        "veiculo": "Valor Econômico",
+        "titulo": "Centrão fica em alerta e direita otimista para eleição interna do Congresso",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHZWaG5lTlZKSEN0RkZ6LU9pUHVLWXBGQU9BX3F6czJ5S0NGQVJhcFJiRXB0NnA4TWRta1BjX2xTd3RwYXd6QVZ1N2NYNTZkSnhzcUNXNWlxVHpNMVRqYndvcG96SXpHRTVHaG1rZEJDeXU3TXg1b3VfSmEzRURkOGxqYTdlVDhCalVod0F1MGo4aWdDczdxSkVqOWR2QW42UEg5dWJpRkM1LW9lQmo3Q2ZtUXI?oc=5",
+        "veiculo": "CNN Brasil",
         "resumo": "",
-        "data": "2026-10-11T22:55:40.000Z",
+        "data": "2026-10-12T06:50:37.000Z",
         "secao": "politica",
-        "fonte": "Valor Política",
+        "fonte": "CNN Brasil (Política)",
         "lang": "pt",
         "peso": 3,
         "setorista": false,
@@ -1348,167 +1365,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 14.997492438271605
+        "score": 15.178441975308642
       },
       {
-        "titulo": "Dia das Crianças: confira a programação gratuita na Grande Vitória nesta segunda-feira (12)",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa1oyOTZhWnRGcFgtUGs0NlFTVXIyd2dlRUQ1N1JnelYzczF1djNPdUN6Nk5RUktaZzJrYzhHWHVNUGJKUG1Mb1RMcFVUWGZYbUcydEl5OUpjX203V3VXWjdvV2FyVzhjeGNxb1FXVDFNTkxlX3JoTjctYXJmNUFkQ29DR2hYV0pLcGpHRGNHYkxUM0RhUGxFQ05MVWRRcm9ScWNpczU0SWVzYzRoemRpbVV5M3JZUTdFU0lQRnlnX0xmdlVLdlhpTS1TX0hNZERSNFMyckxGVjBIV3ZtenJzMHhDYkJ0S2FYZGxrOGFsZXlmakpEN2fSAfYBQVVfeXFMUGtaMjk2YVp0RnBYLVBrNDZRU1VyMndnZUVENTdSZ3pWM3MxdXYzT3VDejZOUVJLWmcya2M4R1h1TVBiSlBtTG9UTHBVVFhmWG1HMnRJeTlKY19tN1d1V1o3b1dhclc4Y3hjcW9RV1QxTU5MZV9yaE43LWFyZjVBZENvQ0doWFdKS3BqR0RjR2JMVDNEYVBsRUNOTFVkUXJvUnFjaXM1NEllc2M0aHpkaW1VeTNyWVE3RVNJUEZ5Z19MZnZVS3ZYaU0tU19ITWREUjRTMnJMRlYwSFd2bXpyczB4Q2JCdEthWGRsazhhbGV5ZmpKRDdn?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-11T22:29:30.000Z",
-        "secao": "politica",
-        "fonte": "g1 Eleições 2026",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.876350462962963
-      },
-      {
-        "titulo": "Lula acusa Flávio Bolsonaro de mentir sobre propostas econômicas",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1lqdU14R2M2Vjg5NTVuM2FocTBwMzNRblRfclctSUVyV0xKNlBHSXJQSnE2Ui0yVWlWYkRMQnNfRjNBbWVCUWE0TVczX0x3UzdZcVFwT2EzUVJ0NGZONVFtVXZrdFZMcDNpREo0VTJvSnAxUmJHcHhDMVJDc2lvaEhYVzAzVDVZWVFPS01xcnhfTzhkV2JnWE12S1l4R1JDcFl3RWZtWnJBNDVXdUszTkVDQ0NyNkhRWHRnTGxJcnRnd9IB0AFBVV95cUxNcWNaNGdDYktCeWUtZWNXNEd4eElCT2ZKLUFmUFdDTi1meTZyNURtME85d0hLdHhZY1Jnb0VVZV9jREpnVmkzUGtDTFJwNGl3THo3WVdoNTBhZ3ctdjdNNjY3TXNYQ1QxTUtKQVpDcUNRVGxCS3RsMkVhZlZKVEh4eDNrY21MR1I5R0FzZ2NpdXVQQ28tMWItRkJwcUdNeTZjR2VpeWRSTUV0eThBdVc2amVIZGpMa2NvWUVrZU96cHVGQ1QyYkFnc3pOcFo3MlV2?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T22:15:17.000Z",
-        "secao": "politica",
-        "fonte": "Valor Política",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.810532561728394
-      },
-      {
-        "titulo": "Falha na rede de transmissão deixa 95 mil imóveis sem energia em 9 cidades do Sul de Minas",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2tQLVBjLWVRWGQ1UHpYU3piVy1qREh0WE5LUGpUa2RUQTZVNEVGeGpzeVp2LU9VeEJZa2drYUQ1SXhvNG5HUngtTjRudXktNDBiRC1RckVTM2YwS2tfR2F0M0FFNDB1cmpGUFlmVDdLT0UzNkN0QUZMZG9HemxxRjI2OG1DbVhnOTdHczdKaDdqYkdVYVQxYVdyVC1wNjU3S0ttZURuZlbSAagBQVVfeXFMT19rUC1QYy1lUVhkNVB6WFN6YlctakRIdFhOS1BqVGtkVEE2VTRFRnhqc3ladi1PVXhCWWtna2FENUl4bzRuR1J4LU40bnV5LTQwYkQtUXJFUzNmMEtrX0dhdDNBRTQwdXJqRlBZZlQ3S09FMzZDdEFGTGRvR3pscUYyNjhtQ21YZzk3R3M3Smg3amJHVWFUMWFXclQtcDY1N0tLbWVEbmZW?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-11T21:53:10.000Z",
-        "secao": "politica",
-        "fonte": "g1 Eleições 2026",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.708140586419752
-      },
-      {
-        "titulo": "Jovem de Goiás morre em acidente que matou vereador e mulher no MT",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLWlOaVlLZXo3dEczU1hNOTJvcUpqMkJoOW1wSnBGakFWRDhJR1dPbU5xRFV6Q0tmNm5RVWRaWlpMUXRpWmdDLTZlUVA0WURTeHc4djdWZ3FqNFNTUEE3UDFIZGxpNnZjOW4zcER2RzBBend3NjltZmEwcFBGcjJhRlN1ZW5ENUpwMElfZENhWV9vUEJ4RFFPRmJHY2ZOMUc2dlFLM3N3SVJlWG5nd2NtOUU2UmZnNWpwd0EyTExOZHMxNGg1YU82LTc1UGF2OEg5N0J5N25WZWfSAdgBQVVfeXFMTS1pTmlZS2V6N3RHM1NYTTkyb3FKajJCaDltcEpwRmpBVkQ4SUdXT21OcURVekNLZjZuUVVkWlpaTFF0aVpnQy02ZVFQNFlEU3h3OHY3VmdxajRTU1BBN1AxSGRsaTZ2YzluM3BEdkcwQXp3dzY5bWZhMHBQRnIyYUZTdWVuRDVKcDBJX2RDYVlfb1BCeERRT0ZiR2NmTjFHNnZRSzNzd0lSZVhuZ3djbTlFNlJmZzVqcHdBMkxMTmRzMTRoNWFPNi03NVBhdjhIOTdCeTduVmVn?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-11T21:52:24.000Z",
-        "secao": "politica",
-        "fonte": "g1 Eleições 2026",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.704591203703703
-      },
-      {
-        "titulo": "Homem é encontrado morto sentado em frente da própria casa em MT",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS2JfbkwtX1h2YnZvbzRwczAzS1VIOTNDRXpZNWI0b1lPSVZnc0RlQk1VMzBhZXlTaGpCWTFLaU42QkZaNGFhMmI3N1RLRmtTaEJGWXBTdWlBelZIcEUtSnZtWlNNTlJUallzeDJUc2VDMmtmU1NxWGozYjM0MHdoX3ZUTnRFS3BLR3JsVGgxTVYwNzJ6MEpKeDk2bFVTQlQzMHZ2RzhWX3U2Y3R0WlpHNDhWMGJlakZCbGFQS0luQWVVTzjSAdIBQVVfeXFMUG1PZV9veHhST0ZyU1BwTnRrYXJhZTdyZV90cElZM29zVVlMbjV3OXJ4T0tHUGlkODIwT0p3akNjbmNBaXdDellFcmJTY2tOU05wZ2tFZExvWmRpb1RLeW1XbjRzV0kwQlJ5OURZeXRiSk5PbGNDZWZKQzZIWFV4MU5xNkZKU1paai00cGkyeVUzT0pmd21QYzV1OVZMeXVIUk9TZHZxZTRqVFBFY0pRZVVOLWhUc2RBbFpqbUxkVHY3UHVIcUdiQWNpVU1hUDdyYnBn?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-11T21:45:57.000Z",
-        "secao": "politica",
-        "fonte": "g1 Eleições 2026",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.674730092592593
-      },
-      {
-        "titulo": "Flávio, Tarcísio e Nunes reúnem prefeitos e vereadores em SP para impulsionar campanha",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLXQ3cUpkT05mR3dPNklkWHNRMnN5VkZkazFrbXkwbVVlS3VTWWFWcHB2M0VSN3hsVkF1aGlCN2JWcFVrWFZUa0JMOGt6blJoYXFwSS1UVGxqNTBOSmxXeVNWNGRHemMxVEFQcVJLTkY3YWkxakJ2R2h0QnFEZDREWm9WV1FBTkZBLVFXMFBHSDNHLU0wbnh0eC11ckM1dXRtb3BrOUJSOFF5N3FXeW93VDB3UV9hOXpjWUxPR0plWEZWeElPY25fNEZYUXVOWTllSlpLTXNuRTlNVzBlNE1RZnY3THI0VHNWMGfSAfgBQVVfeXFMTXVuNmN0V1E4WWF4VHlLMDRUX3pwX2dmNWNqZXRjU2VwY29ReTdOVEdqenNiMXluRktIOE9BOGxPYmhCdWhjcjM3czVFM3R5Qjh0ZlBVRUZYRVBlY3RuTVNvWXl5bDJlM3pXbG4zTU5PcFNrQ3JlNjBNeHVPeWkwc3RzdEFxV19PVzZ3RXdHU3AtT0Q0Mi1HYVVsVjUyYWFsWnNCQ1QzcTVvQXdFZ3NGWi1xQkpnaWVIWGktTkE4VlVkeXpoSjJFRjVFTWptTzl0THl3OFRWY3Y2eklNcDBsbXYyZXNMLUxoYk1DdnRMbno2azM3OHlEN0k?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T21:31:55.000Z",
-        "secao": "politica",
-        "fonte": "Valor Política",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.609760956790124
-      },
-      {
-        "titulo": "Campanha de Flávio Bolsonaro pede investigação de diretor da PF por entrevista no primeiro turno",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX2VuUVV4bnJqSXVZQWYxTHR0aTVSYWtHU3hnT09HWTRtSVpXUVJzY3ZmaEhyT25UVFowVG1DNkRabFY5Z1o1ZDB3YkVzc2otNVRVYWU5LS1uZEI5T3hCeHhaRVFCY3paZEFfR080TW52WExDaTlKRXlseXRYX0RUNEpuMzAxbEVKZk4ydVZjV0ZBWmh1dWMyYWZnbVk2cW5iSmpCa1Q4RWJaUTF2aEt2eVhvRmR4UDlKSHpJNFRic0ZRd2NYbkU4bnNOUVJhTXNHNGFsc0NwTzMyOWQ1ajhoQmhrdWFqOEJhay1nMjZFSENCU0Q2TlZ4U096VVLSAYsCQVVfeXFMUE13SnNoNXRlS05odksxcDcxa0Y1VENja0NNcmZaTFl6cXIzZ2tjOEdsYmg4MlhSTm9VMlBHbllTSGdEZHBVZ0VORlVCRFd3UnFLQ2ZHZHEzdjVkOUl4OEhKN0g1dzQtN0ZMU29YSm9vU2JiNUhjbmVSWkZ4X0cta3BKVVpjMFZHMHBDMzN0RjY0V05PN241dmRQaWtaaVEyWmIxZ0R5eXlydzZGX0tNYVp6Nk5QRGNMTXBCVjd6VldtcDVxRHM1T1pFczNUeXVRVU1DVC1kWXlrOWsyN1FSM0xtZkZBSy1IcVdlZUY1XzJOb1BUbjVoU1hpN0lMM01rY3lXNm9BYkxrY3FR?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T21:15:08.000Z",
-        "secao": "politica",
-        "fonte": "Valor Política",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.532060339506174
-      },
-      {
-        "titulo": "Flávio diz que sofreu 'pré-julgamento' por pedido de dinheiro a Vorcaro para filme sobre Bolsonaro",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOU24tT2ctcGVIZEo4NlMxOE1yalhXdjd5VFJfUy04dEhYeF9XdVVBQnh4bW55anJoNG12SFFrT3hUYlJkMTR0cFNSblhiaV9YWEdEQWZSR1JaemZaUC0ta2Y5NGNabEpPVm51SXo1ZTVIWVFURzE2NTlpYzgtMEJFcFhLMndWbE4tN2xYX1c2eHVGYVUxZ1ZVU2xCWUZydnV2bVNzcE5QbHFWYkk2c2FLNzZKa3FUYVFYTWpBbWJIbzhQTjBCNlUyaTJtRFMxU0NubEl6QzhyQXZ3TktTYlFuY1l2OUVCaXNFTXVnaUhDaGFKZHJWQzB6b1ZR0gGIAkFVX3lxTFBHTThnekdrRTlHT2pjQTd2ZGp5SjJjZWJpczdLd09rc2VfYmVibUdBWjRLSE5SVG9aYk9WY1JweGttZ1BKNThFY1RDWWV5dXhua1BmZnBjSGZKekEwQWxZbUhhaHdPUGxQSE1RUDJBQVViTkViM3VoLVhNZVZYa2xVV1AyN2VtZ3p4QmluRVAxNXcxOGpkMUpYRHFLLUVSOXlBdHN4amxvTWdBSDMzd3o4cWtzQm5sRDkzSUNQU01XeWJWY3FqM0RFWElLUG9Ob0gtQm96SmxXZWJwVFh6NU5fcGxvWmlkTkt1d2dzME1HdW5ZZzZsMmZ5Z3BRdTB2RENFTGhOVGtNSA?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T20:29:59.000Z",
-        "secao": "politica",
-        "fonte": "Valor Política",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.323032561728395
-      },
-      {
-        "titulo": "TSE abre investigação sobre Marçal e site que oferecia criptomoedas para promover campanha de Flávio",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd3dMdmtnZUgwV04wQ2lWNU1idUJ2UU0yOXVuNXZrdjlkdnJwcjJ0MEVabnBiaVhZUVhCR1NfLUxjdDR5bFYxd0N3VmxtMHBqczJHNTZ0eF9kazVMQUZmbzJZMEFDMjI3UU9qQmgzN2NMM1FLNlZIN2Vna0Q1RlFvUkZSeFdsZVIwNU5KeDdWZDM5ZXoxNHhoeVRrQ2RWc3JCOUJhV09OZkRfNUt4d2YzU3I5WndXc0dTTENjYXB2SVpLVFk1NEoydmVNdTVROWV1UlpJRXBjempqNlA0ZmJvWDZvbzEySHlvTUlhalV30gH8AUFVX3lxTFBET2NwLU9DMFk2ZXNaTnZfUmxnTm1iekt6OW02ZTFDRDlVVlRkdnozbERRNmUySlBNSTRRWHpZTDJJRWpXNmQ1aXo5TldOMWx6dXlrREVaaTRxOWFGcVcwQk5OVi1tVFBpeVVKQ29iTHVUY05FVEFGeHlIbzdHcUFwQm9sRVZPdlhYYmpXanc1WGRQWHJPZ2FYWWJiN2xyOTNKOUQyZE83aTZ0bGhNRDFwZ2tXUUkxczJnYzI3aEVtU09UWnZaNEJNaFZzUmdQci1WZzQtcjVtN0t4S19IV1Z5ZzMySzdWLUNkYlBGWWVvb3FKSjNyWGVZVC1wcQ?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T20:08:24.000Z",
-        "secao": "politica",
-        "fonte": "Valor Política",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.223109722222222
-      },
-      {
-        "titulo": "Flávio Bolsonaro apresenta pedido de investigação contra diretor-geral da PF por suposto uso eleitoral da corporação",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdEtHV3NFdGMyYW5IZVh3dVVTQnJjSzBkSHNVUWx4dE10M0pvVVI1aGUxbWxvWExWZVRLSEpRc0ZzVG5UbnN1SGRYeHB1dEtMVEFtSVRZMjNHWUpGakZ5bFBlTDlKMHBoZHVFWWRCNXo1WWJLcUdxUnJadkZDRVVMZzBuME9vRC1BbDIyaThfeExQZGNDSWoxNHU3M1JrMm9NZTVHa3pELWRVYTZ5b3M0V1JsNkdyRHduWXRweHFCbDlPTGVvb3Z6NnhOOHpVSW11OFBEM0hzd3YxNzhod0lfdUpvNVFLY3A0US1sbUxNZFcwTjRwcnYwRnlZNlVPdmEwMk5FcWh1dGl6eDNXU2U2WVUzbmF0QTN40gGnAkFVX3lxTE9kRWdRdFJLbVJlYkZYYjRsbzktamU1X2I2TVAtYW5uNE9tVVE4bTNHUWJSWlF0TTB5UWlyYl94N2RNd3FmMHRnQ21CdEpOMHNGRGtqWG1wck5WUmZrNnNVT1JwMXpmU09zWmpGNzhscGlVRHhIWHlTRURka1VhakFET1puVFFZVkc0SHhuc0Vtb0toZlIxcTQ2UWZEcHl3aTUxWjY4Ym1JUXl4QjZBU28yNnZhZlBJa0Rpb2xhZ21KZVloUTdqckhEVGQ2c3BwbDFKNUQ2Q214djNFb25VQXc0bldIbnVTbEhLbzZuYXNzeE9RSnhRN0RnejF5X3UzUkVyUHotbDFhSWtBYm56cWtWVlZkaDNNZ0hqQmZsbGJEMnRMWFltbU0?oc=5",
+        "titulo": "Judicialização dispara no TSE: processos contra Lula e Flávio já superam quase três vezes do que 2022",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOb2ZlamJyeFA1RHhtUnJzUjB6RW5keHJOTERCcV9wVnFTMU9ILW9odUc4MlRlZmFMek5DdEJIUkhMTzNpN3pCVk1sdnVnQWd5ZlBSVHlWZzRTVjZibjlodWsxRHp4WnQ5d1k0NE1meGV0bjF3THpQOUJzM0V5VERUbHhsblNYZFlWM0sxaXBnM2VsQThEbzkxbUxkYjBkTTdCeUlMMnFWOEpLQUVSQ0RNdXp5MzJBMC01NjVXRmlESWl3c00tNi1hXzRqOHZxc3BRNVNyVVdlcF9sRElMSXpBZWFoWnpCQXJnQlJzekNOSGlLUlJhWEJUaEZCT0ZSd3p5NzRJ0gGSAkFVX3lxTE1kbXlSdDhLM0lzaG02WENkT0VidTRwSTlrU1QxczZjT1FFTG81Wkl1TnY4WmlQeHhpNWFKQVhLVThxUExybUpxRkNSV2ctNnNpWEQ5TC1oUG1HaXUzRW5nb2VUTFhycGZvbjdDNXpVMVlXNzBvRzJUYU5UX3FNV0RWR2VxSTB6Q0lHVlpic1lyUlhiaWF0UDlhMVNuQlFaMk5iN0pZNGotYVpic0dzbUZXLVdXU3RvWmY3Wk01R0htakMyRUZmb0FUN0dTZkxOUU5BUmVHRWlqbElVSzhoeVhjb2ZOcVk1WTdlcVc1cnd1ZkQ1NFdqVTcxRU9aSDFCMUp3aGQwMkhzOUdTNTlqWENWc3c?oc=5",
         "veiculo": "O GLOBO",
         "resumo": "",
-        "data": "2026-10-11T19:10:09.000Z",
+        "data": "2026-10-12T06:30:01.000Z",
         "secao": "politica",
         "fonte": "O Globo (Política)",
         "lang": "pt",
@@ -1518,14 +1382,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.953433796296297
+        "score": 15.08307160493827
       },
       {
-        "titulo": "Nossa Senhora e cartazes religiosos ganham espaço entre eleitores de esquerda em ato pró-Lula em SP",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUWI3dWZHd0ZPelJpZW5oU0h5ejdGVGpvYndtVmx1NkQwai1xcnkyNmJNYWNGNmgyaG1ROVZzc3JUdmVqS0E3dEdCbTl3UlZjNkcxZ3hRMUtaRm5HWTJDVGZ3T1RoSFgxMm52Y3cycFc2bDRMUDM3Ty1OQm1JTzZJOFhzTWVWQWNMYjk5NVVCLUh2QUk1RGpYbGlEOW5oRk5sYWtvWEZqT0NXclRyeE1pNFBpUHdNYTRCeHRaVkI4cndLc0VhUTZVbjFnOHlqdmJqM0JIMGtIUFlRd281NW5uODlEbGZ5TEp6aUkwaHJQb3hKcXRQakxQdFZFcldWOEJmZ3fSAZACQVVfeXFMTnRVc0JLY0N5bEZpN2xSZzdacDZqbUZaMkJZUTNqMnZfcmR0ZTBkdmNuckF1cjJMb1llR1NQS3dmcl9UajZRM3YxUmhKbUdOX1lLS0FGYlYyeENaOTFyakkxQWxtSlVhZUNNdldJVkxuZ2lqcFdIZ1pIbG5ldkptNk5CWGRqcWNybElTNHVLTlFzSHB4Vm9oNmhXUXRlVG5fd3gwZFBUZGFITDd1SWV4eHZWSzNSa21LR3VLXzJhem9xZW5BVEJuYjNGQ1RnaFE5dmRJdF9lbG81RmkxMzBXc3I4dndwdHlrZk1fMU5jOGV3bzNzUG5feXpQUnB4MGc5NmNvNFFpYXpkRWkzWFNjZUs?oc=5",
+        "titulo": "Crises e pauta moral impulsionam bolsonarismo e fazem PT perder espaço no Rio após vitórias em eleições presidenciais",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWTBrRUhPQ1NzOTV5blo5SWwzal8tbUJXb3JoWDduMUFTajdDYzBZVmU1QlVBV0xVbG03TTVzQndka0hnM2FKTlRkWnRMQURHcXVRcjF3RGVHZk8wTER1T19GcDA5UnoxRGNvVGVJb19XeXM1Y28xNkZRMGcyeDU0UzRIc3lDcXB1cTllVlItbFpKaVNzaGhWQzI4OTFQN2xwT3BtVG1GMlJIaG5LVzc3dnBhOGdoa1BhdjFENm8xNzdEZkNhWnZOMEZ0aFBfamhycEs1M2tMMkt0OU9pTlZjUDBUNFF1YTNtcHNFSmtPd05ha3dKTnlacVlUbV9zV1ZweWFzcDExZHVzd3VTYmduWV9aLWtXMXRwanfSAagCQVVfeXFMUG9IT1M5RXFhS3F3YTRtaGZ0UHBQc3lsOTNKbnlJcC0zQXFQR0hDMlNtYTFqYUpYWnkxLU1iemtNRlAwWEpJWE5PTEh4YUdfZ283MFJqYUdnT2pxbk9Gb0xlMEVlb21udDFzTjdXRGtaLWpRU1dVYTBjRFQ4ZVJzUUNIWHZxNDRLR2hzZXphUDFXR2k4UEUxaFlIWTdHLXBCTjlGVWJZcXRqa2U3WHdmREJQTXd2clB5T3psRURfckJNdnFyazB2djFaTWh3VzNaZ1dmQUdOTGZHVGQ0a3FUWUZya0oyVF8tSEw1NW04ZGg2OWYzaHRaN2hwNVR1aVFDLUpjdzNMaGRqNXVkdndpek55M3BuYjBZSVBaYjkxMTMzc0dBWWFNcWk?oc=5",
         "veiculo": "O GLOBO",
         "resumo": "",
-        "data": "2026-10-11T19:08:45.000Z",
+        "data": "2026-10-12T06:30:00.000Z",
         "secao": "politica",
         "fonte": "O Globo (Política)",
         "lang": "pt",
@@ -1535,7 +1399,143 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.946952314814816
+        "score": 15.082994444444445
+      },
+      {
+        "titulo": "Votação de Eduarda Campopiano em São Paulo foi alta mesmo em Pinheiros, seu pior desempenho",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVWVJakVWTUwycUQ5TVhNNHAtNzdJWThqX0t5ZWFub1AwcVRKSmdDTGkxWHdtVmRfT1RZWkdxQnY0Vy1rTjVzWFpmQXVpU1RoaUlTWThhdndXX08xYkwtbzZXQVkwWDh1Q1ZqNUhGcS1SYzJlRmEzb0oyQ1dwTlZzU0tab3pzQmhKc3B2R3NPOFhWV0pfSWcxaUtxSUV1cUFyanhXeDVIY2w5eEx3R0lNYVVNemZfWFBHNmJDNGF2RTJ5Q1FMYlhDQ2J0MG1JZHNrV1VRX2xIUi1jV0VMSkxqbHNncG9SQV9GUkpzS3BWTHZDNHJVMmfSAYQCQVVfeXFMUFlyT29XTWhkZG1XQnVQbTI2R3JkWEtKMzVHd2RGYXp6LVBFSXVmOUZkMFNiZEhTX19WODJGNW5rUjBDQ3BCakNfeGgwQUdfOF9vVlhGTnVlckMxQ05uWEU4T1RKQlBuVG4wcnE2eHdYV2UtSFRBLUZqZVY2TV9xUDJCNjVKaDE5dVlKLVdwSUdjVmFsU2dQdllLY0FFRHJodzBKZnc4c3BwTUJRSFduaWQ1Z2NpNzNPUl9ENW05Q2dsV01rNG9BWXhNQV8yaF9ObmNXZFFBODRqZmZQNlRSRkhYRVJ3aXR2VTFWOFIxR0FlekFvX1lzb1RZLXdxczJHYVhSdnU?oc=5",
+        "veiculo": "O GLOBO",
+        "resumo": "",
+        "data": "2026-10-12T06:30:00.000Z",
+        "secao": "politica",
+        "fonte": "O Globo (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.082994444444445
+      },
+      {
+        "titulo": "Nunes Marques definirá quando plenário do TSE vai analisar caso de canal pró-Lula no WhatsApp",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUm5nSi1QMk1LZGV2OGhMQ2hFcTROeXFmc3FCM0VZMHZ4bjRsUHJMR3BDODUxTGh3Qy1DOXA3dE5hY2RkX2pCYkY2SUMxMERXMzN0bzQwT3dpVVNhOWw1ZWpwWEVqa1lwXzBLOHpHRGFTeHU4Q3JIUzdmREpKd1Bud2psenVQN3l6ajZnNGFvUG0wamRkeTVWSEkydEptY3ZLcnI4bk9xU2Uzc25QNXFuTkRjVkQxSUdzTlpfNTgzemNNUFI0QUVFc1NvRlpsXzhFSnFiZ2tuY0pYWnQzR3UzcElkTDg1d0ZoVmxYdGFzMW5FaFkwZThobV9B0gGIAkFVX3lxTE10WTVpVnM5ZlR6ZUJXQVJIOWxna1hnTEFaUEpNeDloYUlMN19vU19rY2hUdHU2ME04MDJRbVIyb3ZRcjRfT19DS0VWX2ZzR3Zhdi1ZUkVKS21RUVVRalY5dkc2ckFnQU5CY2xVNllObFZJRU9HenBIcl90MzFlYVhEbVdKaDRoRko1VkpQc2EtampMYW1SVnR3eURjX0ZqS3FjSkJ5LUJyOTV1NmRQeFRUMGJXNmRlbEdCdzJzMzhhNDRJbXFJYXhIYjF6WV9vMjJwb20zTjJzZ01UUUJvejRKMk5YWFd3R3dQMzRBcWtNRnZVek5zQUFUMWdzQV9PaWQ1VTlfSFVNOA?oc=5",
+        "veiculo": "O GLOBO",
+        "resumo": "",
+        "data": "2026-10-12T06:30:00.000Z",
+        "secao": "politica",
+        "fonte": "O Globo (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.082994444444445
+      },
+      {
+        "titulo": "Corrida por cargos em eventual governo incomoda Flávio, que se manifesta contra 'picaretas'",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWRyWTBtSjNrc1ROblA4b3hlQzA2TFExQ1JydjE1czg0S3U3N1hwc1VjZUhzMXNQUzhGeUlVZXkyUFVwdFJUMU9UT0k0OS00VDNOeGlCV1ItV1lkV3RsdWwyQjdFMXFZTmVqdkswY3NYU1FaUlJtZ0Z2bzBVbWlJYmRoc3R6a0RPcDZKdF9xZ2g4aWdLNE1PWHN1NEtVcUlOd3lwY2FYUXdQUnFHWDBqaGQxcndvbVQ1NEVkWENYYV9tTHQ2OHZYRHFGYVpuNVUyY0gzUTBCenZiblczSkpqcTJ4R1RaY0RTVHVLeGxHUjZlMW_SAYICQVVfeXFMTmswcG05ZGwxQk40LUZTSEpTdGNqcXRIclVQTkNYRUQ5bXlnTVVUQmlUMFpYcExQVWFUX2haT25wUGhUTUVtc0loTHVBS2tlMVcwempzRW9yd0ZnZ2NYV0xXSnRsRGNYNFpOMXdIX3diel8xY2RLRFJXS19vdm1JRi1mSHBSY1F6T3N1eTZYdWhGQU5XZTN0dTFEaWdBbHZaU2dnRXotSWZuNmZCd3h1SVNPWk82MjgyWXdwMUR5NmZLVmhLSl9lZTBWa3dZaGc5Mm5abFg3aVNlRXlCMGZDZ2tiNG40cEtJdGx4bEp0N002UjZTdlBNNDNCYUlxNllRQnFB?oc=5",
+        "veiculo": "O GLOBO",
+        "resumo": "",
+        "data": "2026-10-12T06:30:00.000Z",
+        "secao": "politica",
+        "fonte": "O Globo (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.082994444444445
+      },
+      {
+        "titulo": "Atropelo, 'Exército de Lula' fora do ar e retomada: decisões sobre canal de Janones ampliam guerra jurídica no TSE",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVXozX0h2eWU2TU90THBSbFBxMUVBcUZwem53WkRTQThES0NGM3R2bElDV0dLa2ZtTHBGci1GRHdUdi04VUFLSF83aWlYSWJleUZDbjlaVGVYR0todzVjLVNENUpsTkVhbWhxcmc5Q1piX0ZrZ1d0Q2NKVlBMbG50NG5LbU9vLWdrRzNPQ1VXRGRTU0Q5WVZnNU5xSzNoQk4yc0RBUEk3UklGSzlLRkgwX3QzN0VheTE1VXFLbTlPYUlqTEhocjhkVExoYzhEQ0RIa2wwRmRQMVRpaGJ4R3NZRWVyeHFnNTlsU3VSbDNGaW13aE9hYjFZbHpPNF9VLW5iUERSS21mNEZXeHNhX0xMbw?oc=5",
+        "veiculo": "O GLOBO",
+        "resumo": "",
+        "data": "2026-10-12T06:30:00.000Z",
+        "secao": "politica",
+        "fonte": "O Globo (Política)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.082994444444445
+      },
+      {
+        "titulo": "'Open to love': por que tem gente usando o LinkedIn para flertar? Veja riscos de paquerar por lá",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzlrLUo5MXNESVJDTVlBaXVINXVjZWNnWWN5RmM5OFdRaHZXWjVEV0VkN3JqNUN5SUdrWFFxVlRhUmUzeXZOZmo4U24xNnVLN3NYNE13S1d3b1oyNjdjQjF0UHN4Q3VhaTBaNW5oSzlPT3VDUUZIWTlsWWU0aTVjbHJGeGxRSE05cGw3bDFVSzBZOTJ4UTNQck5paXdSNkRVeFJTZmdISVFJOEliRUdQUlBVdWVwbGJHdWtjQ3FnajJYTkMtVmZoVGE0cmJWTTlqbExvVzJoME9uaHFMZDJiV1ZubmRUYkUtYnYyOTZ6NNIB_gFBVV95cUxORVN0YXMwcUNEaENHeFB1RjhxT3c5N3Fmc3RucTBYTURRdk83bF9NTS1Eak5xNC1mb1lRYkxLbVJLNzlRZFl2SW5CNGlYUWdyTFFsMUxCTjRUa1YwcHVyUlk5amZQTngyVTVULWM0V0NyZFZ1VUF3ZnJLUUZ6NkNBdXJJRjc1UnM3YnluTGpVYkh4S2p4Y1FGSEtSQ291NjdNM1VKYkMyUktfcGdZM2x5UTR5cDlVaHg1SmFDUGVlenNQZ21pVG1aeXRMYkZ4WFJXRThpWlFxTjRfLWJiRGJoaDNoRDBXUThlaF91dXVaVm9teUZSOGxzTUdqV2Z1Zw?oc=5",
+        "veiculo": "G1",
+        "resumo": "",
+        "data": "2026-10-12T06:00:00.000Z",
+        "secao": "politica",
+        "fonte": "g1 Eleições 2026",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.944105555555556
+      },
+      {
+        "titulo": "China impõe sanções a ministros do Paraguai e de Belize por relações com Taiwan",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQellBUFZ0QnBTbngwMWkzenctZ2NUbG10VHJ5UFlRMHVmN0ZPT0VaU2xTenN2RUl4ZjVCQnlfT0hIVEFkYjUweFJEUWFucjNpUTkxanhZb0syZGVaOHRmWWxSVDZlc3pMOWhIY3ltN2hlRmtmcm1xMUdHNDJWcXhrdmktLTZBRDljd09ucEUtRFltUklZMGpj0gGXAUFVX3lxTFB6WUFQVnRCcFNueDAxaTN6dy1nY1RsbXRUcnlQWVEwdWY3Rk9PRVpTbFN6c3ZFSXhmNUJCeV9PSEhUQWRiNTB4UkRRYW5yM2lROTFqeFlvSzJkZVo4dGZZbFJUNmVzekw5aEhjeW03aGVGa2ZybXExR0c0MlZxeGt2aS0tNkFEOWN3T25wRS1EWW1SSVkwamM?oc=5",
+        "veiculo": "G1",
+        "resumo": "",
+        "data": "2026-10-12T05:29:10.000Z",
+        "secao": "politica",
+        "fonte": "g1 Eleições 2026",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.801358641975309
+      },
+      {
+        "titulo": "Belgium strike partly shuts public sector as budget deal delayed",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmh2VElqQkdxempjaEJMNU02U0FFdllxNmU2VzRkYVpKUVV6U2dJbldKV3NfajN3R2plcl83X1IzbTJpcGprUWtMQnBGM1NXeGlWdGNtYm5tMENSVmZIRmlvRjdteW1qM2laNElJclFaMG9XY2VyRnVaQmdSQkpvLWxaQzBWaThzSkplZXB2ZWhSVU5qb25ZSlFpTi00eXcxa3V5bjdn?oc=5",
+        "veiculo": "Reuters",
+        "resumo": "",
+        "data": "2026-10-12T09:40:10.000Z",
+        "secao": "politica",
+        "fonte": "Reuters (World)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.963395679012345
+      },
+      {
+        "titulo": "Pope Leo sticks to normal schedule ahead of surgery to remove lung nodule",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUNGOWNSenFBYjAtV0g2OTlkYmFYdlcwdmY2VlpfR092cmo5MlBST3dCbXpJQzZCemNxVHFwQ1ZELV93YkFybl9CNThmQUNUNFNBaFQzOFo4cm9KNmNteEpGRjIzMF9zZzV2SjVqTWJoREZESS0ySHVhTUZVNTBPdG5YdXFWMFNtSGpZNDZSSTFKcFVlVk1XZFBBejZxTm5uVUVuM2k0SmpoNmFuaHdweTZfOA?oc=5",
+        "veiculo": "Reuters",
+        "resumo": "",
+        "data": "2026-10-12T09:37:31.000Z",
+        "secao": "politica",
+        "fonte": "Reuters (World)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.951127160493826
       }
     ],
     "economia": [
@@ -1554,7 +1554,41 @@
         "dedicado": false,
         "empresa": "",
         "dias": 3,
-        "score": 17.267554166666667
+        "score": 15.249661111111111
+      },
+      {
+        "titulo": "Cliente ou rival? Como a China pode passar de grande compradora a concorrente do frango brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTk53T3k5bHIyOUZLZHhfcmh6d0ozWkZzOXIzNEFTYm1Ic0I0Ymx5V3FaY2kta0EtRnBpVHFtS2dKcWRicmVDcEtKTlBpTFQxdmsyN3pWQm5KMnJFVTUwcjBieEdqTEROU1BBUjhiMFBQVVVkSnpmYlFGaC10R3l1RTFZSlEybEE5N3ZyTWtTUGYxRmcyQnVGT01kRUthZlZGc2FpVGtOdE92YTZvUTkxOGxncjY2OVFFVFFhRXpyOVFoVVlBRklEcUQ5QjByM2pPNUJueWtjV2lvQ3lQWW54bnZxTG0yQVhEYlgwcU82enRJVFlEZVZWa9IBhwJBVV95cUxNY1lzRjlRQmZEdjZiNjBTWGdyc09uQzNyYXRPM0hRRndYUm5KYVRwSjJyM1Y3WjdxUTc0d2t1dllkMEVfdkxlS3gtbm83MTFvRzR0QUotdVY1RW0tRURoR0VkQ3FDSDAwaUV5MnowQ2tYd3RaZWhYZk1iRE1seFlBLS1lSHFobXVUTFN3a29XWmlYOTVORy1RZ2pZY2h6VnVYSjQzT0VleVFHNXVJR0VpM0N6Nk16WjZOTVVSam9PY195dVIzVEtKZ2NWT2w1c0tOcjBzNVROTUV5cFR0UWUtOVY2aEVwTHRSWVc0a3RORDUwU1dMcGlTMHZ0eWlvdjRNYXFjT1k2bw?oc=5",
+        "veiculo": "G1",
+        "resumo": "",
+        "data": "2026-10-12T07:00:00.000Z",
+        "secao": "economia",
+        "fonte": "g1 Economia",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.221883333333334
+      },
+      {
+        "titulo": "Dar mesada, ensinar a poupar ou deixar gastar? Veja como falar de dinheiro com os filhos",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ0hQV3FMcnpHV1E0WTZtamNkS2FuR2lxWm96cHVDRFFDbWZJbmlBRnJIQW9ZUzM2UFNEZU0tRm9kWWw2cy1XS2JkdGozSldOampqc3BLQkVRb1VRcDRHWjBadVp4V0tWSExCQkZncnpmX0o5NEVBZWZoVFlTdmVINVpSSmtUZk5LSnNBak5BLVd1UHR0MDZiaDBpc0VFZVdhYkVrVTk2YTBJUGZsQXJGUWFncm82X29YSTdoVE8xNWlGaDBSQ3hqdDFxUFhzUUhUa2VYQkhwbFnSAecBQVVfeXFMUGVldkY0MzBJci1lUUVIRjBDSWFaU1ViV0ZQY3VlLXdKSUdRamd4NThJRFRSVUNXYUpGNkVfZ3c0Y1RrMHRERW1nbmpVU1ZfTzVnZjczdDZTcktwMGVuS0Vta0ZyVjgzcDA1MHZLamJ0YTRsTUNkOWNyekJjaVBJcENma3h2eml6UGR3Z0NjLW9LNEEzWUh1Tk9aY1VocDE5WGxHaTBtWGJwdDFkZ1J1YnRIY05lUkdRTVI5YklTTnd0ckIzckYyYTJIWmRBVXp6bV9EZTNqeDF5Z1EwVzY3TWZ2MFNZUjRJ?oc=5",
+        "veiculo": "G1",
+        "resumo": "",
+        "data": "2026-10-12T07:00:00.000Z",
+        "secao": "economia",
+        "fonte": "g1 Economia",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 15.221883333333334
       },
       {
         "titulo": "Roy Lichtenstein ganha mostra histórica no Whitney Museum em NY",
@@ -1571,14 +1605,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 3,
-        "score": 17.128665277777777
+        "score": 15.110772222222222
       },
       {
-        "titulo": "Eduardo Lopes - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmbzBsZTV6WHI4TDVuTV94YzBxMUlTZzFXeUF4ZUYxcVVVcnREbWtJNUhDOF9Nbk1LclM0ZTBGYlJjeE9FQW56Ulk1TTBqQkdubnJibnFIRjI4Zw?oc=5",
+        "titulo": "Fabio Giambiagi - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aQTNnaXc1NlJFX0hCTDhJc0pHMXRWXzBGMG1udTNVOWxvUGJXT05EdHZ1THYzQ19wbXUzTU1HTTUtcm1KS1NFWTEyVi1Lb1Zwa1hwOUdxWHBTeXRQ?oc=5",
         "veiculo": "Brazil Journal",
         "resumo": "",
-        "data": "2026-10-12T00:29:58.000Z",
+        "data": "2026-10-12T06:30:59.000Z",
         "secao": "economia",
         "fonte": "Brazil Journal",
         "lang": "pt",
@@ -1588,7 +1622,211 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.434066512345678
+        "score": 15.087546913580248
+      },
+      {
+        "titulo": "Reunião do FMI na Tailândia terá inflação, IA e clima no centro das discussões | Finanças",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmNRS1FNSFpCZFBVa0lNYlI4M3ZtZjhJOXhVOHdyX1IySGdya1Jqa3NIUHBSbzZUc1lXTWJsSHgtQXowRk5zUXhWbXlrb0dIRWM2T0JRbVZnVl96MGNMdllvMERYdU9ubnpyOEE4ZUt3T2NveTZEWWlTT2Z1SVdfSFY1a0tuNG5WOTNIdGRYd2V5SkdVcW5HRlBQc00zakMtMGd4aWh0ejFubnoyN0dYS2w0NFRoLUVjUDFWX3R1UHRpclQ3cTNScQ?oc=5",
+        "veiculo": "Valor Econômico",
+        "resumo": "",
+        "data": "2026-10-12T06:04:08.000Z",
+        "secao": "economia",
+        "fonte": "Valor Finanças",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.963241358024693
+      },
+      {
+        "titulo": "Grupo SBF - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDQTBUNmRLeUNPYUljNWhndVhhM2NYYWRXNTNLRk5KUmFDZk9aLXJwSW9OWVlDQlgtMnhXTHhNMFZkbjFtSUt4WnRLcldSOFZ0?oc=5",
+        "veiculo": "Brazil Journal",
+        "resumo": "",
+        "data": "2026-10-12T05:56:57.000Z",
+        "secao": "economia",
+        "fonte": "Brazil Journal",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.929985185185185
+      },
+      {
+        "titulo": "Pedro Wongtschowski - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiZThYdzdqMlZHSVB3M2gwbW9fWl9vdUZYeHFLNTlFSnhuUmR1TUU5emxKWUFRWDB5YUR2d2hvYmZZUktmLTA0czdyUFd4enltYjc0T25yMTZyODU2WVFZc2dR?oc=5",
+        "veiculo": "Brazil Journal",
+        "resumo": "",
+        "data": "2026-10-12T05:36:50.000Z",
+        "secao": "economia",
+        "fonte": "Brazil Journal",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.836852469135803
+      },
+      {
+        "titulo": "Luiz Roberto Peroba - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmaHVxa0FpNmlHVTBXNjRrVFdXTHdsV2xTRm11cHRtY1h1eDVIOGViS3g2LVhESHllSm9jT1lMRjhQdVoxUUFKVFk0MG1GTVR0S1d0amk3d042RW5OeFhTNUR3?oc=5",
+        "veiculo": "Brazil Journal",
+        "resumo": "",
+        "data": "2026-10-12T05:30:04.000Z",
+        "secao": "economia",
+        "fonte": "Brazil Journal",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.805525308641975
+      },
+      {
+        "titulo": "Eduardo Inojosa - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VSU1FYmh0R3VfcWxnY3A4Z1Rtdjl0ZThfclNVYUNlUy02VWlIUVhsaDY2VnE5T19PeXFlcS1WVWZycDBqbzFGNFhrbnV3T1U0LTktaHRadUxHSHFw?oc=5",
+        "veiculo": "Brazil Journal",
+        "resumo": "",
+        "data": "2026-10-12T04:29:51.000Z",
+        "secao": "economia",
+        "fonte": "Brazil Journal",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.526744444444445
+      },
+      {
+        "titulo": "Lupo - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4R3lLUC14czhyMEttdUFvdnJVeEV3Y2hUajBON3hBeldOWllleW1BYnFsNWhXRjVmZkZMa2N6bWJJb1BXaU5qYjln?oc=5",
+        "veiculo": "Brazil Journal",
+        "resumo": "",
+        "data": "2026-10-12T04:26:45.000Z",
+        "secao": "economia",
+        "fonte": "Brazil Journal",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.512392592592592
+      },
+      {
+        "titulo": "Veja o que abre e fecha no feriado de 12 de outubro em São Paulo",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNay1IZy1YR2dxWFg3dXFxX1BKTS1JYmczS2FwTmNhU2E0QlpoY3dqbU1kc1F6OXZTYlhMbHpyajZHYzAyallBNHJ6VjFZMzlydkdhclR1eVNkbmp6VXJwVTllMGtJNTkwWV9Sbk55TWE4WFljb1IwTTJDT3hydGg3Q3ZTbWlPTk5nSXYwRVp2b1hFTWluU1VXZmtNS3hKY0Y3MWN1SkJNUVJyTjJDU1ZvRmdWZUdESTEyNERHNdIBywFBVV95cUxNYm9ac3U5VHVIOWZTNHV6elpvanJFMi1ESV9oUXBVeHBGNXJSdTF5Q3ZKdVFYaW1vdDlfTGRPd2pmeHlHcWV3Mi1vaVkzZ1RTb0x2T09nOHRCTmtVcUgxdkVvVy0xMFpVOU8yc3BFRUlzd1pmOUtrLUxzTzBaTHlNQm9HRGNqTmZaTDdUUkVoNFFvZFlGbkJVdFFjX3BjekJJVHNoYkduN0tpZktYM0dpRWxzUGpYcmVIZ0RUZ0h0M285WWpXRk1JVmlvOA?oc=5",
+        "veiculo": "Valor Econômico",
+        "resumo": "",
+        "data": "2026-10-12T03:00:00.000Z",
+        "secao": "economia",
+        "fonte": "Valor Brasil (macro)",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 14.110772222222222
+      },
+      {
+        "titulo": "Russia's new budget allows more monetary easing, but is not the only factor, central bank official says",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVJzOElkY3ZfMlBjWlIyakFtejlHZjdzQWViZGNEZUlOUlNIUEJWbUgwaWpuZ0l1cDI2VEFvRUlUTXpCeHR1MjY2MVM4VTd4UElBd3lkUjViMEJVQ2N0QVBhbXN3aU5mWUhNWmxsX1hFX1NNNk9OYW9JOER0LWlIWGlZVTBSellYcUZXWFFDLUROa2hQV2hMYnBleEJ6TVQwN2FCVUxpWDhqaTYtSy1YWWdRdlI5aVBtNnhNV3RoS0RPdk9FTXc?oc=5",
+        "veiculo": "Reuters",
+        "resumo": "",
+        "data": "2026-10-12T09:29:43.000Z",
+        "secao": "economia",
+        "fonte": "Reuters (Markets)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.915016049382716
+      },
+      {
+        "titulo": "Os perigos de usar fone de ouvido no escritório",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmxkQ0VsR1ZZb2R5M2NRdWoxc2dlc29WUzBwUDZHMG9hajBtZHptTV94MkRjZVh3d3BHdGVSVGt2TEZLZzFpcl9tOThaUWZVSFhHSXluRVNPdlJwa1JUbk53Rlk1TkdVWEloeXRGSUtxMTNFQjFPWk1JTDh5UkNkMFNMYjZMLUhQSUU3NnJUMWxVc2V4dDBySdIBpwFBVV95cUxOUFBQTXpxZTUyaWo2S21CRTQ4ZUlfbjdWNmlQZGlFaVpvbjM0ckdiSzNXM2xqNmQxSVFua0JRZzBMTEU0cDB4TkJkb19yUHNleWlFQmJjR2pKemt5T2c1WnFhU1hfNzdDQmxtaTFEaGVDdjM5Tkt2U2VzRHFTYXlWM3otTmpvamoyb080N05CdEpJWTRvdGxIMW0zWUlTZFV6X0ZlOTlXOA?oc=5",
+        "veiculo": "Valor Econômico",
+        "resumo": "",
+        "data": "2026-10-12T09:00:00.000Z",
+        "secao": "economia",
+        "fonte": "Valor (geral)",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.777438888888888
+      },
+      {
+        "titulo": "Com ‘A leste do Éden’, Netflix revisita um dos maiores clássicos da literatura americana",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUS12Rk52c1VfUFJidmktYk9WMFh1bFpZbV9IMzVvR0E0eFFBbEdJZi1XVzh0YmFEcHl3RHVwRlVrOG5uTUR0WjEyTmw4ZXRQSWlRZklxSEVYQmthb1NOemMwRDVYRW1IZGVIQktFUG91Y1duYnpaR0lkZWFQeHN0TkJBRmh0QUxoUUNpdmltUDdzQ2d0Wk9XWDBXdW1mODk1MGF5djlMS3Z6SmRKQTJPeVJwUm1FTmFHQlJJb1RuOUZBN2RpUWZPS0NBd2xTTmtYcWtXRWJR?oc=5",
+        "veiculo": "Valor Econômico",
+        "resumo": "",
+        "data": "2026-10-12T08:01:00.000Z",
+        "secao": "economia",
+        "fonte": "Valor (geral)",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.50429074074074
+      },
+      {
+        "titulo": "Amir Labaki: Elon Musk desconstruído",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNG9UejVKV0hLcHlYN3VMWEo5RzF6eDhqOWlkUTVlMW9NempXLXoxUGtLeWJUUGtxZ0ZvdHJmQ1hlYm84cUhKUldkQ2NqdlpCQk9aT3B2TlFKbnB0ZC1CbGEtN3VFR1pxVnJzT0JqcEhOSjBuSmVuUUZOSVZ0MmhGWTZrY9IBkgFBVV95cUxQNWt5bWlUckJqMjNfci1sZko4UzkxZXg5c3ZBYWRKWHFHNXAwTkl0UG9Da3pYbmZTeTlwR1p1MHJFQi1acWtaSDVEeThjdzJKZzdWVDFWLUttcTE0ZjVPZUdKR19iay14c2Y4Nk16RGJUYXZZQUx1MFNEcEpEYUNXQWQzOHNXY2RNUjFFWFF2N214Zw?oc=5",
+        "veiculo": "Valor Econômico",
+        "resumo": "",
+        "data": "2026-10-12T08:00:00.000Z",
+        "secao": "economia",
+        "fonte": "Valor (geral)",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.499661111111111
+      },
+      {
+        "titulo": "European shares rise on lower oil prices, bank strength ahead of earnings",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTJzODAxR3FEbnVoV2loanlVRUtiSWs3SDhqQjB4RFBXcFhyTks1MWFrc1BFMG1Vck5vUWlYQ0tqNHkxRTZXV01UaWgtS3ZaN0c0dWdzT1gwNTBscXRKUDRnVWdlWFhzYVRoNGxpT0FUZk9Ic2NtaWotNDlIOEJpeHRCNDhvR2Zab09ONXhUM2w0WTZSdENtYjhoem02aElsdFlfUjZEODVWeldtSGtBV1VieklOUldW?oc=5",
+        "veiculo": "Reuters",
+        "resumo": "",
+        "data": "2026-10-12T07:21:31.000Z",
+        "secao": "economia",
+        "fonte": "Reuters (Markets)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.321497530864198
       },
       {
         "titulo": "Incêndios no Amazonas são criminosos e visam futuro desmatamento, diz ministro",
@@ -1605,133 +1843,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.219714660493828
+        "score": 13.201821604938273
       },
       {
-        "titulo": "Héctor Rubini - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gc2xkOE5JOXdRdWhwRFpWM3p6cXh3eGx2R2RXc2tpdzk3UFZhRG1YbVJpeHZtQjl5TVlqclJYUTItRTRSd3Z0ZWlDdWhfajFqREV6eFk0MHM3UQ?oc=5",
-        "veiculo": "Brazil Journal",
-        "resumo": "",
-        "data": "2026-10-11T23:30:50.000Z",
-        "secao": "economia",
-        "fonte": "Brazil Journal",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.160301080246914
-      },
-      {
-        "titulo": "João Paulo de Moura Gonet Branco",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RNVhkTVhuV2FzdGh5ZnlvX0F1MXFCeVlHRXNIUWlDZk01WlZhUEZXQ1BFbFN4THdPYnFMUl9mZXRSbmpnLThGMDdJZzlMbjl4ZXNGTWxvWjdyU2loWlRpb0VQUTdhNEpvclhTYTZjdDhHWVk?oc=5",
-        "veiculo": "Brazil Journal",
-        "resumo": "",
-        "data": "2026-10-11T23:08:01.000Z",
-        "secao": "economia",
-        "fonte": "Brazil Journal",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.054668364197532
-      },
-      {
-        "titulo": "Pierpaolo Bottini - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR2VnV1R6cjJzN3lveHJnSEF0UnQ2Z0dYVGYxNGc4QzlYNFBGLVk2SFVON0hyYy1BZ2VLS2dhck0xZS1sQU1FMkpNYmVsd2toUEx1XzRCQXc1OEl6NXBv?oc=5",
-        "veiculo": "Brazil Journal",
-        "resumo": "",
-        "data": "2026-10-11T23:00:27.000Z",
-        "secao": "economia",
-        "fonte": "Brazil Journal",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 15.0196375
-      },
-      {
-        "titulo": "Daniel Szlak - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zWnhFZnJPVlItU1NLNzV1NnlHeWlocHhTU295bTQybTVmM1prdFhxenl2TC1GX1M5QVRyMkItUHJaVDAyYVU0TnMwaTRNNEZTaEFHbW04dHQ?oc=5",
-        "veiculo": "Brazil Journal",
-        "resumo": "",
-        "data": "2026-10-11T22:30:12.000Z",
-        "secao": "economia",
-        "fonte": "Brazil Journal",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.879591203703704
-      },
-      {
-        "titulo": "Marcelo Barbosa - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zaHVpaDZfRHVVQUdxbHJ6eHA2QWdWVnN3OE55R05YdlBtQ1R1X05ONENjaWw3MzJKOEZhZzNIT3Z3U1R1RVJmRE5QaldHdFpzaENiYW9sWHc0dF9R?oc=5",
-        "veiculo": "Brazil Journal",
-        "resumo": "",
-        "data": "2026-10-11T22:07:09.000Z",
-        "secao": "economia",
-        "fonte": "Brazil Journal",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.77287824074074
-      },
-      {
-        "titulo": "Aplicativos avançam sobre compra de reposição de alimentos e higiene e desafiam frequência nos supermercados",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbi1wa3ZTcGJlQ1Bua1FPQ21UWDd2Nml6Q0l2QkhITFR3SG5XQVZGR182VklhSWMwbXhuX2JhcENKT2pwR051dHdSMDRyVUZuUlQxZ2RYUkhNdTZhV2o0cU1KWE5fdWxxdUljNHZwOUZCaEhva2dXVHJaRzlKR1Z5UmtaeTQ3TnRremVLMlU2aXpNVXpnRjMzbVlubWR2QU8wWmM5YzBMMl8zRkNBQk9uRGdBS1FtYUFkM2s1MndiTzZHV0FNY3VmanFjcHE0X2lCdTRyNEx2MEJxNWZnUnl4RERUYVdHUktlc3NoUFRYMFNCWTFM0gGDAkFVX3lxTE1tMnpkOEtPSHp6a1JVTTdvbUZqbUhabzF6X3p2b3dNMDdfQS04dkZYS1ptalczWm8yeFZYcWFiMDZMWlotY3BaSHRwRDZBUzRta1JkWlAzTExzejdoSnpUM3JkSUFLeEF2OUttVUJMc29zcWloRFVsVjRXd09NSW9rc3VvbUYzcHp6TGlkWnVaZ0NnbnZLZGl0VWdxaHp6ODEzd00wcUxnYkRFMGRoaS1oZFhORU56RG1yMF8xd18xclVTNUZ0bXJsMW0tTFFHaW9QOGFiMTltWkN0RnA1T0ZnUGJkaWVxVUxGV0xCLXpKbUpONmltYzdmYVEtbEhVNTZtLWc?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T22:07:05.000Z",
-        "secao": "economia",
-        "fonte": "Valor Empresas",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 14.772569598765433
-      },
-      {
-        "titulo": "Itaipu emite alerta de cheia no Rio Paraná e aponta possível impacto em residências brasileiras",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbnNNbm5sYlAzNFpsYUJpN29mamhhMDVWWnVRejNSc2luMzRwVUJOLVhaaS1zNkg2aF9uYkVIRnF0MWptTl9sOGpEa0J6dHZlNUtfckF4NVVoeFk3Yi02SVJHajRPSjRHUDZ6dHNwNTVEdXVsMjZNcDEyNTU0TUVEdmR1S2NJcjJ2eXZocjBrcWNtUHZ2Q1A3Y21EQUNqdElxUWpSTHpYOGxBcmF0aHVMeFg4ZlJyVWFDMG5KMDl3cVVobDFpX2RoSjd3Y1RDMTV2SWhPWV9nZk96eF8yTVNJV1U2RjdOdUw10gH3AUFVX3lxTFB3eC11VGt5c3NOLXBCWTl5cTJic2xmTV9ZREhWdWY1MjhuazF3TUNWUHBsTHliNmsteFZqMU1pbWJSMjJVcUJNUUpISXAxM1QzTkFodHBmdWFZaUl2enBjUDBlTFN3UUVIdmRYRS1BS09UYjAxLXNpUXFzaXlmOUtwRlZCUkQ0MW51NG9DWWItN2ZvTmFrNWw5aFliNWZPY1FQamFiRlFmOHZrTUlwQk1UOENrZ29PM2FhNXdDSllZeHgyVGU5N1M4MkxReE9RWV9HOFdkcF9Ja1dnZldzbTh0bW4yaHBpOWxYU09jVjhjTWZsUXpJRGs?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T18:55:23.000Z",
-        "secao": "economia",
-        "fonte": "Valor Empresas",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 13.885069598765432
-      },
-      {
-        "titulo": "RTSN.OQ - | Stock Price & Latest News",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSW1aVTI5X3cyOFo2N0NwU0VLdzVTWHpiSEVFY1E1TmZOaWM4QzQ3dkVmaTFlVmd4QkdyWExtMGZUT0pGSnR5bWpiMkx6Vkh2UzZBUHNVQWM2OGhwenNTNzdQWEp5MXl0YVZyUmh1RVpuV2ZGWUZrdDN4Wkh1S253RXVBdk8xdXc?oc=5",
+        "titulo": "(PWRX.N) | Stock Price & Latest News",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WelUwVjRKdDF3N1lvZEJBNzJvRmtXU1lvMFNxeWxYeFppMElMME1GTy13ZE9FV2tEZnlDdWlHbTJNeHF4bGgyT0lXX0xYSWlHMTZkRnp5TVZqTEdfbDg3QXBybw?oc=5",
         "veiculo": "Reuters",
         "resumo": "",
-        "data": "2026-10-11T23:22:17.000Z",
+        "data": "2026-10-12T05:51:48.000Z",
         "secao": "economia",
         "fonte": "Reuters (Markets)",
         "lang": "en",
@@ -1741,65 +1860,14 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.12071774691358
+        "score": 12.906142592592593
       },
       {
-        "titulo": "Plataforma de cursos on-line Coursera quer crescer no mercado corporativo",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3E4cExtUTktcERQcFFUSW5MYlF2OEtmUnNxQXNPcGY4dWxSdDM2SGpNNnNTYW5lUy03WGZFaUhHWkU0Z0V6dmtCQVZhYW5PWTVlWURwVzU4WGk2WTk5MmI1ckVrM2V3TnhuVUZhQkZ6eU5IZEpGYUFQam14N0h0WjNHcDNJWjl0eDFZQ0ZVbDRvc2NxZmlDVDgzeDRtVkQyV2Y3RFBFSTZyM0psbkRkbE11YU9KeXFkU1pTMFA1RWxvb1pXZHQxbVZmWdIB2gFBVV95cUxOcWEyRXhXbXJZMVl2bl9FQWdKS09kOTExMEc4Z2ZKemxzTEFVbEdJMzlMWXlMVGc1cjFVbExhakFGc2t5T1ZMQm42QmNma1kyeEN6OE5LUDRlZ3Fkby14T0NBeEhJYXpTYTZhMlUyVHJWbXY4NGo3RlFJbWFub3lqVmtBMnNLOWdCTmdOczYxeXFNOEZzOVhwYXdkbUdNY2Q5OWNnSDVTMlUxMk95RG9zaXJ4MllTaEwxUmJLOHI4Q3E5Snl0T1J5dU1pRTZzaEw2U1JFdXdYSnAxZw?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T15:24:28.000Z",
-        "secao": "economia",
-        "fonte": "Valor Empresas",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.908603549382716
-      },
-      {
-        "titulo": "Oriente Médio e alto endividamento serão alguns dos temas presentes nas reuniões do FMI e Banco Mundial em Bangcoc",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTDI4WE0zSkhIOVNOU2xQSjdUbV9BQVZEOGsxMW5yc3pBdVMyMzRwbWIycG9yTXktVGVESHMtdDBaNjhoQWZ2bDlLd1p5QnAxd3dfOTlXZ0dPZjNmTlRQYVNkQ2dHb2lUbktNcG5BeE1OX3ZVSE9tQmdEbDVmeUVjRGcyME5iVkJTZEdkc2dOdHU2YUlzRzNfdWxxbFpaS1ZhOUVfYW1zQzdzODZtR0xKa1hsQzdUbXJEYllIbmN1SlZjckx2cXE5elFBQUJ1LURJVXhrVU5PajdjaEFRNnlGNGl5emRQc0FyVWFxUU4xRHh1ckdVZ3pDY2ltT1lhQdIBjAJBVV95cUxNeFFLcGtCWWJZNkVhRW5lUTZ1TUNWS2FtZVpTdzBFb2lFNkVwc190LTNEeXAzQkwtZENmRVYzQW1FVTVVWmNtSVZkMXNQakV5VXllcnowQWV5QmRHazBSUnlneDVhazdfZUVhb284RDNRekpYQTlOcURuc0t0TENSWjYwZ2ZUdURSaWRZUnYxcU8tMUZsZjNUWlNoX19FWWNJSkhpUDJ0YnpCeXhuZy00cUtySFJwaFR2SFlId05YcEdnZlE1VUNzZGFIT01EekZRLTZpa3BSZmVtVHNaYjlyZndIQnVRcEJURXVXRUwtT1FPajlGY3M5V0J4RkNYeHE4dXNNV0xvOEF5QUcy?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T13:47:56.000Z",
-        "secao": "economia",
-        "fonte": "Valor Finanças",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.461689969135803
-      },
-      {
-        "titulo": "Mercados emergentes estão mais preparados para uma nova crise da dívida europeia",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY2dodUFqeXJfUEI2OFBqUGJ1aUJJZVZfekVoLU9rQlBDN0ZfOF9jOXRkajNSRC0zRTZjNVNYX1NpYU5uVTBYOERQbERBSGFDaWptQlFwY28tYzlIbDlKS0FGem5HRkg0M1dPZ3gtZTdqOEtpZmZ0QVBQZC1GaE1Ia3BTdGpNcm5ueTNXNlJfRzFNLU43SUFpSUhZaGt0X2VmaktmSmwwQjJHczNYOWl0eENSYm5GVGlsOEZGLWdYTkViRjcxd2ZyMFdLRmktQlVyUUpQaNIB4wFBVV95cUxQTndrVmtsYTBwUllLWW41b1hvTXViTlFkWTQ0RnlDSWdleEZKdVh4QTduX2JWR00teC1ObGhsaWtCMGl2YzVveVJjTEE4ZlB3cGx2LVVkUVAxeDV2bUdCTk5ZSFZoQkkzTmlRc2UzUkxpRXlDSzVXR3NXRktDdnpKdmpub3loUmxZeC1ZUUxCLWNJMW5oV2FvN21jaHJYRnM4UTRndlBxMldmME1WM1JSVkZ2MllPVmpPUGRVRUJaLXY3dF9BYkNLNGlJRWdPSUZBdjdMRF8ybjdURURYTUxUckZxdw?oc=5",
-        "veiculo": "Valor Econômico",
-        "resumo": "",
-        "data": "2026-10-11T13:43:22.000Z",
-        "secao": "economia",
-        "fonte": "Valor Finanças",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.44054799382716
-      },
-      {
-        "titulo": "(VRSN.D) | Stock Price & Latest News",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aS1Y4aUh6TGplUUZPUHhSQ1FLcl9LX25XWDNycW9aS0gyT05VNmNzb2hJWWJjb0FlUzNuVUpJZ3pCdWFxLUdnWHVLdkxPdF9QMDRrV2p1YWltVVNTZXBtbF9Mb3g5dVEy?oc=5",
+        "titulo": "1R7.F - | Stock Price & Latest News",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKZFBtNFJZb1hGRU84cG83cHJObzF6OXM3QXgybEhJcnllRmMtVy14ZTJ4X0hkTUwzaFBwT3VtTlExQ3Z4OHRvaGRrcnZGZjJwU2JUQWpzeWczSkVCRThYRHVuMURvejdnYlE2TlNB?oc=5",
         "veiculo": "Reuters",
         "resumo": "",
-        "data": "2026-10-11T20:40:03.000Z",
+        "data": "2026-10-12T03:54:55.000Z",
         "secao": "economia",
         "fonte": "Reuters (Markets)",
         "lang": "en",
@@ -1809,78 +1877,27 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 12.3696375
-      },
-      {
-        "titulo": "SKYD.N - | Stock Price & Latest News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93NzNNcW1TS1FJSnhWTklXWWtCVkdtMGdSZ2N1TlFLbFgwZ0RuWVVaWmJNWEdCNmdxdWFVVnVkUHkxVm1KaWMxRThUS1liZW1aSU9qZlk2eGU5OHQ5RE4xY2F0OFVaYUJLNV9CN0FTRQ?oc=5",
-        "veiculo": "Reuters",
-        "resumo": "",
-        "data": "2026-10-11T20:29:26.000Z",
-        "secao": "economia",
-        "fonte": "Reuters (Markets)",
-        "lang": "en",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.320486265432098
-      },
-      {
-        "titulo": "Cinco séculos de história",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnVIYV81SFdfNVpmMzJkQmlRSVZUR2l3SEhCUGlLakxma0hRbnVYQVNwZS1XTlNLMGozT1ozdHE1dU01YlFIMlJhcU9HTjRPUXZ1UWExcWFWcDFrZEJacXBZbGwzNEtVcGpJckhPOHA0NDhjMHhfWlRfenYtU2hnMzVvcEFDLU11YWdMN3ZpZEpIOHdYQmtkbkRGNVJjTDZlQnRz0gGyAUFVX3lxTE51Unpabmo0ck1GNUg1RDdJcU5nMjk5NzhmTnJxcXRHaVpCVHBTa1daVW5Cbi0yMERsam0xTGpYOGN1cFRfb0VId3dfNW1ZN2JIUlFObE8yaU1JU1FwUUQ3MnpLOFhnMEZIZjdJaEo1eTJQSDRqd1RBcGJsU09OM2l1bE5HUWcyV2tuaE1lektac29oZ3YzMnp2b2hmekJybllzOXhJdEhwMmVib0ZmWHZzMmc?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-11T13:00:02.000Z",
-        "secao": "economia",
-        "fonte": "g1 Economia",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.239930709876543
-      },
-      {
-        "titulo": "Por que não é recomendado usar boi de boiada na reprodução?",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0p5cVpURnpYcGd6SkFyNVlxaXlrMGE3bkJSc3pxbVpzbTlBbXVkc2Q0NDVSS2tyZHJTOVpyblNWM1hCMld4UUdsMU9tam1iZm5YZ2VpVUVfUzNQVjJHdFRxQzFQTUw1LWFmZW9LaFB2dWV1SXFmdXc5azY3eTNyZk9selpQYmdfTElCR1I4LXpkLUw0enVfNFRDNVlZTWRubnMxVGVwT294VmtqejZpNHo4Q1lybHlsYWlfSWt3Q29FdTZYQW5NSWxmd1k5bG_SAd4BQVVfeXFMUHJPLXNacnBfMWpUOGNiM19jczRVVFU0WXIySHl2UHltcE5LcDhYX19odDcza2owZlRMUmZhdnk0eE9UcFd3QTNpWjZjV2tlcXI5YzdfWjFEM1R1Q1M2TllvTzNiVXNXc2M4ZFhNZXJGQVpsLUVaVHM3VlIzd21mc2xmWFJoaFA4dm8xeXdTcWZ0T3VGcklEdWJPaTdSTlYza0FMT0xSRTd3a3pjTmZaUHYzQ3pkQ29lN2ZSUEFweW0xWHVDVEdvRVdXb3Q5bm5wQzAybkVsN2RsR0NDQjVR?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-11T13:00:02.000Z",
-        "secao": "economia",
-        "fonte": "g1 Economia",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.239930709876543
-      },
-      {
-        "titulo": "Incêndio atinge área da EMBRAPA no PI",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR0x3d1hiTmdtb2hFdmxWSjByU0pYTWtkVVdFdHktclFWWENqMkxUTGNrcGVPZTNVVG51a3dNSXJRQUxKMlJZQzYtdzY2ZnlSdjFMM3U5ZmdwT3I3NnMzaWxxSnJYTUc4LUsybjhMREQyX3VGSFJRTlBQV3p1am9DTzJJNUwybFl1YkZBQVJBZkcwNzdDN0lqUnF4TmxjYlFCbDBuN2dtV1RxOHVoV3lfLTA2a9IBwgFBVV95cUxNd1pKemFpNkxjd0o0TnhkcEotXzB6cFF5YjhwVXhVSE1lcjNlaTAzZ2FuUVFsUEVkZGNYLVZSRTdmTTktMG9OOTNyVWJRQzJCd09OajV2SGp5RUt1a0p6NWs0bVF1Vk5IcUNlTENIQUY4Mk0wT19mSmVVM0Zvc2YxRjNZbjd2Sk5mZ0RpOE91aHIxVjItLUhMM0cxVVlON0N0bmtNVGFaQVU3Q3VZOFAxeTdyc0tsRGJVTGphN1BmOXNrZw?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-11T13:00:01.000Z",
-        "secao": "economia",
-        "fonte": "g1 Economia",
-        "lang": "pt",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.239853549382717
+        "score": 12.365016049382717
       }
     ],
     "varejo": [
+      {
+        "titulo": "Os mini-supermercados estão em plena expansão, e as grandes redes varejistas estão migrando para as áreas rurais.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2g1N3Q3aXZaYjFOTWtVTTEwdjBPUHMzSXpmbkx1elFaT2xJbnNVSUEwX0hzbU00eUlmZ2tpQmRmS2hobFJ3Y01SdE1LZXp4elRtMWdlNlFwbjc0dEt0SFQ5MUJfQkJrcDJYRl9qQ3RlRTFXcWlVT1M1bHpDRElKUk1Mb0hRRkc0RFE?oc=5",
+        "veiculo": "Vietnam.vn",
+        "resumo": "",
+        "data": "2026-10-12T08:10:12.000Z",
+        "secao": "varejo",
+        "fonte": "Varejo alimentar Brasil",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.546883333333334
+      },
       {
         "titulo": "Chuva forte causa alagamentos, queda de árvore e danos em supermercado em Cosmópolis",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMTFYMHFCSGRDTGhRaDNMZHVzQldKeE1CTUVlV0JWV1VEWmUwUmlkdDZlLXJrMXhkUGdTSjd5cU1tSWhRdjZmakZnWWNVSUtCcFZqZW5HY3QyTkFuNnh2X3R0ci1pUnNvcW1iX2tYcVBkTFRuNmpZLURXdnJ0ekxZZFBmNE1Kb0QtT0ladlhFdjZ6WVIyZE9yc2tIOXB6NVpjS2J2ZDZ3R09GODktbUVvcVJDRHpIYTlLQkw1Q2Ftb3hlVmRMRlVEZmhMWGt3dnNlVUpRZkQxNmd1Z0VnVV9oeWZwSnnSAfMBQVVfeXFMTWRqX0w4R2xZMVBCLUVVY3U2b19aejNjczdnbVU4X2NrQloxcFg0Zy1PcjNUdzZXUXUxWW5KWlhMSUJoTWpBc2VQTW5aMVp0R1dyaVN4TW9rMTJnLXY3dUx3SW1WekdLZHZ5RzlhXzd2WS1jWmFJRGFoZFlDaWEzM1p0UXVWbndCUVAyZE9MRmNNMkZEVDBDQmJoaWxBbDAtVEdoQ2FHajZYNVlQYjFHWF9PbHlTQlgxYVY0QnVoUzM5UXJ6ckU5RWNILU5oUkZFSnowU3FqV3l1V2E4OUZyWGxveVdYbjdTQVJUb1FQaWo0UUY4?oc=5",
@@ -1896,7 +1913,92 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 15.178973919753087
+        "score": 13.161080864197531
+      },
+      {
+        "titulo": "A Dinamarca está testando robôs para atender clientes em supermercados.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VbWw1b3h5anZpcHlUOTRjbE5uQktqS2F1UjkxSENvRzRGUGdGbWFxcXBWTkpJUTg1WTQ1cXNKYjMzS0tzcjZid3J0ODFyTU5wT2dnQS1YREpmeVVBQ1drclZwam1tTkV4TXJ1Z2FNeVRDMnVVeTNzSkxTRnBMclE?oc=5",
+        "veiculo": "Vietnam.vn",
+        "resumo": "",
+        "data": "2026-10-12T06:41:28.000Z",
+        "secao": "varejo",
+        "fonte": "Varejo alimentar Brasil",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.136080864197531
+      },
+      {
+        "titulo": "“A primeira publicidade que fiz foi para o queijinho da Vaca que ri: 50 euros. Fiquei super contente, 50€ já dá para ir ao supermercado”",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNY0dmTHl2Y0RmR0w1Vk5XMG9iZzR3bDJNbWJTdURWSUNDcV9KZHljVkhvRUpoWHltV2NHcldvUEJiXy1BbmhidVdnd1NrSjBkZmZFWlRCaEVNYmxNWGE2Q0VBT08ybDQ2Mi1wLWprWVFTaE9jb3BoaTFqU2U3MmtLdFg5UVJldWs2bDlEOW9aR1hSeDJJSDVVZ1NhOXBHTk54Y2dZejRXTmhhLVU1MU0wNTNRRG1nRXVSQngwOTFHVlh4X081bVN2ZUR4VjBNZGZMLVBSdmVNaTFELVFFYzFtYWJ1NHRvYkdDU1lrZUxUMU1zODh6bl9XVVdLUnZ2SEJiSkZxSUtNSXpjVEJCMGx4YTlNekgzZzUwdG9qNi05N0IzZXRwUlg0NEdR?oc=5",
+        "veiculo": "SIC Notícias",
+        "resumo": "",
+        "data": "2026-10-12T06:20:00.000Z",
+        "secao": "varejo",
+        "fonte": "Varejo alimentar Brasil",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 13.036698148148147
+      },
+      {
+        "titulo": "Desabamento em supermercado na Coreia do Sul deixa 38 feridos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0w2TzZCZVppcDhVQ2NZZ0FSU2huUk9PaHB2RHg3UldvSVp2TkRXT18xWjhlb3ZNM3dMRHNiaGZGWnhSbHpFQnVzcjI0SjRHV0ZGVlc0SEtsRUFxdUZxYV8tYkQ5YXprWFZ0LVQtVFFTcVI5S19sd05nMEQ5a2lzSlBRckp1bU02MFJzLTIxamlnbDhxNzVKRnhVZzZRTGNrbjBSOGppbm1KRHFDVzlFSnl3?oc=5",
+        "veiculo": "Correio do Povo Penedo",
+        "resumo": "",
+        "data": "2026-10-12T06:11:02.000Z",
+        "secao": "varejo",
+        "fonte": "Varejo alimentar Brasil",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 12.995185802469136
+      },
+      {
+        "titulo": "Estudantes de Goiânia criam plataforma para encontrar os menores preços nos supermercados - Zelo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWtiMUJxLVViQnBrZnVVdDJFN084VEkxaFBpNjl3X1BadzkwVHpRUFpFRF9JMFE1d1hhT29FT3JkVy1lWDlQS1hLU2NFcDlBM24wWFNkMFhOWXVCQWlUMGhsdmRVNmNwbmJiWVlsdFVQWWNDX2xvUVVSNzlGVDZzejYzSUNvd05PdUFUdHJFZVZoZzVzeW9mRS1wbEJqWTdjSHY0ek5KaFRpTy1TTW1XVUtkUXNOZmc5?oc=5",
+        "veiculo": "Zelo - Portal de Noticias",
+        "resumo": "",
+        "data": "2026-10-12T05:23:54.000Z",
+        "secao": "varejo",
+        "fonte": "Varejo alimentar Brasil",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 12.776975925925926
+      },
+      {
+        "titulo": "Supermercados abertos hoje, 12 de outubro: Carrefour, Lidl, Aldi, Dia, Alcampo e Ahorramás",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUFTc1JYVF9hRUlLaFVNTmFtUGNyLUVPNlh1a3V2eVZTMkFldkV3Vm5SYnl4Z1dWMzRjVG9ZYm1mMkI0RG03Rm9CbDZDWkN4QnlYRTZMcUpVeXM2d1ZZUUE3TkpIeHhsdFJqcjc2T0NSaFU1NW45VjNBaEV0ZmVXQzhYRk1vSjVoc0N3WUNqYUJMVmpkTEhGZTh5ckx1MnhwMVNKNmZDQTRWQVZOcF9GVmRkREg1SzU0Y3RYZEUxSjJWeFZQOC1B0gHHAUFVX3lxTFBtQVNzUlhUX2FFSUtoVU1OYW1QY3ItRU82WHVrdXZ5VlMyQWV2RXdWblJieXhnV1YzNGNUb1libWYyQjREbTdGb0JsNkNaQ3hCeVhFNkxxSlV5czZ3VllRQTdOSkh4eGx0UmpyNzZPQ1JoVTU1bjlWM0FoRXRmZVdDOFhGTW9KNWhzQ3dZQ2phQkxWamRMSEZlOHlyTHUyeHAxU0o2ZkNBNFZBVk5wX0ZWZGRESDVLNTRjdFhkRTFKMlZ4VlA4LUE?oc=5",
+        "veiculo": "Demócrata",
+        "resumo": "",
+        "data": "2026-10-12T04:59:54.000Z",
+        "secao": "varejo",
+        "fonte": "Varejo alimentar Brasil",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 12.665864814814814
       },
       {
         "titulo": "Atacarejo abre seleção para 118 vagas de emprego em Itapetininga; confira oportunidades",
@@ -1913,7 +2015,24 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 14.508526388888889
+        "score": 12.490633333333333
+      },
+      {
+        "titulo": "Dia das Crianças: Supermercados preparam programação especial em Manaus",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE8yODFSSVU0cHpRQ0Z2UnlFMDk1SWNYcGJOYjNmMHp6d1F2Q0JSNExMaTdpWjd6NmVjSE1zZDc2NFRMUC1mRHVGS0l4LXlIVU9ub000MmNjMW1DNk1rQWtPQ2N5WnhLVHJ2TEMybl9XZDA2MWkxaFZwRktyOTc4aGV1Slg5c2RvaldQM0RibW5LWnh0MnhqLTBR?oc=5",
+        "veiculo": "Portal Você Online",
+        "resumo": "",
+        "data": "2026-10-12T04:19:38.000Z",
+        "secao": "varejo",
+        "fonte": "Varejo alimentar Brasil",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 12.479445061728395
       },
       {
         "titulo": "VÍDEO: cliente e segurança terceirizado de supermercado brigam após discussão em Sorocaba",
@@ -1930,7 +2049,24 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.986921450617285
+        "score": 11.969028395061729
+      },
+      {
+        "titulo": "Tesco Expects Modernisation Trend To Curb Festive Alcohol Sales",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFA4b2pXc2ptSUp3aFFEclI5MlRMY0JLeUcwWEZaVERpdXVkOGhYRzBhTWFHQUN0NEU4alNIU2dVa2xsM1hOVWxLZnA4WkxfM0lZV0gtX09xZEtoSkp1V3VHYXhtaFhwS3lGTmZzY0xxSWhCRDdTRGJPaDIzWGZsbWdVSWJ3bklvYzlrbE1qYlBVbWdoRXpIRWNNSkY3X2lZNDln?oc=5",
+        "veiculo": "www.checkout.ie",
+        "resumo": "",
+        "data": "2026-10-12T09:30:57.000Z",
+        "secao": "varejo",
+        "fonte": "Grocery world",
+        "lang": "en",
+        "peso": 1,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "",
+        "dias": 1,
+        "score": 11.920725925925925
       },
       {
         "titulo": "Comércio e supermercados de Goioerê estarão fechados nesta segunda-feira, feriado nacional",
@@ -1947,7 +2083,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.862230092592592
+        "score": 11.844337037037036
       },
       {
         "titulo": "Idosa fica ferida após escorregar dentro de supermercado em Goioerê",
@@ -1964,7 +2100,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.862230092592592
+        "score": 11.844337037037036
       },
       {
         "titulo": "Homem é preso após furto de carne em supermercado de Lençóis Paulista",
@@ -1981,7 +2117,7 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.749035648148148
+        "score": 11.731142592592592
       },
       {
         "titulo": "Maior rede de supermercados do Brasil fecha 28 lojas e demite 6 mil funcionários em vários estados",
@@ -1998,146 +2134,265 @@
         "dedicado": false,
         "empresa": "",
         "dias": 1,
-        "score": 13.711998611111111
-      },
-      {
-        "titulo": "Supermercado não indenizará caixa agredida por cliente",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTZodTlhVUxsLTFpNGNuZDNRZFNUOGYtcWlXZUo0Q3FZdnZCcHF0SmtzR1R1UVQ3cjRnSnE2TGNXSk5UQ2dhbTRPOXZBa1VWeGJSa2RtNFoyWjBmNFc5ZUd1R3FIMEhZYTJiX0JYc3JjSzJQT1NqekJaeWs5dFAyeExfWlpwT29VV2NFNUxUWkd2WHRldHJ2TElocGxjZlRU?oc=5",
-        "veiculo": "Muvuca Popular",
-        "resumo": "",
-        "data": "2026-10-11T21:56:17.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.722569598765432
-      },
-      {
-        "titulo": "Campo Grande pode ganhar novo centro comercial com 46 lojas e supermercado",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDlRdFRVdkd0ckJqSzhaaVY4Mk5tOFphUzQwQlQ4RWI0U1ZOUnlFbXlIeWhxbzRudTdCOFdvOG1WcjAzUDY5UDVZbDYxRGJOSmxDMEJIV3R5RU5OTTNiZFctbzNjV3hITHBYWDY1UFZTNW9qWDlXQTJlbmlmQ3BXc2hBMUl0blc0UVRBb2d5WHdLS2drcGVJNlNYX3pycWZvNGJwVzFERjVvd3pY?oc=5",
-        "veiculo": "Correio do Estado",
-        "resumo": "",
-        "data": "2026-10-11T21:47:00.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.679591203703703
-      },
-      {
-        "titulo": "Produtos de marca própria deixaram de ser apenas a opção barata e viraram peça importante para quem tenta reduzir a conta do supermercado",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOejMwcHpSUTB6dy1Jd1pmb3RMcjFkbDItNEI3NEthX2VwYW9yZVAtbXpEbmd3Zks0c1IyNjhyZzhtLXRTcFBSMkNQbDZ1bTRXVldhaUt0WktLZHo5NXBjOHNsQXpxY1l4MEZKV0V2YnVsWmE4LXlWTk8wbG81UktuNEdQNndSbzFOYzBLTlMybUtNQQ?oc=5",
-        "veiculo": "Midiamax",
-        "resumo": "",
-        "data": "2026-10-11T21:45:00.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.670331944444445
-      },
-      {
-        "titulo": "Rede de supermercados com faturamento de R$ 25 bilhões chega a 455 lojas após inaugurar nova unidade em Ibiá, no interior de Minas Gerais",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTGFYM01CWERRc1o1ZHlVY19iLWlGWFktTUQ5V3hMZkQwelZ3NHdUNGd3WU9iWHFLYVF0VDdyci13SklGQTFPSExORUtBYmgydHM4N2tBVmxFRmZ5YjdHc0FGdmFEbHVsR2s3eVBiaEZDTXhUOUdIOUZiQ1c3aENBdHlFUlM0Mm42QW9ESHZwcjh2R0wybDZxeFJuWFZvRWFYYURrWV9Fanktd1RvdTVNNWVFMkR6UmlOLV9wcUtBaFhKRkZRczBqTTg5OXZZYjBmeHFjdXpRZDdsMDhiQXBOcWFDZklRNWtxVkNaQXdyUXFMMXVMejNLOWc5NHYyQXRO0gGGAkFVX3lxTFBsUHd4a2ZZWEk3cG1WWDVIaDlyTkhWVmEtU0JIZHYtNG9JNEp5Z185QWppcnRTOE1JLVhROVd6OUxDZjd4VmtKTFNqS2NWcENSdm0tY1lqN2xZUFNJdzBhTnQ1aXR1Wko5TUpvWUlkVl9FemJueENUcTRHMUJBUGlxR2d0OFY1TTZkenZuLVk3WlY4OFE5U2hXWlM3NkF6SlNZeEtWN2ljVmVpa3pCcktOVjNlNzJORUNrbGVDcWFEQ2I3UDBYOTBBYUtkMXF3RVRsQWVsN1h4bTE1UUFOWE9OeWd5YnNfYVZ2bUN0aEhVUGdTbG5QT25WZ0tMRXlkRzBLaXNlNVE?oc=5",
-        "veiculo": "Banda B",
-        "resumo": "",
-        "data": "2026-10-11T21:04:34.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.483140586419752
-      },
-      {
-        "titulo": "Resgatam quatro aves engaioladas em um supermercado de Villa Urquiza e fecham o comércio por maus-tratos a animais",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRGNTdEkybEEwM0d6RlE0cE5qUkZpdUp4eWEtam5WM2hHV01mTGJnbHlVaUhZc1BSVzUwUXYxQ3loUjNWRzRhcnpkMUo2YjlFMXY4YWVJYVNZZlhYU1dnZlFQYWdDZEZhVk1SXzN5NnR2SGpLX1hRWGdWS21GdUVRc3JrbG9OcUNTa09IelNNbGk5UHBPSFd6Sy1mTTd0RDBsdTRfZEpueVh3M2VRRE9jUm5EaldhVWhiV1RBMDN6dDRVTG4zWkJIYlZ0S0JYN1h1R2l1R2hSMlU1Wl9IOHZaNFFYRzFvU2Z0Nmpn?oc=5",
-        "veiculo": "Noticias Ambientales",
-        "resumo": "",
-        "data": "2026-10-11T20:01:27.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.190933796296296
-      },
-      {
-        "titulo": "Sorocaba (SP): Cliente e segurança brigam após desentendimento no supermercado",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR3dzMG5yOVdIdmNzQVR1S3NkeFlfemJkU1NmdV9iWmNLOGxab3lUQm9OQWk0QnVPVURqY0ItaG56MmhLYjljN0Jpdm8ydDFYRGdnQ2hPX2dOd05xSnp1SWtaT2pWc0xLdnhXdXRYX3F1LW5MZDdpRGl6YVBiVWF0VFdLVERSZngzbjUxQ3BiUUUyWEdYSHRDVVllVVNSZGxYc29leXROWmQxV19x?oc=5",
-        "veiculo": "Diário do Estado",
-        "resumo": "",
-        "data": "2026-10-11T20:00:37.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.187075771604938
-      },
-      {
-        "titulo": "Supermercados podem voltar a abrir aos domingos; decisão será tomada ainda em outubro",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSlZYYTdkXzdOOGJSYl9pNzlTOUNWVDQ1ZmUxTHpBc1hHblBsTDVWaWJaWGtkM0FBcXgza3NlRi1icS1SRVJpa1loakctejlOajgzRVBvWXQ2X3I5bDU5bmN0NTFYbG1FQWpYZlVTVlNIXzVIck9sWUtSRWVpcmtFRnFtQnJxeEszbDNXZ09YS1lnS0JoeG9WSTVra3BIelltcXVvX09OdkEyYW9VY2dscHowQUVLS2FsVm5R?oc=5",
-        "veiculo": "Agência GBC",
-        "resumo": "",
-        "data": "2026-10-11T20:00:00.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 12.184220833333333
-      },
-      {
-        "titulo": "Supermercados poderão abrir no feriado de 12 de outubro em BH e cidades da Grande BH",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkFMZ2U1LWtCeGVmanR2RHJoOWVrZXNtQ2ZsYm8zSzkwTWU3MTZRRG83TU1PVUdIOXdZMWdyYmIyY3JSVUxqR3ZINzJNeF9fR0JjdDNXOVNrS2psUTRFWnV2TWNNUjRTVFpoa2dVdmZVTS0yUVpVNlJDaUp1YXVKd20xU1hEUmFKQXJTdGttU0xaUjFyRkZEd05wTHd0R1psaG1zSjBRVjYxbE5HSi1tQnYyZm5wODA?oc=5",
-        "veiculo": "Por Dentro de Tudo",
-        "resumo": "",
-        "data": "2026-10-11T19:00:00.000Z",
-        "secao": "varejo",
-        "fonte": "Varejo alimentar Brasil",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "",
-        "dias": 1,
-        "score": 11.906443055555556
+        "score": 11.694105555555556
       }
     ],
     "fornecedores": [
+      {
+        "titulo": "This Week in Chancery Court: Albertsons, Kroger, Nestlé, Freshly",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmdjTnFmUHNxUjZOYS1YdG1ZNC1uTXpRWlFscHNjZGcyQmZWbXFCNThkSVI5MUU2dzN2dFJKZzA0SXg4Qk9LMVhmVGRXNW1QSURwR3ZPNS1XdmJSUFNyS2wxdEdHRjFwc3g5aERuekRSbUh2MV9mXzRQWWpGTDhzRzM2YzJFV1lBRXpQdXlGMXhVdzV2aEh1cU5yM2RKRk52Z2hGWnpRQ185dkdzU0N1ZElTaGw2QQ?oc=5",
+        "veiculo": "Bloomberg Law News",
+        "resumo": "",
+        "data": "2026-10-12T09:00:00.000Z",
+        "secao": "fornecedores",
+        "fonte": "Nestlé (global)",
+        "lang": "en",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Nestlé",
+        "dias": 7,
+        "score": 15.777438888888888
+      },
+      {
+        "titulo": "Nestlé CEO Says Employees Must Understand AI Beyond Writing Prompts",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjU2VVAwOFRLX0czMHdGMUhFOTB2MkFaR0xBanQ0bWVNUE9QRGxSZWkxdXkwYU9FOVZUSUp3LUhBRElNZEVFTy1UYlVVNmN2NjN1TEhIUktjWXR1M0JMR0F2MHpEUTRZY3JsMDE5amx3ZUJjMlYzS0dZa19wWWt1VUJ1blRGQlZURm5kQU1idFozX3FpbnFUNDlUSEYzRVpjZTBBbzROajd6aU0wSGhHaENja2VyVG92b3lub3VB?oc=5",
+        "veiculo": "BW Marketing World",
+        "resumo": "",
+        "data": "2026-10-12T07:57:37.000Z",
+        "secao": "fornecedores",
+        "fonte": "Nestlé (global)",
+        "lang": "en",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Nestlé",
+        "dias": 7,
+        "score": 15.488627160493827
+      },
+      {
+        "titulo": "UBS Sees 'Modest' Sequential Rise in Nestlé's Q3 Real Internal Growth Amid 'Challenging' Comparisons",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaHRZNVpUR1c3OUllZ1RXUjFhSUNhNGJ1TEZOVmtXdWdpSkdQaW9GMHlNby1NVmdrMHJjd3M0Q0lhUEdSNUtFdHNsWWtMNzdUUUZWQzEyVWNheE5qWlNBdHdEWmNneEkyV0hJSk1DTzRzLVRPUGxXZUQ5WWUtbmZ5aHkyaTRUSjJrZEVzZGdyYkRwQjJIbjhBS3RCX3JBRHBsazRKakNadTM3cmlPeXVGbV9nWF8xbWE2ckxReUlPVENJaGF2Q2hLMzQ1cUtQMDdobDFrSnZ6SllSNk5wTWJJVG9Waw?oc=5",
+        "veiculo": "www.marketscreener.com",
+        "resumo": "",
+        "data": "2026-10-12T06:26:17.000Z",
+        "secao": "fornecedores",
+        "fonte": "Nestlé (global)",
+        "lang": "en",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Nestlé",
+        "dias": 7,
+        "score": 15.065787654320987
+      },
+      {
+        "titulo": "O Diretor Geral da Nestlé Vietnam está entre os 100 empreendedores de destaque de 2026.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVVlEbzBoYVZPNFFLZXdHVmUwUjlNQW0xVDgwS3JMdmxIOEVKT3Fvd3gzckhYTHpYNGNSczZ3WXVERzJHMXdDRU1QLVhZVFhaZlZVbFRTa2EtRkRYYnVrd3RMRE4wb2hlUzRoNDBMTHpKTzdIWWNUZGpWc01qeW9aTU9qVy1lSERfYUh4dndYNjV4NmhqZkVPSllhdzZMQQ?oc=5",
+        "veiculo": "Vietnam.vn",
+        "resumo": "",
+        "data": "2026-10-12T04:06:58.000Z",
+        "secao": "fornecedores",
+        "fonte": "Nestlé",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Nestlé",
+        "dias": 7,
+        "score": 14.420803086419753
+      },
+      {
+        "titulo": "Copa Saint Giong 2026: Reconhecendo a trajetória de desenvolvimento da Nestlé no Vietnã.",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzdyOHpvNTBFT1FzcUdpOFVQQ05GVUJLZWoxMU5jMlJLRWVvT1JlVWR0V0F0SHZPSHVkWUtFbnBVaWpXM1dpTm9DZHJwdXJjT212MDBxZTZ0cnpqMXF2VW5tOUtVNWlWQklib181LTlwM0pwOFV2a2NZWkZSR0ZpMENRRUs1aWs1dkxMSlI2T1RINEJXcjdsbmYxUEcwaUNacW9IRA?oc=5",
+        "veiculo": "Vietnam.vn",
+        "resumo": "",
+        "data": "2026-10-12T03:08:49.000Z",
+        "secao": "fornecedores",
+        "fonte": "Nestlé",
+        "lang": "pt",
+        "peso": 3,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Nestlé",
+        "dias": 7,
+        "score": 14.15159012345679
+      },
+      {
+        "titulo": "UBS Forecasts Higher Q3 Sales for Reckitt Benckiser Amid Broad-based Growth",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1VScFFVcGV3VWNNb0NsQlU1RnhOWTF3YVpSZ29JdE1CTUd5eEgxVHZ1Y1lOVDcwVnhnY25xejU1UXlxUmNkSjBobkZ3T3piekRaOVptWjN0dkxQQW9iZjFjbXNGNXRPczFtTC1WRUNoaEwwNDhrejR1dnU0VDVZR0UwUWJ6YnhZMXNlNjNYaTZGNTlBNDhtU3pZNkh2anRIQ05HUlBYTE1IVG9hVURWT3pyck5mdlpEY3dLRDZqTEN1TzlrN1ZJ?oc=5",
+        "veiculo": "marketscreener.com",
+        "resumo": "",
+        "data": "2026-10-12T09:27:21.000Z",
+        "secao": "fornecedores",
+        "fonte": "Reckitt (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Reckitt",
+        "dias": 7,
+        "score": 13.90405925925926
+      },
+      {
+        "titulo": "JPMorgan cuts target for 3M stock from USD 205.00 to USD 185.00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVkozYmUxWS11czVFVUJTNUNkWGFXNFVQbjBfdVkyM0pORWtDUkRPcDZ1SUw0SkdCUVpBaGxadEdETDVYMGNpbEIzdHZtaGFmVFloRlI5aHpKZEJnOHo5X3cteGE3OXRkNkJKeVVMdGRWNVJ6RDdhdEhZcGg4dGc5RWtpSzY3OTkyaXg1SExLdnZUcUpsNlBiVTc3bjVSd1hDTXh6X1ZhcnNCMVp1bW4zX0JGUGVQOFpTSy1UbHBRLWtxNzA3?oc=5",
+        "veiculo": "ad-hoc-news.de",
+        "resumo": "",
+        "data": "2026-10-12T09:21:01.000Z",
+        "secao": "fornecedores",
+        "fonte": "3M (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "3M",
+        "dias": 7,
+        "score": 13.874738271604938
+      },
+      {
+        "titulo": "Reckitt Heads Into Q3 With Steady Growth Expectations",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWUxbTVLQ0ZyZDBxbHVMRmlSQjkxOHhmMjJTZXhpZGxDUWhncGU2ZEJwZkt4TUk2TnNZbFZnbUI3TmFEcWc1dlJGaGl3ekZuVDhnVEs2ZXl1MTYzTlZDdXRHREFVdHVFSUR2eDFIR1g3ODlzRUE5S3hjTF9NbnFTUkJnTGVab0U2REE?oc=5",
+        "veiculo": "Finimize",
+        "resumo": "",
+        "data": "2026-10-12T09:10:04.000Z",
+        "secao": "fornecedores",
+        "fonte": "Reckitt (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Reckitt",
+        "dias": 7,
+        "score": 13.824043827160494
+      },
+      {
+        "titulo": "Why Is Reckitt (LSE:RKT) Stock In Focus Before Its Third-Quarter Update As FTSE 100 Eyes New Ground?",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVFrOGtpS05HaDc1LTdxY0ZMTWxFakxfRXFIdTgtRWJkcEd0SURUSmJacGEzXzJ4Ml85QUhOSTVyRnREQ2x1dXM0ZFRscHJ5Y0ZqQVNlSm5wRHVsdl9aSWFtQjZPdFhPcXVQdl9KQ3FuWGJwT2VORjdQQXRmVjB1ajJSM0lOOUZQSTVGVHlfQlBpWGdKb2JRZ2tDWDNCWjFodXdVc0g5OXhMY1NJTENjTjUtLW5sYk05cS05Y0VYbVF5WHFCbUxfSHhCTHgzdDE1bXE2SkJFQQ?oc=5",
+        "veiculo": "Kalkine Media",
+        "resumo": "",
+        "data": "2026-10-12T08:38:00.000Z",
+        "secao": "fornecedores",
+        "fonte": "Reckitt (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Reckitt",
+        "dias": 7,
+        "score": 13.675587037037037
+      },
+      {
+        "titulo": "Cargill's ferrous trading head moves units amid talks to sell the business",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbExRVjU2Nld1M19GLXpmc21ycTZoQW1GcEtCc0tBenpYM250TkhOd3d2bk95dTBDSWJnWW1sVVV1QWczZ2d2MTQ5V09tXzE5VnZMb0NlR2gyMTU0cWFvRVNoTzQtRnJsbGVvTC1RUVZIU0l5djFkVWhwcnV2Ujd0OFZ0ajdpNnFLd2RPTWhJcVlDa2tadHoyc29lRTRyOEpkanJaaS15UkpKTHhxaXcwYU1SSE5yaHRQSlBRRF9TelUydnZvb2k0eVZmbmttTWdHMlVickpfMlRneTN3?oc=5",
+        "veiculo": "TradingView",
+        "resumo": "",
+        "data": "2026-10-12T08:28:14.000Z",
+        "secao": "fornecedores",
+        "fonte": "Cargill (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Cargill",
+        "dias": 7,
+        "score": 13.63037098765432
+      },
+      {
+        "titulo": "Goldman cuts target for Beiersdorf stock to EUR 73",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmNmY19EdDZQN1VyaEhRcmVuV1U1QTcwY1ZQNS1XWUhtcEpRZFRKdEt3ZE43ZkhfWmVaekpBdU5reTBCdWRXZVpNS2trU1p2WDFKTkg4WGQzdVBxdTRxNTYyM1pwSWw0bmZ0TnNCMlUtZVhvZ3ZZS0xPYVNxMmJIUmw1SklMS0RTT3B6LWc4NkVKc3FFOGtSUFBYbXZ2WW1xNXhWd2xNaXhNVWNaR2d0NTJNMA?oc=5",
+        "veiculo": "ad-hoc-news.de",
+        "resumo": "",
+        "data": "2026-10-12T07:02:15.000Z",
+        "secao": "fornecedores",
+        "fonte": "Beiersdorf (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Nivea",
+        "dias": 7,
+        "score": 13.2323
+      },
+      {
+        "titulo": "Reckitt Appoints Naomi Hopmans As Interim Head Of Talent Acquisition",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWC1mcThPeG43bnB4cUdrRUNScUo0QjhxeEpoUTdiMUJGWWhqMjlVYVBuN3ZselFhMktOU1cxbENES2NXOTBuZDl6U3N0cWpjU0Jxc29Gc1E4cldYMTBZemVZYTRLdjh0VWNETXdWTjBtVWs0Z05KTlU5TlpSNFpLd3hDZ2tMZTN1bkYtWUVRQkdzdlNTcTNfMW5WUzFGbnRyZC1TclZsRkJ1THc?oc=5",
+        "veiculo": "BW People",
+        "resumo": "",
+        "data": "2026-10-12T06:52:01.000Z",
+        "secao": "fornecedores",
+        "fonte": "Reckitt (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Reckitt",
+        "dias": 7,
+        "score": 13.184923456790123
+      },
+      {
+        "titulo": "3M Says Victorian Law Can't Support Federal $2B PFAS Claim",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUo1bFF3V2pMejBaZ2R3U1NkeU5XWW54MGFBeE9oZmg1X2U5QkdjTjJlV3RmMEJwVXhtTU9MN2pmUWNBRXRZbXVHMnlDVkpkdU5wdUotU0tzZFlpaTlrQjRlRnFkQVhxV21KYVhNUHdybnk0RVE1MGFvRW84cll1LTQ1NE5mT05TUVF0ck1vcDBlQ0pLWVh0dXJZMndqd9IBWEFVX3lxTE52cHpCX2N4TjJiY3htcXVXWXRROHRnaUpKZlZGakpoSDRnaWhkUS1yVFB4YVZSOGhhSzkzWGdyUUZWdHRRZkNQT3pJQnFUMHItRS03aHVyN1E?oc=5",
+        "veiculo": "Law360",
+        "resumo": "",
+        "data": "2026-10-12T06:18:54.000Z",
+        "secao": "fornecedores",
+        "fonte": "3M (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "3M",
+        "dias": 7,
+        "score": 13.031605555555554
+      },
+      {
+        "titulo": "Beiersdorf stock pre-market: EUR 78.31, plus 0.01 percent versus the Xetra close",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHR3Yl9GXzhma2FXN09Eek1uNTNFZlFCX3h0RW5tRnY5Q3lhdnZNY2NiYWZkZnd0X0I5Q2Z0MkZnSzhiZTlGUWV1TU82ekVlT2FNWEVGVDB2ZC01U2tZaFBkZU9vQlR5dWYzb0dHZzVKNG5LT21WZmpIWEtnRU94b3g0bFZObkYyYXVZeEw5MGNsZXlYejVTcEF4eUtXUk9wYXIwSU4wSHQ0V2hhcU5aN19VTk1wb19Ea3dyTnZxSXRhT0RKRXlaaURB?oc=5",
+        "veiculo": "ad-hoc-news.de",
+        "resumo": "",
+        "data": "2026-10-12T05:55:53.000Z",
+        "secao": "fornecedores",
+        "fonte": "Beiersdorf (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Nivea",
+        "dias": 7,
+        "score": 12.925046913580246
+      },
+      {
+        "titulo": "3M stock pre-market at EUR 143.18",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSndUM2tmR2twbXpGbFVIVHpCUV90dFMxQXRzVXR5VE0xTExld0o5RUNuRVFtYjVGakRQS1BtVVZpOWhPTlI3NUpDTFltaG1oTEIzeTV0bC11a1BQR2k5V2tWaUNKRWd1RGZpOUpmaEhWSDlSWDlwbGl6WVRCeWI3cjlTOW9OMURkZ2RmLXYxY3lMMnZFcHc?oc=5",
+        "veiculo": "ad-hoc-news.de",
+        "resumo": "",
+        "data": "2026-10-12T05:41:47.000Z",
+        "secao": "fornecedores",
+        "fonte": "3M (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "3M",
+        "dias": 7,
+        "score": 12.85976913580247
+      },
       {
         "titulo": "Changes in working capital of Nestle S.A. – HAN:NESR",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelA2UmxUbzlRLTZpbUVPREwzU0ZFR0RZU3ZMN05sc2wtNFRmaC1OaTdTWU1mdXlPSjloU0NBeF9MZ0loenppRG8zaXRfY1I2aWFfTzRmWmFKNk9oVUpuRlpSQkdXWmRSVnVYMkJmSTlYMTEyMXltY0Roc05SR2xVa2FUbEZyaXdBdmthcFNYbVFFOUFIQ1N1Yg?oc=5",
@@ -2153,7 +2408,24 @@
         "dedicado": false,
         "empresa": "Nestlé",
         "dias": 7,
-        "score": 14.22480725308642
+        "score": 12.206914197530864
+      },
+      {
+        "titulo": "OnePlus 9 vs Energizer Ultimate U710S vs Blackview BV6000",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tVEJYU1VLSHJQLUt0UGF4eXJwdXExWlZLRENOa01TZGZlcFYtYXJvWnhabE9OdjdidWxKcm9ETFJZR19xRHM2dUo5akNWa2JFbGlMWGR1dmRmRGl5WllRLVYtRWFldw?oc=5",
+        "veiculo": "TudoCelular.com",
+        "resumo": "",
+        "data": "2026-10-12T01:53:37.000Z",
+        "secao": "fornecedores",
+        "fonte": "Energizer",
+        "lang": "pt",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "Energizer",
+        "dias": 7,
+        "score": 11.803441975308642
       },
       {
         "titulo": "Geração Z e café gelado: Nestlé lança desafio a universitários",
@@ -2170,7 +2442,7 @@
         "dedicado": false,
         "empresa": "Nestlé",
         "dias": 7,
-        "score": 12.650733179012345
+        "score": 10.632840123456791
       },
       {
         "titulo": "Nestlé Toll House’s Limited-Edition Advent Calendar Is A Cookie Lover’s Dream—Here’s How To Get One",
@@ -2187,41 +2459,41 @@
         "dedicado": false,
         "empresa": "Nestlé",
         "dias": 7,
-        "score": 11.961998611111111
+        "score": 9.944105555555556
       },
       {
-        "titulo": "L’Occitane leva cheiro de Moça Pudim para cosméticos em parceria com a Nestlé",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RVkc0aXJzdVFxMXJ5eHRWaW9XSFlZcE11SkVZOXlCUHd1eFdGYkJ6Z3psMjhfcmd2SldHUkJqOFJYMW1zMGlZVkUzWkVPZXlObElmOWFkN0dZQVg3ZGpSTW9ERG5hTnRtalc5ZVpnSDE?oc=5",
-        "veiculo": "Portal G",
+        "titulo": "Redmi Note 10 Pro Max vs LG W30 vs Energizer Hardcase H500S",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zdHF1Um5aSEtycXZUUTluaGJHQ1NrTUdhOV92eEZSbWZIZ1VzWjVOekxXZjR1N1NxdWFIQlYyUE1NZjhhYmFGMXk5SGw4dzhlSUE2Mkl3czJmcXBwbFZBZTNxX0JwUQ?oc=5",
+        "veiculo": "TudoCelular.com",
         "resumo": "",
-        "data": "2026-10-11T10:19:17.000Z",
+        "data": "2026-10-11T17:06:01.000Z",
         "secao": "fornecedores",
-        "fonte": "Nestlé",
+        "fonte": "Energizer",
         "lang": "pt",
-        "peso": 3,
+        "peso": 2,
         "setorista": false,
         "destaque": false,
         "dedicado": false,
-        "empresa": "Nestlé",
+        "empresa": "Energizer",
         "dias": 7,
-        "score": 11.49571774691358
+        "score": 9.36084938271605
       },
       {
-        "titulo": "Moradores cobram providências após obras da Nestlé causarem transtornos e lama em ruas de Araras, SP",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWw2N01qMGxsS0hsQ2xHNFFwQ01MWEUzZHp2d29lcHZLX2xETmVhaTNiRDY2Qm1FMVNDS1pxZ1R0ZGRYUllrdFFHZ3ZnQVhDRGRaUE02R2tDN05WSExVc0doRE1qY0UwRmJCZlNoaG9ReDh3R1BhUl90VzhQdWFSZ29TTHp3eFg4eXNyVmxRd1ZnbXNfZGRCMEVUZTB2WTZEazNORDBzZW9MdlAtdHdKTGJTai1IbnBPRDNiSXdKNW5HdnNYQjMzTkR3V21VdGMt?oc=5",
-        "veiculo": "Repórter Beto Ribeiro",
+        "titulo": "Motorola Moto G86 vs Energizer Energy E500 vs Blu J2",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZSUxfNHEwTUFnTDBmVEc1MmM1clROSjFvbFB6Uk1SVlBUZUtZeHlIVXV3ZG0wTGZRX3ZSVVpBaTllZllQM2FhX3NRZjY2OW0xSVlHSmlGQlU1SG1OclBhMllGbGluc1k?oc=5",
+        "veiculo": "TudoCelular.com",
         "resumo": "",
-        "data": "2026-10-11T10:11:01.000Z",
+        "data": "2026-10-11T16:01:38.000Z",
         "secao": "fornecedores",
-        "fonte": "Nestlé",
+        "fonte": "Energizer",
         "lang": "pt",
-        "peso": 3,
+        "peso": 2,
         "setorista": false,
         "destaque": false,
         "dedicado": false,
-        "empresa": "Nestlé",
+        "empresa": "Energizer",
         "dias": 7,
-        "score": 11.457446141975309
+        "score": 9.062778395061729
       },
       {
         "titulo": "Especialista avisa: usar creme Nivea no cabelo pode ser super perigoso",
@@ -2238,7 +2510,7 @@
         "dedicado": false,
         "empresa": "Nivea",
         "dias": 7,
-        "score": 10.355517129629629
+        "score": 8.337624074074075
       },
       {
         "titulo": "What Is Behind Brown-Forman (NYSE:BF-B) Dividend Questions Today?",
@@ -2255,48 +2527,14 @@
         "dedicado": false,
         "empresa": "Brown-Forman",
         "dias": 7,
-        "score": 10.258294907407407
+        "score": 8.240401851851852
       },
       {
-        "titulo": "Nestlé S.A. (NESN.SW) Stock Price, News, Quote & History",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LdFhoNS1Lal9kZU9pb2s3bXNmRkRxQzUwd0YzNkJTbk8wd3ZxeUV3LTRKQjRrNVRCd0JoMW5aRFZHZVMxR0x1VnFMM0t3NXIyYjEyd0Z3?oc=5",
-        "veiculo": "Yahoo! Finance Canada",
-        "resumo": "",
-        "data": "2026-10-11T05:38:45.000Z",
-        "secao": "fornecedores",
-        "fonte": "Nestlé (global)",
-        "lang": "en",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Nestlé",
-        "dias": 7,
-        "score": 10.196952314814816
-      },
-      {
-        "titulo": "3M Company (MMM) Stock Price, News, Quote & History",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2Y1dkSFJlaUw4SXg0SWctYk1UVG9renpEekFUUkxNWU85SjJSd0lQZzBISGs2QkthXy1KM3dYY1VudHhPd0tYSVNwUE5Ia2U2?oc=5",
-        "veiculo": "Yahoo! Finance Canada",
-        "resumo": "",
-        "data": "2026-10-11T08:03:28.000Z",
-        "secao": "fornecedores",
-        "fonte": "3M (global)",
-        "lang": "en",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "3M",
-        "dias": 7,
-        "score": 8.86693688271605
-      },
-      {
-        "titulo": "ZTE Axon 20 5G vs Energizer Hardcase H550S vs Blackview BV9500 Pro",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yclp2N0tkZ3BtSW93MzZzYmVJY24wNHBxN1ZzZlBTSDM5Zkk0R1d4UFBMckpSdWJBQmp2R3FCYzV3b1FyUGNqWmFCU1JDampSRVVPZGswUmo1b3BFV2JHZVFjcmx1dw?oc=5",
+        "titulo": "Motorola Moto G47 vs Elephone A6 Mini vs Energizer Hardcase H500S",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZkIyc01XWkZTN3RnNjFHWFpzWVdKaGtMR1VUMHNYSjNVbHNra1JFdFIxMEhoZ1pPQjN1bkZmMFV1R3hqenhhaERPM1RKNzVhQjhNaWZRa0tDdjhjZ2E3WG9GcGhXQQ?oc=5",
         "veiculo": "TudoCelular.com",
         "resumo": "",
-        "data": "2026-10-11T08:02:33.000Z",
+        "data": "2026-10-11T08:58:01.000Z",
         "secao": "fornecedores",
         "fonte": "Energizer",
         "lang": "pt",
@@ -2306,7 +2544,24 @@
         "dedicado": false,
         "empresa": "Energizer",
         "dias": 7,
-        "score": 8.862693055555557
+        "score": 7.1015901234567895
+      },
+      {
+        "titulo": "3M Company (MMM) Stock Price, News, Quote & History",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2Y1dkSFJlaUw4SXg0SWctYk1UVG9renpEekFUUkxNWU85SjJSd0lQZzBISGs2QkthXy1KM3dYY1VudHhPd0tYSVNwUE5Ia2U2?oc=5",
+        "veiculo": "Yahoo! Finance Canada",
+        "resumo": "",
+        "data": "2026-10-11T05:24:06.000Z",
+        "secao": "fornecedores",
+        "fonte": "3M (global)",
+        "lang": "en",
+        "peso": 2,
+        "setorista": false,
+        "destaque": false,
+        "dedicado": false,
+        "empresa": "3M",
+        "dias": 7,
+        "score": 6.111235185185185
       },
       {
         "titulo": "Cherelle Cargill - Grupo AMANHÃ",
@@ -2323,58 +2578,7 @@
         "dedicado": false,
         "empresa": "Cargill",
         "dias": 7,
-        "score": 7.544791820987654
-      },
-      {
-        "titulo": "Naomi Hopmans Appointed Interim Head of Talent Acquisition – Executive Hiring at Reckitt",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX016V05Sc0VnVXF0Wm5OclVyMlpiM25HWDJiNnk5VEFJTnVOTkgydFZfcUpYS2VBM2trTmJDamNQZTd0Qk5WU0c5dWdXR2xpWjFzQnJ0T0ZZeDkxZFRrZWFHQ2p0amgyZGduMks5M2RWQlhLUjVaaGJGSmdUVzI2Qjc5bTdTZWhLQTEtY2dyVF9rYlNQNWFVWUVfU09STU9ZU05hbjZiZ3V3dw?oc=5",
-        "veiculo": "https://hrtoday.in/",
-        "resumo": "",
-        "data": "2026-10-11T03:13:45.000Z",
-        "secao": "fornecedores",
-        "fonte": "Reckitt (global)",
-        "lang": "en",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Reckitt",
-        "dias": 7,
-        "score": 7.525656018518518
-      },
-      {
-        "titulo": "Nestlé (Malaysia) Berhad (4707.KL) stock price, news, quote and history",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNcXZ1bzczdV9sNG1lb0xiRFpLU1VlaXdyZ0lFXzRVY1pXYzhRT2ktUzZyMXJ0VTNabXE2MUtGWV84bE9PYmNpaTNsdFhTX3Y3eUR0QTln?oc=5",
-        "veiculo": "Yahoo Finance Singapore",
-        "resumo": "",
-        "data": "2026-10-10T19:05:02.000Z",
-        "secao": "fornecedores",
-        "fonte": "Nestlé (global)",
-        "lang": "en",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Nestlé",
-        "dias": 7,
-        "score": 7.263078858024691
-      },
-      {
-        "titulo": "Energizer Energy E10 vs LG B525 vs LG GM600 Scarlett 2",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12T3NoZkpnTHAyRHZFbHZubnppS2RDb0p4bnpucW4xMUVOMHFpYnZ3Ql9IWG5meHpDNkhYZDczVFR1cGVKZG16RDIxdkNrWmVtdmF1VzQwblNxZkt5STlSQ012T1FkQQ?oc=5",
-        "veiculo": "TudoCelular.com",
-        "resumo": "",
-        "data": "2026-10-11T02:14:54.000Z",
-        "secao": "fornecedores",
-        "fonte": "Energizer",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Energizer",
-        "dias": 7,
-        "score": 7.253202314814815
+        "score": 5.526898765432099
       },
       {
         "titulo": "Varun Mitra Joins Nestlé as Head – Digital, Data and Analytics – Supply Chain",
@@ -2391,160 +2595,7 @@
         "dedicado": false,
         "empresa": "Haleon",
         "dias": 7,
-        "score": 7.135532561728396
-      },
-      {
-        "titulo": "The Store Brand Cookie Dough Tastes Better Than Pillsbury and Nestlé Toll House, According to Our Taste Test",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObjREWmYxaVp6OUtfcWhVaDNyZHZiUkR4WE50OFZnNzQtWDVmenlITGVveU5QMGhMRnBZY3dxd2JLSnJjMC1EeXVZd2FTTjFKNURTLWhzZGhOV3QyYzNlcGhKOVZMU3NUbm40NDF0UlhiZ3lLWklscU9NRU84ZTBiSXJ3?oc=5",
-        "veiculo": "Allrecipes",
-        "resumo": "",
-        "data": "2026-10-10T17:00:00.000Z",
-        "secao": "fornecedores",
-        "fonte": "Nestlé (global)",
-        "lang": "en",
-        "peso": 3,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Nestlé",
-        "dias": 7,
-        "score": 6.684220833333333
-      },
-      {
-        "titulo": "Suspect arrested in Rs9.3m fraud case",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTR4Y3gtWE00WU9DYkRKT1RRdGcxakpiQmFyTnBNM0RQZFdpYmtIZ2dfQkdJX3k1TTdZaHdvcnU4aUl0ZjF3Q1Bmd1JsYW9idXQtVFIwNDBHaEF6X2lmUkY4YkN2bWlsb19WVEF5LWNONlNsZkNRMDc0dTFtRVZsQ09B0gFWQVVfeXFMUHM2Y200NGh2bTFoZjlmVkFsX0JGcUYxeHhXSVJGT3U2QjV2TXNsQUlJUjRwWjU5WnFacEdXSkM5RmdqRjhmZ0laYXpoWkFqWkZhOUIxd1E?oc=5",
-        "veiculo": "Business Recorder",
-        "resumo": "",
-        "data": "2026-10-10T21:21:50.000Z",
-        "secao": "fornecedores",
-        "fonte": "3M (global)",
-        "lang": "en",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "3M",
-        "dias": 7,
-        "score": 5.896412191358024
-      },
-      {
-        "titulo": "3M Stock Eyes Best Week Since February: Wall Street Sees Multi-Year Growth Story Taking Shape",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0FaRDFsLWJwX210c3MtZElGMDFtNGZNNkZITzhEQmhkenhXQ3ZYeWJLRldlcHhzdkRyUFFHemk4RzJ1eG9xcjAtU1hEY3ZBdDNoZkZrMXdhSUFJQXFMRWVUTUo4alBDUWRRSGRuTVc4Y0lXc3owM3J5T24zRXRIYmhIekt0N2FvNHRkV2hzdEozV0JMclJybWhMbm5XSWhqS1BnY1VaSkc5dVNtRkpVU2VzQXU2bVEyNzQ3V1FaX1A3QnptcjhIWHE5T0lXZ2N5eG1qMFdDektvOFNsbHU5S3pyTmZVRFpvaEtzLVlR?oc=5",
-        "veiculo": "Stocktwits",
-        "resumo": "",
-        "data": "2026-10-10T20:05:08.000Z",
-        "secao": "fornecedores",
-        "fonte": "3M (global)",
-        "lang": "en",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "3M",
-        "dias": 7,
-        "score": 5.5413195987654325
-      },
-      {
-        "titulo": "O que está a acontecer à icónica lata azul? Nivea enfrenta um problema inesperado",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkFPTTJiR1p0Mi1nUTFlSmFtU2ZvNk1sNWFZVzFBMEZHd2NudWlvVld3RlhSR1pfLVZ1d2VTeDZrWUNTQjRmRnZMNEQ3Y2EyTmZoYldVYWQyRzZHQlU2Z3o3emtqcWtWX2hnVXBIaXdrV1BWMVltWmxwTnA4bVJfQi1hRldGTVBrNzdEMHRiVnNEdUU3aFVwRUZIQ1A1dXh2aW9tQldZVEsyeGc?oc=5",
-        "veiculo": "Marketeer",
-        "resumo": "",
-        "data": "2026-10-10T18:02:11.000Z",
-        "secao": "fornecedores",
-        "fonte": "Nivea",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Nivea",
-        "dias": 7,
-        "score": 4.972106635802468
-      },
-      {
-        "titulo": "Bélgica: Anderlecht de Vítor Bruno vence com golo aos 90+3m",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3ZpQ2I2aHo0VVduS3J6dFplYjFvdy1pRDBxdDVGM0ZfdXRMVDhLbWdmWnRjejlRdm9GM1NZZUVxemFFb05SeXAyNnlCTUVsdGw3dVBDMUxVVGZTM0w1QlFPMGVEMUtXOW8wTlBFTEhxYmk1TU54RnpCTEwzemVuRUNuSmM4aV9VWm04V1JBeWREcmRoek1mYnhRS0lBcXpTU1BxbDdBNA?oc=5",
-        "veiculo": "Maisfutebol",
-        "resumo": "",
-        "data": "2026-10-10T17:36:51.000Z",
-        "secao": "fornecedores",
-        "fonte": "3M",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "3M",
-        "dias": 7,
-        "score": 4.8548226851851854
-      },
-      {
-        "titulo": "Cargill começa a produzir no Brasil solução para a alimentação de leitões em fase de creche",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM204eW1oN0ZHQnlPWlZxb29hcmk5Zi1ZVmN6YXpkVWtEWnhzTFVnR2xycEFjSUxSV2RFUjNSaTA2Z2ZSYzVhUlhXODZJaUhPQ281dGRYQ1kwbmM2clA2bVAzeG00REhsbkJpWDBPa3o2dFp2VjM4NDJmckFaamtWT19KQlJXREZRSDlNN240ZjRtbUp1cmdabzY1OGNPMGs4cktzbjF0enU5LXVyMXZ2WGtoMHJHQk0?oc=5",
-        "veiculo": "Feed&Food",
-        "resumo": "",
-        "data": "2026-10-10T15:23:36.000Z",
-        "secao": "fornecedores",
-        "fonte": "Cargill",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Cargill",
-        "dias": 7,
-        "score": 4.237924537037037
-      },
-      {
-        "titulo": "Goldman eleva recomendação da Reckitt com mercados emergentes e novos produtos - Investing.com Brasil",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGxDMTVQSERxZEFBRzdmZnpDNnZMeVFTUHlUUG4xbHhJSVhzS3F3RTJyQ0dqelhJVWd2bUpiRFVmMXItajVOVnJNN3duak9Wb2dpM2trdnhPSWpWWkJZQXhfd2w1QnVPUUd6dU9KeVgteEV4YzlqbTBsRFFSbEkwaTRjZFQybVhrX0Fyb0otc2g1QTZDMDdSNmtfZm9udWtidnoyc0htcmh3M0VEUWtZcVJ6d2kxR3FaQU5zXzM4ekVuZktOdzJlNW5NXzYwdzg?oc=5",
-        "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-        "resumo": "",
-        "data": "2026-10-07T08:48:00.000Z",
-        "secao": "fornecedores",
-        "fonte": "Reckitt",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Reckitt",
-        "dias": 7,
-        "score": 4
-      },
-      {
-        "titulo": "Goldman upgrades Reckitt as emerging markets, new products drive growth",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZnBsemRNRlpnUTlwLWwxUWF0T2RuREtYcHF4blVUZ1dMUEVReGNTZWI2TFhVLXNBbjE1MVNzcjVxaXpOTTB1Q0VYS0Q5WmJQNGpLQTJDVlctS0tNTWNrQUlzMWNNeEp4RThPQ1NEQjMxR09oYzlsQVVuV1JTaUxScEh4bFFuZzdjTlE3S3k3QXRwUGZkcDlGdGZ4UmVDNUVRUk00YXo0dlMtQQ?oc=5",
-        "veiculo": "Yahoo Finance",
-        "resumo": "",
-        "data": "2026-10-07T09:18:43.000Z",
-        "secao": "fornecedores",
-        "fonte": "Reckitt (global)",
-        "lang": "en",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Reckitt",
-        "dias": 7,
-        "score": 4
-      },
-      {
-        "titulo": "Reckitt Benckiser Group advances Tuesday, outperforms market",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0lTamoydDgwTVZXQW9TNGJnZEpnQk9nUFlZM2tQd2VKa1A1el9McElMS3AzZDJPdFJsYUhiODBPLXNtUllPU1ZSS0tCSWZDa1YzWnhHa1ZUQkpYUzh1S0hrcFBqY3pDY0FPRUZ5Wm5yTmE1Wk5NQWpHLWhLdk9FTWI3WDZwY0VnYkdZVXlFNmpOUlRhaGwtTllUcUp5YVBTWVhZdTU1ODZaYmJXd3lQdzBkOEx1MTl2VGNZ?oc=5",
-        "veiculo": "MarketWatch",
-        "resumo": "",
-        "data": "2026-10-06T16:06:00.000Z",
-        "secao": "fornecedores",
-        "fonte": "Reckitt (global)",
-        "lang": "en",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Reckitt",
-        "dias": 7,
-        "score": 4
+        "score": 5.117639506172839
       },
       {
         "titulo": "Bigode chinês? Combine estes 2 produtos da Nivea e suavize as linhas",
@@ -2552,23 +2603,6 @@
         "veiculo": "Folha Vitória",
         "resumo": "",
         "data": "2026-10-08T00:36:56.000Z",
-        "secao": "fornecedores",
-        "fonte": "Nivea",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Nivea",
-        "dias": 7,
-        "score": 4
-      },
-      {
-        "titulo": "Goldman Sachs pessimista com Beiersdorf enquanto Nivea enfrenta concorrência crescente - Investing.com Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVTk1OHo0MjJWNm0tdzNzQUpXNkpON18zdTUyV3VycjJvSVlycnhlOXA3WDRVQVNXYnZfUXAtWFJFSEp2QzBSNWZGcWdxdnR3OGg5d3lPT0w3SlE0cS01UWdEX25jREc2WTNkOUI4eUtBRVZYNEdWRGRQVXVnWWljcnlHeUIzcjBVTW9JWkxuNHYwdnZYUHYtS3ZFSTVCV2dNS1Bpblh2NUxpUVFQRS1EUlJ3NFVBcVQ1cm9lbURTOFNnRnc2Vmx2R3FBUTVXN3dZejNMc2JsMVZQUQ?oc=5",
-        "veiculo": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-        "resumo": "",
-        "data": "2026-10-06T09:09:00.000Z",
         "secao": "fornecedores",
         "fonte": "Nivea",
         "lang": "pt",
@@ -2603,40 +2637,6 @@
         "veiculo": "Sala da Notícia",
         "resumo": "",
         "data": "2026-10-05T13:44:54.000Z",
-        "secao": "fornecedores",
-        "fonte": "Gomes da Costa",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Gomes da Costa",
-        "dias": 7,
-        "score": 4
-      },
-      {
-        "titulo": "Resultado das eleições 2026 em São Vicente Ferrer (MA): votação para presidente no U e Raimundo Gomes da Costa, na 63ª zona eleitoral",
-        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPT0lzd1ZibVZlUjF2TXNfcUNlWXZndzVEcWx6WVdKRjNEQ04tcjhQVl9HU1lVRERrblU4UjJBYW9HbWNZYmhYWGVsZnY3T1dYLUJuQVd5REQ3WXNpOGxDUENYUDdGMVlhYVl4bS1LdDhiMDBKaDBiVkF1WXF1U1lsX3k0Wm5ka2RGa2s4Tm5sWnEwX1N1YmRUN0g0OENEYkhEdjZBSjVkTE03ZzR4YkFPZzJtWFZNaHNjVTc2UHJWZENCTUxBVWdNWWl4dVV0YUJxcEFlU2NuOG1aSE94TURoQjdQdmI5Z01YNkZnUUdPOV9kNTFsLTl1ck5vX0hIWkRvZURyYTBJTEExaUc1TXJDNzFidTQ3RENTSzVIQjdrV19VRDNsVDBHMtIBtwJBVV95cUxNNE5MQjdfaDhEVEgwYnMzRTZuNk1TdEM0NjNkdlhzN0s2LXliQjRGOHZzeW9QU0FLSmh6azNLR2ZhYlZRYzlHUHJxcXhwZERHWXlxcllfUlZqTDBNSEx6UnJsMFZBUExpTllIbC1uNFRVdnhwQk1pMEhTZ09NczhUMjRhYjZGMm15UEtwMnlYRjRwdUVwb3l1am5QLUV2RFk3Rk4ta2Z0Y01HTVBFV0Itb2VjbllHWFZZTDdBTWl4VG5KWGtWVTZ3NUZHZzFQazlaNS1nWHk1eU9UZmZaN21JRmFteTc1bkZCVDdpZ3lDVHg2ZnY0cnJaRWpzMXpfcmU5MG5mMmpUUFVrZndBWnZ2bjc5b3l0SkpySGxMRVlkalprRUtaR1ZLcHhtaUxPTzE1MVc4V04zNA?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-06T07:27:08.000Z",
-        "secao": "fornecedores",
-        "fonte": "Gomes da Costa",
-        "lang": "pt",
-        "peso": 2,
-        "setorista": false,
-        "destaque": false,
-        "dedicado": false,
-        "empresa": "Gomes da Costa",
-        "dias": 7,
-        "score": 4
-      },
-      {
-        "titulo": "Resultado das eleições 2026 em Ipixuna do Pará (PA): votação para presidente no Emef Clidenor Gomes da Costa, na 49ª zona eleitoral",
-        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNbkNIaVVqTW1kd3JFMUhzckxEU010Tmw4ejRBMzhFWGI1RjF1MVpvcXhFWHBkVnQyM2luTkN6OWxieWx0OTc5WGdGOEozV3IwbU5La1FiYjhVdTNfLWZyRVlEYjc5NnpFOENzME9nRWtydFFJd1Nuc1BucWFPZmtmc3I1VmlRdlBsT2xZR3JfRnpUQ2xhRXYtR2pjQXlRT1ZyTENzbmpxdDN3R1p4QXFpcWlfMzA5b0kzbDl0d2V4bXliSWdJNWNJSnVIdnVoUmppOHl2TGNEWW5SdEQtaG9vS2JNb3EzLVFrWGxla1BuY2doZGk5M2wzYXgyQkVLeWw4V0hma1RzRF9aaENmWFNDb3dONHhHbUdVbHlLRkNOckLSAa8CQVVfeXFMUDlZdGhxMFE3dFk5MG5XMG96R2FTalpZcnhWa3ZHSy1La0o1TGJxZ1dtVUVvZ05aVFdodS1xalQzOTZjN3NkWndPX0VOS2FJemZvcno3d3FqQWtuMlh1aGNCTzJQYVJnaFJDMjZCajhramRmejl0QVJJTjl0aS1fbGVycjVkNlBJd3NnWThhTXZ4UkpET2huc19rNFR6SlJkWC1JU2VwenVwcm1hOW8yLXkyUWpadlFqdXpWSEhDVU1tckwzNTRxNEZwUnV3WFhHVU1IQWlNd1YwNHJOY0QtbG01cjR2Z3F1MC1Sd1V0Y2pZcjhXQjBpbjJDQjlLd1Nnb0VMeGJnWTZUMW4zQ1NMWUhJSWI4UkF1U05GVGN5UlEzazVreXljOW9WOXE4dEs4?oc=5",
-        "veiculo": "G1",
-        "resumo": "",
-        "data": "2026-10-06T05:14:44.000Z",
         "secao": "fornecedores",
         "fonte": "Gomes da Costa",
         "lang": "pt",
